@@ -1,0 +1,24 @@
+# Model weights & compiled models — too big for git
+*.safetensors
+*.gguf
+*.bin
+*.npz
+*.mlpackage/
+*.mlmodelc/
+*.aimodel
+*.aimodelc
+models/
+
+# Python
+__pycache__/
+.venv/
+.ipynb_checkpoints/
+
+# Xcode
+DerivedData/
+xcuserdata/
+*.xcuserstate
+
+# Local-only
+.claude/settings.local.json
+.DS_Store
