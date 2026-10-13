@@ -1,0 +1,80 @@
+Fetching 2 files:   0%|          | 0/2 [00:00<?, ?it/s]Fetching 2 files: 100%|██████████| 2/2 [00:00<00:00, 33288.13it/s]
+Fetching 3 files:   0%|          | 0/3 [00:00<?, ?it/s]Fetching 3 files: 100%|██████████| 3/3 [00:00<00:00, 9761.76it/s]
+Fetching 3 files:   0%|          | 0/3 [00:00<?, ?it/s]Fetching 3 files: 100%|██████████| 3/3 [00:00<00:00, 60205.32it/s]
+Fetching 4 files:   0%|          | 0/4 [00:00<?, ?it/s]Fetching 4 files: 100%|██████████| 4/4 [00:00<00:00, 8639.14it/s]
+Fetching 3 files:   0%|          | 0/3 [00:00<?, ?it/s]Fetching 3 files: 100%|██████████| 3/3 [00:00<00:00, 45425.68it/s]
+Fetching 9 files:   0%|          | 0/9 [00:00<?, ?it/s]Fetching 9 files: 100%|██████████| 9/9 [00:00<00:00, 152828.89it/s]
+  gen eval_base 32/914  peak 6.9 GB
+  gen eval_base 352/914  peak 7.9 GB
+  gen eval_base 665/914  peak 13.4 GB
+base {'gsm8k': 0.88, 'humaneval': 0.774, 'notes': 0.575, 'drop': 0.613}
+Fetching 9 files:   0%|          | 0/9 [00:00<?, ?it/s]Fetching 9 files: 100%|██████████| 9/9 [00:00<00:00, 34223.70it/s]
+  gen eval_math 32/914  peak 13.4 GB
+  gen eval_math 352/914  peak 13.4 GB
+  gen eval_math 665/914  peak 13.4 GB
+math {'gsm8k': 0.88, 'humaneval': 0.793, 'notes': 0.66, 'drop': 0.65}
+Fetching 9 files:   0%|          | 0/9 [00:00<?, ?it/s]Fetching 9 files: 100%|██████████| 9/9 [00:00<00:00, 163414.44it/s]
+  gen eval_code 32/914  peak 13.5 GB
+  gen eval_code 352/914  peak 13.5 GB
+  gen eval_code 665/914  peak 13.5 GB
+code {'gsm8k': 0.888, 'humaneval': 0.762, 'notes': 0.58, 'drop': 0.6}
+Fetching 9 files:   0%|          | 0/9 [00:00<?, ?it/s]Fetching 9 files: 100%|██████████| 9/9 [00:00<00:00, 69775.85it/s]
+  gen eval_notes 32/914  peak 13.5 GB
+  gen eval_notes 352/914  peak 13.5 GB
+  gen eval_notes 665/914  peak 13.5 GB
+notes {'gsm8k': 0.888, 'humaneval': 0.78, 'notes': 0.69, 'drop': 0.663}
+Fetching 9 files:   0%|          | 0/9 [00:00<?, ?it/s]Fetching 9 files: 100%|██████████| 9/9 [00:00<00:00, 83330.54it/s]
+  gen eval_multi-r8 32/914  peak 13.5 GB
+  gen eval_multi-r8 352/914  peak 13.5 GB
+  gen eval_multi-r8 665/914  peak 13.5 GB
+multi-r8 {'gsm8k': 0.864, 'humaneval': 0.805, 'notes': 0.67, 'drop': 0.66}
+Fetching 2 files:   0%|          | 0/2 [00:00<?, ?it/s]Fetching 2 files: 100%|██████████| 2/2 [00:00<00:00, 27776.85it/s]
+Fetching 3 files:   0%|          | 0/3 [00:00<?, ?it/s]Fetching 3 files: 100%|██████████| 3/3 [00:00<00:00, 149796.57it/s]
+Fetching 3 files:   0%|          | 0/3 [00:00<?, ?it/s]Fetching 3 files: 100%|██████████| 3/3 [00:00<00:00, 59918.63it/s]
+Fetching 4 files:   0%|          | 0/4 [00:00<?, ?it/s]Fetching 4 files: 100%|██████████| 4/4 [00:00<00:00, 97541.95it/s]
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/103 [00:00<?, ?it/s]Loading weights: 100%|██████████| 103/103 [00:00<00:00, 8709.42it/s]
+| config | GSM8K | HumanEval | notes EM | DROP EM | DROP F1 |
+|---|---|---|---|---|---|
+| base | 88.0% | 77.4% | 57.5% | 61.3% | 69.1% |
+| math | 88.0% | 79.3% | 66.0% | 65.0% | 70.3% |
+| code | 88.8% | 76.2% | 58.0% | 60.0% | 67.2% |
+| notes | 88.8% | 78.0% | 69.0% | 66.3% | 72.1% |
+| multi-r8 | 86.4% | 80.5% | 67.0% | 66.0% | 71.6% |
+| oracle | 88.0% | 76.2% | 69.0% | 66.3% | 72.1% |
+| routed | 88.0% | 76.2% | 69.0% | 64.0% | 69.6% |
+router accuracy: {'gsm8k': '100.0%', 'humaneval': '99.4%', 'notes': '100.0%', 'drop': '73.0%'} | adapter MB: {'math': 66.1, 'code': 66.1, 'notes': 66.1, 'multi-r8': 66.1, 'multi-r24': 198.2}
+training multi-r24 (rank 24, 900 iters)…
+Fetching 2 files:   0%|          | 0/2 [00:00<?, ?it/s]Fetching 2 files: 100%|██████████| 2/2 [00:00<00:00, 48770.98it/s]
+Fetching 3 files:   0%|          | 0/3 [00:00<?, ?it/s]Fetching 3 files: 100%|██████████| 3/3 [00:00<00:00, 55676.60it/s]
+Fetching 3 files:   0%|          | 0/3 [00:00<?, ?it/s]Fetching 3 files: 100%|██████████| 3/3 [00:00<00:00, 58798.65it/s]
+Fetching 4 files:   0%|          | 0/4 [00:00<?, ?it/s]Fetching 4 files: 100%|██████████| 4/4 [00:00<00:00, 54648.91it/s]
+Fetching 3 files:   0%|          | 0/3 [00:00<?, ?it/s]Fetching 3 files: 100%|██████████| 3/3 [00:00<00:00, 43539.49it/s]
+Fetching 9 files:   0%|          | 0/9 [00:00<?, ?it/s]Fetching 9 files: 100%|██████████| 9/9 [00:00<00:00, 112347.43it/s]
+  gen eval_multi-r24 32/914  peak 7.3 GB
+  gen eval_multi-r24 352/914  peak 8.6 GB
+  gen eval_multi-r24 665/914  peak 13.6 GB
+multi-r24 {'gsm8k': 0.884, 'humaneval': 0.78, 'notes': 0.675, 'drop': 0.643}
+Fetching 2 files:   0%|          | 0/2 [00:00<?, ?it/s]Fetching 2 files: 100%|██████████| 2/2 [00:00<00:00, 8232.20it/s]
+Fetching 3 files:   0%|          | 0/3 [00:00<?, ?it/s]Fetching 3 files: 100%|██████████| 3/3 [00:00<00:00, 40072.97it/s]
+Fetching 3 files:   0%|          | 0/3 [00:00<?, ?it/s]Fetching 3 files: 100%|██████████| 3/3 [00:00<00:00, 51781.53it/s]
+Fetching 4 files:   0%|          | 0/4 [00:00<?, ?it/s]Fetching 4 files: 100%|██████████| 4/4 [00:00<00:00, 13464.86it/s]
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/103 [00:00<?, ?it/s]Loading weights: 100%|██████████| 103/103 [00:00<00:00, 8795.24it/s]
+| config | GSM8K | HumanEval | notes EM | DROP EM | DROP F1 |
+|---|---|---|---|---|---|
+| base | 88.0% | 77.4% | 57.5% | 61.3% | 69.1% |
+| math | 88.0% | 79.3% | 66.0% | 65.0% | 70.3% |
+| code | 88.8% | 76.2% | 58.0% | 60.0% | 67.2% |
+| notes | 88.8% | 78.0% | 69.0% | 66.3% | 72.1% |
+| multi-r8 | 86.4% | 80.5% | 67.0% | 66.0% | 71.6% |
+| multi-r24 | 88.4% | 78.0% | 67.5% | 64.3% | 70.7% |
+| oracle | 88.0% | 76.2% | 69.0% | 66.3% | 72.1% |
+| routed | 88.0% | 76.2% | 69.0% | 64.0% | 69.6% |
+router accuracy: {'gsm8k': '100.0%', 'humaneval': '99.4%', 'notes': '100.0%', 'drop': '73.0%'} | adapter MB: {'math': 66.1, 'code': 66.1, 'notes': 66.1, 'multi-r8': 66.1, 'multi-r24': 198.2}
+oracle - base           gsm8k +0.0 [-3.2,+3.2]  humaneval -1.2 [-6.7,+4.3]  notes +11.5 [+5.5,+17.5]*  drop +5.0 [+0.3,+9.7]*
+routed - base           gsm8k +0.0 [-2.8,+2.8]  humaneval -1.2 [-6.7,+4.3]  notes +11.5 [+5.5,+18.0]*  drop +2.7 [-2.0,+7.3]
+oracle - multi-r8       gsm8k +1.6 [-1.2,+4.8]  humaneval -4.3 [-10.4,+1.2]  notes +2.0 [-4.0,+8.0]  drop +0.3 [-4.0,+4.7]
+routed - multi-r8       gsm8k +1.6 [-1.2,+4.4]  humaneval -4.3 [-10.4,+1.8]  notes +2.0 [-4.0,+8.0]  drop -2.0 [-6.7,+2.3]
+oracle - multi-r24      gsm8k -0.4 [-2.8,+2.0]  humaneval -1.8 [-7.9,+4.3]  notes +1.5 [-5.0,+8.0]  drop +2.0 [-2.3,+6.3]
+routed - multi-r24      gsm8k -0.4 [-2.8,+2.0]  humaneval -1.8 [-7.9,+4.3]  notes +1.5 [-5.0,+8.0]  drop -0.3 [-4.3,+3.7]
