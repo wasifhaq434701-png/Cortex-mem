@@ -43,5 +43,75 @@
   "code_ppl": 3.874606803880149,
   "n_code": 124,
   "minutes": 32.00986324946086
+ },
+ "Qwen3-30B-A3B-4bit|task-K64|screen50": {
+  "ram_gb": 9.020895232,
+  "gsm8k_acc": 0.2,
+  "n_gsm8k": 50,
+  "code_nll": 0.7394248849276839,
+  "code_ppl": 2.094730456945971,
+  "n_code": 124,
+  "adapter": null,
+  "minutes": 12.467821248372395
+ },
+ "Qwen3-30B-A3B-4bit|task-K64-drop|screen50": {
+  "ram_gb": 9.020895232,
+  "gsm8k_acc": 0.08,
+  "n_gsm8k": 50,
+  "code_nll": 0.7948812384769834,
+  "code_ppl": 2.2141780220346146,
+  "n_code": 124,
+  "adapter": null,
+  "minutes": 13.440865834554037
+ },
+ "Qwen3-30B-A3B-4bit|task-K48-drop|screen50": {
+  "ram_gb": 6.982463488,
+  "gsm8k_acc": 0.02,
+  "n_gsm8k": 50,
+  "code_nll": 1.2199948225350215,
+  "code_ppl": 3.3871701966208665,
+  "n_code": 124,
+  "adapter": null,
+  "minutes": 13.171246401468913
+ },
+ "Qwen3-30B-A3B-4bit|task-K32-drop|screen50": {
+  "ram_gb": 4.944031744,
+  "gsm8k_acc": 0.0,
+  "n_gsm8k": 50,
+  "code_nll": 1.3753929901123048,
+  "code_ppl": 3.9566313344195576,
+  "n_code": 124,
+  "adapter": null,
+  "minutes": 22.265624686082205
+ },
+ "Qwen3-30B-A3B-4bit|task-A32|screen50": {
+  "ram_gb": 4.944031744,
+  "gsm8k_acc": 0.04,
+  "n_gsm8k": 50,
+  "code_nll": 2.0300231973056135,
+  "code_ppl": 7.61426298711685,
+  "n_code": 124,
+  "adapter": null,
+  "minutes": 19.538693233331045
+ },
+ "Qwen3-30B-A3B-4bit|task-A32-drop|screen50": {
+  "ram_gb": 4.944031744,
+  "gsm8k_acc": 0.02,
+  "n_gsm8k": 50,
+  "code_nll": 1.9684152048045191,
+  "code_ppl": 7.159321434793282,
+  "n_code": 124,
+  "adapter": null,
+  "minutes": 12.580531219641367
+ },
+ "Qwen3-30B-A3B-4bit|task-A48-drop|screen50": {
+  "ram_gb": 6.982463488,
+  "gsm8k_acc": 0.02,
+  "n_gsm8k": 50,
+  "code_nll": 1.4256861714330213,
+  "code_ppl": 4.160711825078862,
+  "n_code": 124,
+  "adapter": null,
+  "minutes": 18.56142596801122
  }
 }

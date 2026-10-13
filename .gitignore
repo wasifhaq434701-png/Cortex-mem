@@ -22,3 +22,6 @@ xcuserdata/
 # Local-only
 .claude/settings.local.json
 .DS_Store
+
+# LoRA adapters (weights live in *.safetensors, configs are tiny but per-run)
+adapters/
