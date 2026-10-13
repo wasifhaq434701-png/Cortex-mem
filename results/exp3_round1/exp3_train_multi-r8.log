@@ -1,0 +1,244 @@
+Loading configuration file /Users/mohammedwasifulhaq/Projects/PhoneAI/results/exp3_train_multi-r8.yaml
+Loading pretrained model
+Fetching 9 files:   0%|                                  | 0/9 [00:00<?, ?it/s]Fetching 9 files: 100%|███████████████████████| 9/9 [00:00<00:00, 35985.45it/s]
+Loading datasets
+Training
+Trainable parameters: 0.411% (16.515M/4022.468M)
+Starting training..., iters: 1800
+[WARNING] Some sequences are longer than 1024 tokens. The longest sentence 1204 will be truncated to 1024. Consider pre-splitting your data to save memory.
+Calculating loss...: 0it [00:00, ?it/s]Calculating loss...: 1it [00:00,  1.41it/s]Calculating loss...: 2it [00:02,  1.33s/it]Calculating loss...: 3it [00:08,  3.49s/it]Calculating loss...: 4it [00:09,  2.55s/it]Calculating loss...: 5it [00:11,  2.22s/it]Calculating loss...: 6it [00:12,  1.96s/it]Calculating loss...: 7it [00:13,  1.68s/it]Calculating loss...: 8it [00:14,  1.49s/it]Calculating loss...: 9it [00:16,  1.42s/it]Calculating loss...: 10it [00:17,  1.38s/it]Calculating loss...: 11it [00:18,  1.35s/it]Calculating loss...: 12it [00:21,  1.67s/it]Calculating loss...: 13it [00:23,  1.83s/it]Calculating loss...: 14it [00:24,  1.61s/it]Calculating loss...: 15it [00:26,  1.68s/it]Calculating loss...: 16it [00:27,  1.61s/it]Calculating loss...: 17it [00:30,  2.08s/it]Calculating loss...: 18it [00:32,  1.90s/it]Calculating loss...: 19it [00:33,  1.66s/it]Calculating loss...: 20it [00:34,  1.54s/it]Calculating loss...: 21it [00:36,  1.63s/it]Calculating loss...: 22it [00:37,  1.41s/it]Calculating loss...: 23it [00:38,  1.32s/it]Calculating loss...: 24it [00:41,  1.82s/it]Calculating loss...: 25it [00:44,  2.06s/it]Calculating loss...: 26it [00:45,  1.77s/it]Calculating loss...: 27it [00:47,  1.85s/it]Calculating loss...: 28it [00:48,  1.68s/it]Calculating loss...: 29it [00:50,  1.67s/it]Calculating loss...: 30it [00:52,  1.84s/it]Calculating loss...: 31it [00:53,  1.73s/it]Calculating loss...: 32it [00:56,  1.93s/it]Calculating loss...: 33it [00:58,  1.85s/it]Calculating loss...: 34it [00:59,  1.63s/it]Calculating loss...: 35it [01:00,  1.58s/it]Calculating loss...: 36it [01:04,  2.24s/it]Calculating loss...: 37it [01:06,  2.12s/it]Calculating loss...: 37it [01:06,  1.79s/it]
+Iter 1: Val loss 3.316, Val took 66.280s
+Iter 10: Train loss 1.033, Learning Rate 1.000e-04, It/sec 0.127, Tokens/sec 31.238, Trained Tokens 2453, Peak mem 8.414 GB
+Iter 20: Train loss 0.626, Learning Rate 1.000e-04, It/sec 0.195, Tokens/sec 46.947, Trained Tokens 4859, Peak mem 8.414 GB
+Iter 30: Train loss 0.653, Learning Rate 1.000e-04, It/sec 0.184, Tokens/sec 46.459, Trained Tokens 7387, Peak mem 8.414 GB
+[WARNING] Some sequences are longer than 1024 tokens. The longest sentence 1089 will be truncated to 1024. Consider pre-splitting your data to save memory.
+Iter 40: Train loss 0.656, Learning Rate 1.000e-04, It/sec 0.120, Tokens/sec 24.447, Trained Tokens 9426, Peak mem 8.547 GB
+Iter 50: Train loss 0.624, Learning Rate 1.000e-04, It/sec 0.170, Tokens/sec 45.464, Trained Tokens 12108, Peak mem 8.547 GB
+Iter 60: Train loss 0.645, Learning Rate 1.000e-04, It/sec 0.192, Tokens/sec 45.764, Trained Tokens 14491, Peak mem 8.547 GB
+Iter 70: Train loss 0.578, Learning Rate 1.000e-04, It/sec 0.194, Tokens/sec 47.756, Trained Tokens 16947, Peak mem 8.547 GB
+[WARNING] Some sequences are longer than 1024 tokens. The longest sentence 1203 will be truncated to 1024. Consider pre-splitting your data to save memory.
+Iter 80: Train loss 0.543, Learning Rate 1.000e-04, It/sec 0.174, Tokens/sec 36.887, Trained Tokens 19064, Peak mem 8.547 GB
+[WARNING] Some sequences are longer than 1024 tokens. The longest sentence 1378 will be truncated to 1024. Consider pre-splitting your data to save memory.
+Iter 90: Train loss 0.644, Learning Rate 1.000e-04, It/sec 0.163, Tokens/sec 29.958, Trained Tokens 20902, Peak mem 8.547 GB
+Iter 100: Train loss 0.496, Learning Rate 1.000e-04, It/sec 0.238, Tokens/sec 71.746, Trained Tokens 23914, Peak mem 8.547 GB
+Iter 100: Saved adapter weights to /Users/mohammedwasifulhaq/Projects/PhoneAI/adapters/exp3/multi-r8/adapters.safetensors and /Users/mohammedwasifulhaq/Projects/PhoneAI/adapters/exp3/multi-r8/0000100_adapters.safetensors.
+Iter 110: Train loss 0.614, Learning Rate 1.000e-04, It/sec 0.161, Tokens/sec 42.812, Trained Tokens 26569, Peak mem 8.547 GB
+Iter 120: Train loss 0.509, Learning Rate 1.000e-04, It/sec 0.154, Tokens/sec 34.304, Trained Tokens 28797, Peak mem 8.547 GB
+Iter 130: Train loss 0.468, Learning Rate 1.000e-04, It/sec 0.201, Tokens/sec 43.970, Trained Tokens 30985, Peak mem 8.547 GB
+[WARNING] Some sequences are longer than 1024 tokens. The longest sentence 1643 will be truncated to 1024. Consider pre-splitting your data to save memory.
+Iter 140: Train loss 0.483, Learning Rate 1.000e-04, It/sec 0.134, Tokens/sec 34.182, Trained Tokens 33540, Peak mem 8.613 GB
+Iter 150: Train loss 0.477, Learning Rate 1.000e-04, It/sec 0.182, Tokens/sec 45.989, Trained Tokens 36067, Peak mem 8.613 GB
+Iter 160: Train loss 0.593, Learning Rate 1.000e-04, It/sec 0.161, Tokens/sec 51.662, Trained Tokens 39266, Peak mem 8.613 GB
+Iter 170: Train loss 0.515, Learning Rate 1.000e-04, It/sec 0.187, Tokens/sec 48.143, Trained Tokens 41839, Peak mem 8.613 GB
+Iter 180: Train loss 0.533, Learning Rate 1.000e-04, It/sec 0.144, Tokens/sec 39.137, Trained Tokens 44565, Peak mem 8.613 GB
+[WARNING] Some sequences are longer than 1024 tokens. The longest sentence 4151 will be truncated to 1024. Consider pre-splitting your data to save memory.
+Iter 190: Train loss 0.521, Learning Rate 1.000e-04, It/sec 0.124, Tokens/sec 32.327, Trained Tokens 47167, Peak mem 8.613 GB
+Calculating loss...: 0it [00:00, ?it/s]Calculating loss...: 1it [00:01,  1.13s/it]Calculating loss...: 2it [00:02,  1.36s/it]Calculating loss...: 3it [00:05,  2.13s/it]Calculating loss...: 4it [00:06,  1.73s/it]Calculating loss...: 5it [00:08,  1.65s/it]Calculating loss...: 6it [00:09,  1.60s/it]Calculating loss...: 7it [00:10,  1.44s/it]Calculating loss...: 8it [00:12,  1.34s/it]Calculating loss...: 9it [00:12,  1.21s/it]Calculating loss...: 10it [00:15,  1.66s/it]Calculating loss...: 11it [00:17,  1.73s/it]Calculating loss...: 12it [00:18,  1.60s/it]Calculating loss...: 13it [00:20,  1.57s/it]Calculating loss...: 14it [00:21,  1.44s/it]Calculating loss...: 15it [00:22,  1.40s/it]Calculating loss...: 16it [00:24,  1.49s/it]Calculating loss...: 17it [00:25,  1.43s/it]Calculating loss...: 18it [00:29,  2.16s/it]Calculating loss...: 19it [00:31,  2.08s/it]Calculating loss...: 20it [00:33,  2.02s/it]Calculating loss...: 21it [00:35,  2.10s/it]Calculating loss...: 22it [00:37,  2.15s/it]Calculating loss...: 23it [00:39,  1.90s/it]Calculating loss...: 24it [00:41,  2.13s/it]Calculating loss...: 25it [00:43,  1.89s/it]Calculating loss...: 26it [00:44,  1.77s/it]Calculating loss...: 27it [00:47,  1.98s/it]Calculating loss...: 28it [00:50,  2.37s/it]Calculating loss...: 29it [00:52,  2.17s/it]Calculating loss...: 30it [00:54,  2.15s/it]Calculating loss...: 31it [00:55,  1.84s/it]Calculating loss...: 32it [00:56,  1.63s/it]Calculating loss...: 33it [00:59,  1.89s/it]Calculating loss...: 34it [01:00,  1.66s/it]Calculating loss...: 35it [01:01,  1.50s/it]Calculating loss...: 36it [01:07,  2.97s/it]Calculating loss...: 37it [01:09,  2.59s/it]Calculating loss...: 37it [01:09,  1.88s/it]
+Iter 200: Val loss 0.542, Val took 69.404s
+Iter 200: Train loss 0.472, Learning Rate 1.000e-04, It/sec 0.198, Tokens/sec 49.318, Trained Tokens 49654, Peak mem 8.613 GB
+Iter 200: Saved adapter weights to /Users/mohammedwasifulhaq/Projects/PhoneAI/adapters/exp3/multi-r8/adapters.safetensors and /Users/mohammedwasifulhaq/Projects/PhoneAI/adapters/exp3/multi-r8/0000200_adapters.safetensors.
+Iter 210: Train loss 0.415, Learning Rate 1.000e-04, It/sec 0.171, Tokens/sec 46.051, Trained Tokens 52347, Peak mem 8.613 GB
+Iter 220: Train loss 0.489, Learning Rate 1.000e-04, It/sec 0.159, Tokens/sec 50.672, Trained Tokens 55542, Peak mem 8.613 GB
+Iter 230: Train loss 0.507, Learning Rate 1.000e-04, It/sec 0.135, Tokens/sec 31.382, Trained Tokens 57874, Peak mem 8.613 GB
+Iter 240: Train loss 0.515, Learning Rate 1.000e-04, It/sec 0.172, Tokens/sec 44.494, Trained Tokens 60462, Peak mem 8.613 GB
+[WARNING] Some sequences are longer than 1024 tokens. The longest sentence 1050 will be truncated to 1024. Consider pre-splitting your data to save memory.
+Iter 250: Train loss 0.410, Learning Rate 1.000e-04, It/sec 0.151, Tokens/sec 37.474, Trained Tokens 62940, Peak mem 8.613 GB
+Iter 260: Train loss 0.568, Learning Rate 1.000e-04, It/sec 0.209, Tokens/sec 56.792, Trained Tokens 65655, Peak mem 8.613 GB
+Iter 270: Train loss 0.433, Learning Rate 1.000e-04, It/sec 0.154, Tokens/sec 34.658, Trained Tokens 67903, Peak mem 8.613 GB
+Iter 280: Train loss 0.472, Learning Rate 1.000e-04, It/sec 0.206, Tokens/sec 51.990, Trained Tokens 70423, Peak mem 8.613 GB
+Iter 290: Train loss 0.391, Learning Rate 1.000e-04, It/sec 0.183, Tokens/sec 48.860, Trained Tokens 73087, Peak mem 8.613 GB
+Iter 300: Train loss 0.480, Learning Rate 1.000e-04, It/sec 0.170, Tokens/sec 38.471, Trained Tokens 75348, Peak mem 8.613 GB
+Iter 300: Saved adapter weights to /Users/mohammedwasifulhaq/Projects/PhoneAI/adapters/exp3/multi-r8/adapters.safetensors and /Users/mohammedwasifulhaq/Projects/PhoneAI/adapters/exp3/multi-r8/0000300_adapters.safetensors.
+Iter 310: Train loss 0.447, Learning Rate 1.000e-04, It/sec 0.147, Tokens/sec 38.825, Trained Tokens 77988, Peak mem 8.613 GB
+Iter 320: Train loss 0.356, Learning Rate 1.000e-04, It/sec 0.131, Tokens/sec 22.349, Trained Tokens 79688, Peak mem 8.613 GB
+Iter 330: Train loss 0.497, Learning Rate 1.000e-04, It/sec 0.170, Tokens/sec 52.439, Trained Tokens 82764, Peak mem 8.613 GB
+Iter 340: Train loss 0.528, Learning Rate 1.000e-04, It/sec 0.160, Tokens/sec 43.189, Trained Tokens 85461, Peak mem 8.613 GB
+Iter 350: Train loss 0.518, Learning Rate 1.000e-04, It/sec 0.177, Tokens/sec 52.608, Trained Tokens 88432, Peak mem 8.613 GB
+Iter 360: Train loss 0.488, Learning Rate 1.000e-04, It/sec 0.178, Tokens/sec 37.871, Trained Tokens 90558, Peak mem 8.613 GB
+Iter 370: Train loss 0.491, Learning Rate 1.000e-04, It/sec 0.124, Tokens/sec 34.554, Trained Tokens 93345, Peak mem 8.613 GB
+Iter 380: Train loss 0.415, Learning Rate 1.000e-04, It/sec 0.193, Tokens/sec 43.988, Trained Tokens 95619, Peak mem 8.613 GB
+Iter 390: Train loss 0.360, Learning Rate 1.000e-04, It/sec 0.151, Tokens/sec 29.052, Trained Tokens 97547, Peak mem 8.613 GB
+Calculating loss...: 0it [00:00, ?it/s]Calculating loss...: 1it [00:02,  2.52s/it]Calculating loss...: 2it [00:03,  1.71s/it]Calculating loss...: 3it [00:04,  1.53s/it]Calculating loss...: 4it [00:06,  1.37s/it]Calculating loss...: 5it [00:09,  2.06s/it]Calculating loss...: 6it [00:11,  2.07s/it]Calculating loss...: 7it [00:12,  1.76s/it]Calculating loss...: 8it [00:14,  1.81s/it]Calculating loss...: 9it [00:16,  1.78s/it]Calculating loss...: 10it [00:17,  1.75s/it]Calculating loss...: 11it [00:19,  1.62s/it]Calculating loss...: 12it [00:20,  1.59s/it]Calculating loss...: 13it [00:22,  1.57s/it]Calculating loss...: 14it [00:24,  1.79s/it]Calculating loss...: 15it [00:26,  1.76s/it]Calculating loss...: 16it [00:27,  1.51s/it]Calculating loss...: 17it [00:29,  1.63s/it]Calculating loss...: 18it [00:30,  1.49s/it]Calculating loss...: 19it [00:31,  1.38s/it]Calculating loss...: 20it [00:32,  1.31s/it]Calculating loss...: 21it [00:33,  1.31s/it]Calculating loss...: 22it [00:35,  1.37s/it]Calculating loss...: 23it [00:36,  1.42s/it]Calculating loss...: 24it [00:38,  1.33s/it]Calculating loss...: 25it [00:39,  1.39s/it]Calculating loss...: 26it [00:42,  1.72s/it]Calculating loss...: 27it [00:44,  1.89s/it]Calculating loss...: 28it [00:46,  1.90s/it]Calculating loss...: 29it [00:48,  2.14s/it]Calculating loss...: 30it [00:55,  3.41s/it]Calculating loss...: 31it [00:58,  3.32s/it]Calculating loss...: 32it [01:01,  3.13s/it]Calculating loss...: 33it [01:02,  2.59s/it]Calculating loss...: 34it [01:03,  2.16s/it]Calculating loss...: 35it [01:04,  1.91s/it]Calculating loss...: 36it [01:06,  1.68s/it]Calculating loss...: 37it [01:09,  2.35s/it]Calculating loss...: 37it [01:09,  1.89s/it]
+Iter 400: Val loss 0.538, Val took 69.990s
+Iter 400: Train loss 0.481, Learning Rate 1.000e-04, It/sec 0.178, Tokens/sec 44.000, Trained Tokens 100015, Peak mem 8.613 GB
+Iter 400: Saved adapter weights to /Users/mohammedwasifulhaq/Projects/PhoneAI/adapters/exp3/multi-r8/adapters.safetensors and /Users/mohammedwasifulhaq/Projects/PhoneAI/adapters/exp3/multi-r8/0000400_adapters.safetensors.
+Iter 410: Train loss 0.457, Learning Rate 1.000e-04, It/sec 0.168, Tokens/sec 48.801, Trained Tokens 102920, Peak mem 8.613 GB
+[WARNING] Some sequences are longer than 1024 tokens. The longest sentence 1058 will be truncated to 1024. Consider pre-splitting your data to save memory.
+Iter 420: Train loss 0.343, Learning Rate 1.000e-04, It/sec 0.115, Tokens/sec 29.516, Trained Tokens 105482, Peak mem 8.613 GB
+Iter 430: Train loss 0.525, Learning Rate 1.000e-04, It/sec 0.167, Tokens/sec 45.804, Trained Tokens 108218, Peak mem 8.613 GB
+Iter 440: Train loss 0.533, Learning Rate 1.000e-04, It/sec 0.202, Tokens/sec 67.731, Trained Tokens 111565, Peak mem 8.613 GB
+[WARNING] Some sequences are longer than 1024 tokens. The longest sentence 1194 will be truncated to 1024. Consider pre-splitting your data to save memory.
+Iter 450: Train loss 0.388, Learning Rate 1.000e-04, It/sec 0.126, Tokens/sec 30.290, Trained Tokens 113967, Peak mem 8.613 GB
+Iter 460: Train loss 0.424, Learning Rate 1.000e-04, It/sec 0.179, Tokens/sec 41.711, Trained Tokens 116303, Peak mem 8.613 GB
+Iter 470: Train loss 0.519, Learning Rate 1.000e-04, It/sec 0.176, Tokens/sec 50.914, Trained Tokens 119196, Peak mem 8.613 GB
+Iter 480: Train loss 0.445, Learning Rate 1.000e-04, It/sec 0.166, Tokens/sec 37.311, Trained Tokens 121449, Peak mem 8.613 GB
+Iter 490: Train loss 0.336, Learning Rate 1.000e-04, It/sec 0.184, Tokens/sec 40.010, Trained Tokens 123627, Peak mem 8.613 GB
+Iter 500: Train loss 0.467, Learning Rate 1.000e-04, It/sec 0.179, Tokens/sec 55.218, Trained Tokens 126716, Peak mem 8.613 GB
+Iter 500: Saved adapter weights to /Users/mohammedwasifulhaq/Projects/PhoneAI/adapters/exp3/multi-r8/adapters.safetensors and /Users/mohammedwasifulhaq/Projects/PhoneAI/adapters/exp3/multi-r8/0000500_adapters.safetensors.
+Iter 510: Train loss 0.487, Learning Rate 1.000e-04, It/sec 0.138, Tokens/sec 38.951, Trained Tokens 129541, Peak mem 8.613 GB
+Iter 520: Train loss 0.429, Learning Rate 1.000e-04, It/sec 0.164, Tokens/sec 43.060, Trained Tokens 132172, Peak mem 8.613 GB
+Iter 530: Train loss 0.420, Learning Rate 1.000e-04, It/sec 0.226, Tokens/sec 56.013, Trained Tokens 134650, Peak mem 8.613 GB
+Iter 540: Train loss 0.368, Learning Rate 1.000e-04, It/sec 0.123, Tokens/sec 24.942, Trained Tokens 136671, Peak mem 8.613 GB
+Iter 550: Train loss 0.396, Learning Rate 1.000e-04, It/sec 0.170, Tokens/sec 46.132, Trained Tokens 139377, Peak mem 8.613 GB
+Iter 560: Train loss 0.408, Learning Rate 1.000e-04, It/sec 0.197, Tokens/sec 45.356, Trained Tokens 141684, Peak mem 8.613 GB
+Iter 570: Train loss 0.463, Learning Rate 1.000e-04, It/sec 0.194, Tokens/sec 45.857, Trained Tokens 144046, Peak mem 8.613 GB
+Iter 580: Train loss 0.402, Learning Rate 1.000e-04, It/sec 0.152, Tokens/sec 33.451, Trained Tokens 146249, Peak mem 8.613 GB
+[WARNING] Some sequences are longer than 1024 tokens. The longest sentence 1192 will be truncated to 1024. Consider pre-splitting your data to save memory.
+Iter 590: Train loss 0.401, Learning Rate 1.000e-04, It/sec 0.135, Tokens/sec 27.880, Trained Tokens 148310, Peak mem 8.613 GB
+Calculating loss...: 0it [00:00, ?it/s]Calculating loss...: 1it [00:01,  1.13s/it]Calculating loss...: 2it [00:02,  1.14s/it]Calculating loss...: 3it [00:04,  1.49s/it]Calculating loss...: 4it [00:06,  1.89s/it]Calculating loss...: 5it [00:08,  1.89s/it]Calculating loss...: 6it [00:09,  1.63s/it]Calculating loss...: 7it [00:11,  1.66s/it]Calculating loss...: 8it [00:13,  1.80s/it]Calculating loss...: 9it [00:15,  1.77s/it]Calculating loss...: 10it [00:16,  1.69s/it]Calculating loss...: 11it [00:17,  1.52s/it]Calculating loss...: 12it [00:20,  1.87s/it]Calculating loss...: 13it [00:21,  1.65s/it]Calculating loss...: 14it [00:23,  1.84s/it]Calculating loss...: 15it [00:25,  1.75s/it]Calculating loss...: 16it [00:27,  1.91s/it]Calculating loss...: 17it [00:30,  2.09s/it]Calculating loss...: 18it [00:34,  2.63s/it]Calculating loss...: 19it [00:35,  2.35s/it]Calculating loss...: 20it [00:37,  2.10s/it]Calculating loss...: 21it [00:40,  2.27s/it]Calculating loss...: 22it [00:41,  1.88s/it]Calculating loss...: 23it [00:47,  3.23s/it]Calculating loss...: 24it [00:48,  2.66s/it]Calculating loss...: 25it [00:49,  2.21s/it]Calculating loss...: 26it [00:53,  2.53s/it]Calculating loss...: 27it [00:55,  2.35s/it]Calculating loss...: 28it [00:56,  1.99s/it]Calculating loss...: 29it [00:57,  1.79s/it]Calculating loss...: 30it [00:59,  1.71s/it]Calculating loss...: 31it [01:00,  1.54s/it]Calculating loss...: 32it [01:01,  1.42s/it]Calculating loss...: 33it [01:04,  1.93s/it]Calculating loss...: 34it [01:05,  1.75s/it]Calculating loss...: 35it [01:07,  1.68s/it]Calculating loss...: 36it [01:08,  1.57s/it]Calculating loss...: 37it [01:09,  1.50s/it]Calculating loss...: 37it [01:09,  1.89s/it]
+Iter 600: Val loss 0.494, Val took 69.983s
+Iter 600: Train loss 0.535, Learning Rate 1.000e-04, It/sec 0.191, Tokens/sec 52.415, Trained Tokens 151048, Peak mem 8.613 GB
+Iter 600: Saved adapter weights to /Users/mohammedwasifulhaq/Projects/PhoneAI/adapters/exp3/multi-r8/adapters.safetensors and /Users/mohammedwasifulhaq/Projects/PhoneAI/adapters/exp3/multi-r8/0000600_adapters.safetensors.
+Iter 610: Train loss 0.518, Learning Rate 1.000e-04, It/sec 0.139, Tokens/sec 35.693, Trained Tokens 153617, Peak mem 8.613 GB
+Iter 620: Train loss 0.443, Learning Rate 1.000e-04, It/sec 0.154, Tokens/sec 39.161, Trained Tokens 156156, Peak mem 8.613 GB
+Iter 630: Train loss 0.453, Learning Rate 1.000e-04, It/sec 0.187, Tokens/sec 57.307, Trained Tokens 159213, Peak mem 8.613 GB
+Iter 640: Train loss 0.398, Learning Rate 1.000e-04, It/sec 0.145, Tokens/sec 39.859, Trained Tokens 161963, Peak mem 8.613 GB
+Iter 650: Train loss 0.410, Learning Rate 1.000e-04, It/sec 0.181, Tokens/sec 40.634, Trained Tokens 164202, Peak mem 8.613 GB
+Iter 660: Train loss 0.463, Learning Rate 1.000e-04, It/sec 0.205, Tokens/sec 46.460, Trained Tokens 166464, Peak mem 8.613 GB
+Iter 670: Train loss 0.567, Learning Rate 1.000e-04, It/sec 0.158, Tokens/sec 43.232, Trained Tokens 169201, Peak mem 8.613 GB
+Iter 680: Train loss 0.410, Learning Rate 1.000e-04, It/sec 0.225, Tokens/sec 60.385, Trained Tokens 171889, Peak mem 8.613 GB
+Iter 690: Train loss 0.411, Learning Rate 1.000e-04, It/sec 0.179, Tokens/sec 39.173, Trained Tokens 174081, Peak mem 8.613 GB
+Iter 700: Train loss 0.481, Learning Rate 1.000e-04, It/sec 0.175, Tokens/sec 43.822, Trained Tokens 176582, Peak mem 8.613 GB
+Iter 700: Saved adapter weights to /Users/mohammedwasifulhaq/Projects/PhoneAI/adapters/exp3/multi-r8/adapters.safetensors and /Users/mohammedwasifulhaq/Projects/PhoneAI/adapters/exp3/multi-r8/0000700_adapters.safetensors.
+Iter 710: Train loss 0.384, Learning Rate 1.000e-04, It/sec 0.174, Tokens/sec 37.486, Trained Tokens 178740, Peak mem 8.613 GB
+Iter 720: Train loss 0.381, Learning Rate 1.000e-04, It/sec 0.139, Tokens/sec 29.599, Trained Tokens 180877, Peak mem 8.613 GB
+Iter 730: Train loss 0.380, Learning Rate 1.000e-04, It/sec 0.134, Tokens/sec 32.654, Trained Tokens 183306, Peak mem 8.613 GB
+[WARNING] Some sequences are longer than 1024 tokens. The longest sentence 1191 will be truncated to 1024. Consider pre-splitting your data to save memory.
+Iter 740: Train loss 0.305, Learning Rate 1.000e-04, It/sec 0.140, Tokens/sec 26.173, Trained Tokens 185179, Peak mem 8.613 GB
+Iter 750: Train loss 0.451, Learning Rate 1.000e-04, It/sec 0.199, Tokens/sec 51.268, Trained Tokens 187760, Peak mem 8.613 GB
+Iter 760: Train loss 0.409, Learning Rate 1.000e-04, It/sec 0.200, Tokens/sec 46.620, Trained Tokens 190093, Peak mem 8.613 GB
+Iter 770: Train loss 0.308, Learning Rate 1.000e-04, It/sec 0.151, Tokens/sec 33.346, Trained Tokens 192297, Peak mem 8.613 GB
+Iter 780: Train loss 0.520, Learning Rate 1.000e-04, It/sec 0.189, Tokens/sec 62.673, Trained Tokens 195621, Peak mem 8.613 GB
+Iter 790: Train loss 0.420, Learning Rate 1.000e-04, It/sec 0.162, Tokens/sec 36.623, Trained Tokens 197884, Peak mem 8.613 GB
+Calculating loss...: 0it [00:00, ?it/s]Calculating loss...: 1it [00:01,  1.54s/it]Calculating loss...: 2it [00:03,  1.54s/it]Calculating loss...: 3it [00:04,  1.35s/it]Calculating loss...: 4it [00:05,  1.27s/it]Calculating loss...: 5it [00:06,  1.36s/it]Calculating loss...: 6it [00:10,  2.22s/it]Calculating loss...: 7it [00:13,  2.31s/it]Calculating loss...: 8it [00:14,  1.94s/it]Calculating loss...: 9it [00:15,  1.81s/it]Calculating loss...: 10it [00:18,  1.90s/it]Calculating loss...: 11it [00:19,  1.79s/it]Calculating loss...: 12it [00:20,  1.59s/it]Calculating loss...: 13it [00:22,  1.51s/it]Calculating loss...: 14it [00:23,  1.45s/it]Calculating loss...: 15it [00:26,  2.00s/it]Calculating loss...: 16it [00:27,  1.74s/it]Calculating loss...: 17it [00:29,  1.73s/it]Calculating loss...: 18it [00:32,  2.14s/it]Calculating loss...: 19it [00:33,  1.90s/it]Calculating loss...: 20it [00:35,  1.67s/it]Calculating loss...: 21it [00:36,  1.51s/it]Calculating loss...: 22it [00:38,  1.63s/it]Calculating loss...: 23it [00:40,  1.84s/it]Calculating loss...: 24it [00:41,  1.63s/it]Calculating loss...: 25it [00:43,  1.71s/it]Calculating loss...: 26it [00:46,  2.01s/it]Calculating loss...: 27it [00:47,  1.75s/it]Calculating loss...: 28it [00:49,  1.74s/it]Calculating loss...: 29it [00:49,  1.50s/it]Calculating loss...: 30it [00:51,  1.45s/it]Calculating loss...: 31it [00:53,  1.77s/it]Calculating loss...: 32it [00:55,  1.64s/it]Calculating loss...: 33it [00:56,  1.66s/it]Calculating loss...: 34it [00:59,  1.98s/it]Calculating loss...: 35it [01:01,  2.08s/it]Calculating loss...: 36it [01:08,  3.38s/it]Calculating loss...: 37it [01:10,  2.95s/it]Calculating loss...: 37it [01:10,  1.90s/it]
+Iter 800: Val loss 0.484, Val took 70.234s
+Iter 800: Train loss 0.386, Learning Rate 1.000e-04, It/sec 0.153, Tokens/sec 34.879, Trained Tokens 200159, Peak mem 8.613 GB
+Iter 800: Saved adapter weights to /Users/mohammedwasifulhaq/Projects/PhoneAI/adapters/exp3/multi-r8/adapters.safetensors and /Users/mohammedwasifulhaq/Projects/PhoneAI/adapters/exp3/multi-r8/0000800_adapters.safetensors.
+Iter 810: Train loss 0.423, Learning Rate 1.000e-04, It/sec 0.149, Tokens/sec 37.938, Trained Tokens 202710, Peak mem 8.613 GB
+Iter 820: Train loss 0.403, Learning Rate 1.000e-04, It/sec 0.145, Tokens/sec 32.962, Trained Tokens 204988, Peak mem 8.613 GB
+Iter 830: Train loss 0.428, Learning Rate 1.000e-04, It/sec 0.157, Tokens/sec 38.670, Trained Tokens 207456, Peak mem 8.613 GB
+Iter 840: Train loss 0.430, Learning Rate 1.000e-04, It/sec 0.167, Tokens/sec 38.497, Trained Tokens 209766, Peak mem 8.613 GB
+Iter 850: Train loss 0.373, Learning Rate 1.000e-04, It/sec 0.169, Tokens/sec 37.398, Trained Tokens 211984, Peak mem 8.613 GB
+[WARNING] Some sequences are longer than 1024 tokens. The longest sentence 1091 will be truncated to 1024. Consider pre-splitting your data to save memory.
+Iter 860: Train loss 0.393, Learning Rate 1.000e-04, It/sec 0.137, Tokens/sec 29.323, Trained Tokens 214126, Peak mem 8.613 GB
+Iter 870: Train loss 0.396, Learning Rate 1.000e-04, It/sec 0.157, Tokens/sec 42.428, Trained Tokens 216826, Peak mem 8.613 GB
+Iter 880: Train loss 0.349, Learning Rate 1.000e-04, It/sec 0.157, Tokens/sec 34.197, Trained Tokens 218999, Peak mem 8.613 GB
+Iter 890: Train loss 0.451, Learning Rate 1.000e-04, It/sec 0.148, Tokens/sec 33.715, Trained Tokens 221270, Peak mem 8.613 GB
+Iter 900: Train loss 0.480, Learning Rate 1.000e-04, It/sec 0.178, Tokens/sec 54.703, Trained Tokens 224342, Peak mem 8.613 GB
+Iter 900: Saved adapter weights to /Users/mohammedwasifulhaq/Projects/PhoneAI/adapters/exp3/multi-r8/adapters.safetensors and /Users/mohammedwasifulhaq/Projects/PhoneAI/adapters/exp3/multi-r8/0000900_adapters.safetensors.
+Iter 910: Train loss 0.450, Learning Rate 1.000e-04, It/sec 0.193, Tokens/sec 56.819, Trained Tokens 227285, Peak mem 8.613 GB
+Iter 920: Train loss 0.416, Learning Rate 1.000e-04, It/sec 0.172, Tokens/sec 42.095, Trained Tokens 229730, Peak mem 8.613 GB
+Iter 930: Train loss 0.461, Learning Rate 1.000e-04, It/sec 0.197, Tokens/sec 54.834, Trained Tokens 232512, Peak mem 8.613 GB
+Iter 940: Train loss 0.414, Learning Rate 1.000e-04, It/sec 0.130, Tokens/sec 31.836, Trained Tokens 234964, Peak mem 8.613 GB
+Iter 950: Train loss 0.370, Learning Rate 1.000e-04, It/sec 0.159, Tokens/sec 36.305, Trained Tokens 237253, Peak mem 8.613 GB
+Iter 960: Train loss 0.355, Learning Rate 1.000e-04, It/sec 0.172, Tokens/sec 34.285, Trained Tokens 239241, Peak mem 8.613 GB
+Iter 970: Train loss 0.435, Learning Rate 1.000e-04, It/sec 0.154, Tokens/sec 45.504, Trained Tokens 242187, Peak mem 8.613 GB
+Iter 980: Train loss 0.382, Learning Rate 1.000e-04, It/sec 0.187, Tokens/sec 47.406, Trained Tokens 244716, Peak mem 8.613 GB
+Iter 990: Train loss 0.379, Learning Rate 1.000e-04, It/sec 0.177, Tokens/sec 44.078, Trained Tokens 247212, Peak mem 8.613 GB
+Calculating loss...: 0it [00:00, ?it/s]Calculating loss...: 1it [00:02,  2.72s/it]Calculating loss...: 2it [00:03,  1.79s/it]Calculating loss...: 3it [00:06,  2.39s/it]Calculating loss...: 4it [00:08,  1.90s/it]Calculating loss...: 5it [00:09,  1.55s/it]Calculating loss...: 6it [00:12,  2.35s/it]Calculating loss...: 7it [00:14,  2.08s/it]Calculating loss...: 8it [00:16,  2.15s/it]Calculating loss...: 9it [00:18,  1.89s/it]Calculating loss...: 10it [00:19,  1.77s/it]Calculating loss...: 11it [00:21,  1.69s/it]Calculating loss...: 12it [00:22,  1.70s/it]Calculating loss...: 13it [00:25,  1.94s/it]Calculating loss...: 14it [00:26,  1.69s/it]Calculating loss...: 15it [00:28,  1.94s/it]Calculating loss...: 16it [00:30,  1.70s/it]Calculating loss...: 17it [00:31,  1.70s/it]Calculating loss...: 18it [00:33,  1.65s/it]Calculating loss...: 19it [00:34,  1.49s/it]Calculating loss...: 20it [00:36,  1.74s/it]Calculating loss...: 21it [00:38,  1.62s/it]Calculating loss...: 22it [00:39,  1.47s/it]Calculating loss...: 23it [00:41,  1.60s/it]Calculating loss...: 24it [00:43,  1.93s/it]Calculating loss...: 25it [00:45,  1.99s/it]Calculating loss...: 26it [00:47,  1.73s/it]Calculating loss...: 27it [00:48,  1.79s/it]Calculating loss...: 28it [00:50,  1.82s/it]Calculating loss...: 29it [00:52,  1.62s/it]Calculating loss...: 30it [00:53,  1.60s/it]Calculating loss...: 31it [00:54,  1.52s/it]Calculating loss...: 32it [00:56,  1.47s/it]Calculating loss...: 33it [00:57,  1.37s/it]Calculating loss...: 34it [00:59,  1.48s/it]Calculating loss...: 35it [01:05,  2.95s/it]Calculating loss...: 36it [01:08,  3.06s/it]Calculating loss...: 37it [01:10,  2.54s/it]Calculating loss...: 37it [01:10,  1.90s/it]
+Iter 1000: Val loss 0.471, Val took 70.190s
+Iter 1000: Train loss 0.363, Learning Rate 1.000e-04, It/sec 0.180, Tokens/sec 39.059, Trained Tokens 249381, Peak mem 8.613 GB
+Iter 1000: Saved adapter weights to /Users/mohammedwasifulhaq/Projects/PhoneAI/adapters/exp3/multi-r8/adapters.safetensors and /Users/mohammedwasifulhaq/Projects/PhoneAI/adapters/exp3/multi-r8/0001000_adapters.safetensors.
+Iter 1010: Train loss 0.429, Learning Rate 1.000e-04, It/sec 0.142, Tokens/sec 34.825, Trained Tokens 251831, Peak mem 8.613 GB
+Iter 1020: Train loss 0.394, Learning Rate 1.000e-04, It/sec 0.191, Tokens/sec 50.912, Trained Tokens 254502, Peak mem 8.613 GB
+Iter 1030: Train loss 0.358, Learning Rate 1.000e-04, It/sec 0.199, Tokens/sec 48.868, Trained Tokens 256953, Peak mem 8.613 GB
+Iter 1040: Train loss 0.420, Learning Rate 1.000e-04, It/sec 0.172, Tokens/sec 43.410, Trained Tokens 259482, Peak mem 8.613 GB
+[WARNING] Some sequences are longer than 1024 tokens. The longest sentence 2350 will be truncated to 1024. Consider pre-splitting your data to save memory.
+Iter 1050: Train loss 0.422, Learning Rate 1.000e-04, It/sec 0.130, Tokens/sec 31.091, Trained Tokens 261866, Peak mem 8.613 GB
+Iter 1060: Train loss 0.418, Learning Rate 1.000e-04, It/sec 0.182, Tokens/sec 47.668, Trained Tokens 264485, Peak mem 8.613 GB
+Iter 1070: Train loss 0.401, Learning Rate 1.000e-04, It/sec 0.147, Tokens/sec 38.101, Trained Tokens 267082, Peak mem 8.613 GB
+Iter 1080: Train loss 0.465, Learning Rate 1.000e-04, It/sec 0.136, Tokens/sec 34.033, Trained Tokens 269580, Peak mem 8.613 GB
+Iter 1090: Train loss 0.391, Learning Rate 1.000e-04, It/sec 0.143, Tokens/sec 30.279, Trained Tokens 271694, Peak mem 8.613 GB
+Iter 1100: Train loss 0.456, Learning Rate 1.000e-04, It/sec 0.188, Tokens/sec 47.372, Trained Tokens 274217, Peak mem 8.613 GB
+Iter 1100: Saved adapter weights to /Users/mohammedwasifulhaq/Projects/PhoneAI/adapters/exp3/multi-r8/adapters.safetensors and /Users/mohammedwasifulhaq/Projects/PhoneAI/adapters/exp3/multi-r8/0001100_adapters.safetensors.
+Iter 1110: Train loss 0.461, Learning Rate 1.000e-04, It/sec 0.141, Tokens/sec 32.300, Trained Tokens 276514, Peak mem 8.613 GB
+Iter 1120: Train loss 0.406, Learning Rate 1.000e-04, It/sec 0.195, Tokens/sec 48.596, Trained Tokens 279003, Peak mem 8.613 GB
+Iter 1130: Train loss 0.477, Learning Rate 1.000e-04, It/sec 0.131, Tokens/sec 33.363, Trained Tokens 281545, Peak mem 8.613 GB
+Iter 1140: Train loss 0.379, Learning Rate 1.000e-04, It/sec 0.183, Tokens/sec 41.623, Trained Tokens 283821, Peak mem 8.613 GB
+Iter 1150: Train loss 0.495, Learning Rate 1.000e-04, It/sec 0.197, Tokens/sec 45.531, Trained Tokens 286128, Peak mem 8.613 GB
+Iter 1160: Train loss 0.362, Learning Rate 1.000e-04, It/sec 0.182, Tokens/sec 39.576, Trained Tokens 288301, Peak mem 8.613 GB
+Iter 1170: Train loss 0.401, Learning Rate 1.000e-04, It/sec 0.184, Tokens/sec 49.617, Trained Tokens 290996, Peak mem 8.613 GB
+Iter 1180: Train loss 0.467, Learning Rate 1.000e-04, It/sec 0.171, Tokens/sec 44.000, Trained Tokens 293573, Peak mem 8.613 GB
+Iter 1190: Train loss 0.281, Learning Rate 1.000e-04, It/sec 0.166, Tokens/sec 28.470, Trained Tokens 295286, Peak mem 8.613 GB
+Calculating loss...: 0it [00:00, ?it/s]Calculating loss...: 1it [00:01,  1.13s/it]Calculating loss...: 2it [00:03,  1.70s/it]Calculating loss...: 3it [00:04,  1.53s/it]Calculating loss...: 4it [00:06,  1.59s/it]Calculating loss...: 5it [00:08,  1.90s/it]Calculating loss...: 6it [00:09,  1.57s/it]Calculating loss...: 7it [00:12,  1.93s/it]Calculating loss...: 8it [00:13,  1.68s/it]Calculating loss...: 9it [00:14,  1.50s/it]Calculating loss...: 10it [00:15,  1.38s/it]Calculating loss...: 11it [00:19,  2.13s/it]Calculating loss...: 12it [00:25,  3.39s/it]Calculating loss...: 13it [00:26,  2.71s/it]Calculating loss...: 14it [00:28,  2.23s/it]Calculating loss...: 15it [00:31,  2.48s/it]Calculating loss...: 16it [00:32,  2.19s/it]Calculating loss...: 17it [00:33,  1.87s/it]Calculating loss...: 18it [00:34,  1.64s/it]Calculating loss...: 19it [00:37,  1.95s/it]Calculating loss...: 20it [00:39,  1.82s/it]Calculating loss...: 21it [00:41,  1.96s/it]Calculating loss...: 22it [00:43,  1.94s/it]Calculating loss...: 23it [00:45,  2.10s/it]Calculating loss...: 24it [00:47,  1.98s/it]Calculating loss...: 25it [00:48,  1.78s/it]Calculating loss...: 26it [00:49,  1.64s/it]Calculating loss...: 27it [00:52,  1.83s/it]Calculating loss...: 28it [00:53,  1.79s/it]Calculating loss...: 29it [00:55,  1.65s/it]Calculating loss...: 30it [00:56,  1.61s/it]Calculating loss...: 31it [00:57,  1.46s/it]Calculating loss...: 32it [00:59,  1.59s/it]Calculating loss...: 33it [01:01,  1.57s/it]Calculating loss...: 34it [01:04,  2.08s/it]Calculating loss...: 35it [01:06,  2.03s/it]Calculating loss...: 36it [01:07,  1.82s/it]Calculating loss...: 37it [01:09,  1.73s/it]Calculating loss...: 37it [01:09,  1.87s/it]
+Iter 1200: Val loss 0.466, Val took 69.352s
+Iter 1200: Train loss 0.359, Learning Rate 1.000e-04, It/sec 0.133, Tokens/sec 32.745, Trained Tokens 297754, Peak mem 8.613 GB
+Iter 1200: Saved adapter weights to /Users/mohammedwasifulhaq/Projects/PhoneAI/adapters/exp3/multi-r8/adapters.safetensors and /Users/mohammedwasifulhaq/Projects/PhoneAI/adapters/exp3/multi-r8/0001200_adapters.safetensors.
+Iter 1210: Train loss 0.399, Learning Rate 1.000e-04, It/sec 0.149, Tokens/sec 32.806, Trained Tokens 299953, Peak mem 8.613 GB
+Iter 1220: Train loss 0.303, Learning Rate 1.000e-04, It/sec 0.148, Tokens/sec 30.421, Trained Tokens 302011, Peak mem 8.613 GB
+Iter 1230: Train loss 0.350, Learning Rate 1.000e-04, It/sec 0.160, Tokens/sec 36.082, Trained Tokens 304266, Peak mem 8.613 GB
+[WARNING] Some sequences are longer than 1024 tokens. The longest sentence 1125 will be truncated to 1024. Consider pre-splitting your data to save memory.
+Iter 1240: Train loss 0.245, Learning Rate 1.000e-04, It/sec 0.130, Tokens/sec 34.335, Trained Tokens 306898, Peak mem 8.613 GB
+Iter 1250: Train loss 0.264, Learning Rate 1.000e-04, It/sec 0.143, Tokens/sec 32.443, Trained Tokens 309169, Peak mem 8.613 GB
+Iter 1260: Train loss 0.235, Learning Rate 1.000e-04, It/sec 0.166, Tokens/sec 44.018, Trained Tokens 311816, Peak mem 8.613 GB
+Iter 1270: Train loss 0.285, Learning Rate 1.000e-04, It/sec 0.171, Tokens/sec 51.317, Trained Tokens 314814, Peak mem 8.613 GB
+Iter 1280: Train loss 0.209, Learning Rate 1.000e-04, It/sec 0.148, Tokens/sec 38.434, Trained Tokens 317408, Peak mem 8.613 GB
+Iter 1290: Train loss 0.269, Learning Rate 1.000e-04, It/sec 0.184, Tokens/sec 40.221, Trained Tokens 319597, Peak mem 8.613 GB
+Iter 1300: Train loss 0.187, Learning Rate 1.000e-04, It/sec 0.154, Tokens/sec 35.904, Trained Tokens 321935, Peak mem 8.613 GB
+Iter 1300: Saved adapter weights to /Users/mohammedwasifulhaq/Projects/PhoneAI/adapters/exp3/multi-r8/adapters.safetensors and /Users/mohammedwasifulhaq/Projects/PhoneAI/adapters/exp3/multi-r8/0001300_adapters.safetensors.
+Iter 1310: Train loss 0.231, Learning Rate 1.000e-04, It/sec 0.181, Tokens/sec 45.392, Trained Tokens 324440, Peak mem 8.613 GB
+Iter 1320: Train loss 0.241, Learning Rate 1.000e-04, It/sec 0.170, Tokens/sec 48.667, Trained Tokens 327309, Peak mem 8.613 GB
+Iter 1330: Train loss 0.250, Learning Rate 1.000e-04, It/sec 0.160, Tokens/sec 39.059, Trained Tokens 329745, Peak mem 8.613 GB
+Iter 1340: Train loss 0.255, Learning Rate 1.000e-04, It/sec 0.206, Tokens/sec 62.338, Trained Tokens 332776, Peak mem 8.613 GB
+[WARNING] Some sequences are longer than 1024 tokens. The longest sentence 1091 will be truncated to 1024. Consider pre-splitting your data to save memory.
+Iter 1350: Train loss 0.224, Learning Rate 1.000e-04, It/sec 0.145, Tokens/sec 36.718, Trained Tokens 335315, Peak mem 8.613 GB
+[WARNING] Some sequences are longer than 1024 tokens. The longest sentence 2350 will be truncated to 1024. Consider pre-splitting your data to save memory.
+Iter 1360: Train loss 0.242, Learning Rate 1.000e-04, It/sec 0.110, Tokens/sec 30.865, Trained Tokens 338129, Peak mem 8.613 GB
+Iter 1370: Train loss 0.270, Learning Rate 1.000e-04, It/sec 0.169, Tokens/sec 34.146, Trained Tokens 340148, Peak mem 8.613 GB
+Iter 1380: Train loss 0.189, Learning Rate 1.000e-04, It/sec 0.180, Tokens/sec 42.426, Trained Tokens 342504, Peak mem 8.613 GB
+Iter 1390: Train loss 0.264, Learning Rate 1.000e-04, It/sec 0.158, Tokens/sec 42.550, Trained Tokens 345194, Peak mem 8.613 GB
+Calculating loss...: 0it [00:00, ?it/s]Calculating loss...: 1it [00:01,  1.52s/it]Calculating loss...: 2it [00:03,  1.52s/it]Calculating loss...: 3it [00:05,  1.86s/it]Calculating loss...: 4it [00:06,  1.64s/it]Calculating loss...: 5it [00:09,  2.01s/it]Calculating loss...: 6it [00:10,  1.77s/it]Calculating loss...: 7it [00:11,  1.56s/it]Calculating loss...: 8it [00:12,  1.42s/it]Calculating loss...: 9it [00:15,  1.81s/it]Calculating loss...: 10it [00:18,  2.25s/it]Calculating loss...: 11it [00:20,  1.96s/it]Calculating loss...: 12it [00:21,  1.71s/it]Calculating loss...: 13it [00:22,  1.53s/it]Calculating loss...: 14it [00:24,  1.81s/it]Calculating loss...: 15it [00:27,  1.95s/it]Calculating loss...: 16it [00:28,  1.82s/it]Calculating loss...: 17it [00:30,  1.78s/it]Calculating loss...: 18it [00:32,  1.99s/it]Calculating loss...: 19it [00:33,  1.78s/it]Calculating loss...: 20it [00:35,  1.70s/it]Calculating loss...: 21it [00:37,  1.76s/it]Calculating loss...: 22it [00:39,  1.74s/it]Calculating loss...: 23it [00:40,  1.55s/it]Calculating loss...: 24it [00:41,  1.60s/it]Calculating loss...: 25it [00:43,  1.69s/it]Calculating loss...: 26it [00:45,  1.63s/it]Calculating loss...: 27it [00:46,  1.42s/it]Calculating loss...: 28it [00:47,  1.33s/it]Calculating loss...: 29it [00:53,  2.83s/it]Calculating loss...: 30it [00:55,  2.55s/it]Calculating loss...: 31it [00:58,  2.70s/it]Calculating loss...: 32it [00:59,  2.23s/it]Calculating loss...: 33it [01:00,  1.90s/it]Calculating loss...: 34it [01:02,  1.96s/it]Calculating loss...: 35it [01:04,  1.77s/it]Calculating loss...: 36it [01:05,  1.58s/it]Calculating loss...: 37it [01:09,  2.26s/it]Calculating loss...: 37it [01:09,  1.87s/it]
+Iter 1400: Val loss 0.490, Val took 69.325s
+Iter 1400: Train loss 0.290, Learning Rate 1.000e-04, It/sec 0.195, Tokens/sec 61.277, Trained Tokens 348334, Peak mem 8.613 GB
+Iter 1400: Saved adapter weights to /Users/mohammedwasifulhaq/Projects/PhoneAI/adapters/exp3/multi-r8/adapters.safetensors and /Users/mohammedwasifulhaq/Projects/PhoneAI/adapters/exp3/multi-r8/0001400_adapters.safetensors.
+Iter 1410: Train loss 0.216, Learning Rate 1.000e-04, It/sec 0.156, Tokens/sec 33.178, Trained Tokens 350457, Peak mem 8.613 GB
+Iter 1420: Train loss 0.333, Learning Rate 1.000e-04, It/sec 0.187, Tokens/sec 47.083, Trained Tokens 352978, Peak mem 8.613 GB
+Iter 1430: Train loss 0.306, Learning Rate 1.000e-04, It/sec 0.179, Tokens/sec 45.783, Trained Tokens 355531, Peak mem 8.613 GB
+Iter 1440: Train loss 0.146, Learning Rate 1.000e-04, It/sec 0.167, Tokens/sec 31.352, Trained Tokens 357404, Peak mem 8.613 GB
+[WARNING] Some sequences are longer than 1024 tokens. The longest sentence 1194 will be truncated to 1024. Consider pre-splitting your data to save memory.
+Iter 1450: Train loss 0.203, Learning Rate 1.000e-04, It/sec 0.140, Tokens/sec 32.959, Trained Tokens 359766, Peak mem 8.613 GB
+Iter 1460: Train loss 0.247, Learning Rate 1.000e-04, It/sec 0.215, Tokens/sec 66.214, Trained Tokens 362849, Peak mem 8.613 GB
+[WARNING] Some sequences are longer than 1024 tokens. The longest sentence 1050 will be truncated to 1024. Consider pre-splitting your data to save memory.
+Iter 1470: Train loss 0.209, Learning Rate 1.000e-04, It/sec 0.159, Tokens/sec 33.176, Trained Tokens 364933, Peak mem 8.613 GB
+Iter 1480: Train loss 0.242, Learning Rate 1.000e-04, It/sec 0.203, Tokens/sec 55.708, Trained Tokens 367684, Peak mem 8.613 GB
+Iter 1490: Train loss 0.231, Learning Rate 1.000e-04, It/sec 0.177, Tokens/sec 44.227, Trained Tokens 370180, Peak mem 8.613 GB
+Iter 1500: Train loss 0.243, Learning Rate 1.000e-04, It/sec 0.227, Tokens/sec 61.756, Trained Tokens 372900, Peak mem 8.613 GB
+Iter 1500: Saved adapter weights to /Users/mohammedwasifulhaq/Projects/PhoneAI/adapters/exp3/multi-r8/adapters.safetensors and /Users/mohammedwasifulhaq/Projects/PhoneAI/adapters/exp3/multi-r8/0001500_adapters.safetensors.
+Iter 1510: Train loss 0.230, Learning Rate 1.000e-04, It/sec 0.180, Tokens/sec 46.505, Trained Tokens 375484, Peak mem 8.613 GB
+Iter 1520: Train loss 0.193, Learning Rate 1.000e-04, It/sec 0.126, Tokens/sec 26.527, Trained Tokens 377594, Peak mem 8.613 GB
+Iter 1530: Train loss 0.273, Learning Rate 1.000e-04, It/sec 0.207, Tokens/sec 62.712, Trained Tokens 380623, Peak mem 8.613 GB
+Iter 1540: Train loss 0.229, Learning Rate 1.000e-04, It/sec 0.133, Tokens/sec 34.090, Trained Tokens 383187, Peak mem 8.613 GB
+Iter 1550: Train loss 0.229, Learning Rate 1.000e-04, It/sec 0.142, Tokens/sec 37.232, Trained Tokens 385811, Peak mem 8.613 GB
+Iter 1560: Train loss 0.228, Learning Rate 1.000e-04, It/sec 0.168, Tokens/sec 43.535, Trained Tokens 388402, Peak mem 8.613 GB
+Iter 1570: Train loss 0.282, Learning Rate 1.000e-04, It/sec 0.176, Tokens/sec 50.914, Trained Tokens 391296, Peak mem 8.613 GB
+Iter 1580: Train loss 0.267, Learning Rate 1.000e-04, It/sec 0.154, Tokens/sec 39.183, Trained Tokens 393847, Peak mem 8.613 GB
+Iter 1590: Train loss 0.242, Learning Rate 1.000e-04, It/sec 0.168, Tokens/sec 40.365, Trained Tokens 396249, Peak mem 8.613 GB
+Calculating loss...: 0it [00:00, ?it/s]Calculating loss...: 1it [00:01,  1.12s/it]Calculating loss...: 2it [00:02,  1.01s/it]Calculating loss...: 3it [00:03,  1.23s/it]Calculating loss...: 4it [00:04,  1.18s/it]Calculating loss...: 5it [00:06,  1.30s/it]Calculating loss...: 6it [00:12,  2.97s/it]Calculating loss...: 7it [00:13,  2.43s/it]Calculating loss...: 8it [00:17,  2.87s/it]Calculating loss...: 9it [00:20,  2.92s/it]Calculating loss...: 10it [00:22,  2.48s/it]Calculating loss...: 11it [00:23,  2.12s/it]Calculating loss...: 12it [00:24,  1.81s/it]Calculating loss...: 13it [00:26,  1.83s/it]Calculating loss...: 14it [00:27,  1.73s/it]Calculating loss...: 15it [00:29,  1.72s/it]Calculating loss...: 16it [00:31,  1.77s/it]Calculating loss...: 17it [00:32,  1.57s/it]Calculating loss...: 18it [00:33,  1.44s/it]Calculating loss...: 19it [00:34,  1.40s/it]Calculating loss...: 20it [00:36,  1.37s/it]Calculating loss...: 21it [00:37,  1.30s/it]Calculating loss...: 22it [00:40,  1.87s/it]Calculating loss...: 23it [00:42,  1.93s/it]Calculating loss...: 24it [00:45,  2.09s/it]Calculating loss...: 25it [00:47,  2.26s/it]Calculating loss...: 26it [00:49,  2.09s/it]Calculating loss...: 27it [00:51,  2.14s/it]Calculating loss...: 28it [00:54,  2.18s/it]Calculating loss...: 29it [00:55,  1.92s/it]Calculating loss...: 30it [00:56,  1.68s/it]Calculating loss...: 31it [00:58,  1.92s/it]Calculating loss...: 32it [01:00,  1.68s/it]Calculating loss...: 33it [01:02,  1.98s/it]Calculating loss...: 34it [01:04,  1.89s/it]Calculating loss...: 35it [01:05,  1.77s/it]Calculating loss...: 36it [01:07,  1.81s/it]Calculating loss...: 37it [01:08,  1.60s/it]Calculating loss...: 37it [01:08,  1.86s/it]
+Iter 1600: Val loss 0.499, Val took 68.892s
+Iter 1600: Train loss 0.231, Learning Rate 1.000e-04, It/sec 0.186, Tokens/sec 39.511, Trained Tokens 398371, Peak mem 8.613 GB
+Iter 1600: Saved adapter weights to /Users/mohammedwasifulhaq/Projects/PhoneAI/adapters/exp3/multi-r8/adapters.safetensors and /Users/mohammedwasifulhaq/Projects/PhoneAI/adapters/exp3/multi-r8/0001600_adapters.safetensors.
+Iter 1610: Train loss 0.262, Learning Rate 1.000e-04, It/sec 0.168, Tokens/sec 56.022, Trained Tokens 401713, Peak mem 8.613 GB
+Iter 1620: Train loss 0.294, Learning Rate 1.000e-04, It/sec 0.151, Tokens/sec 37.652, Trained Tokens 404210, Peak mem 8.613 GB
+Iter 1630: Train loss 0.257, Learning Rate 1.000e-04, It/sec 0.165, Tokens/sec 39.233, Trained Tokens 406590, Peak mem 8.613 GB
+Iter 1640: Train loss 0.252, Learning Rate 1.000e-04, It/sec 0.147, Tokens/sec 31.777, Trained Tokens 408759, Peak mem 8.613 GB
+Iter 1650: Train loss 0.195, Learning Rate 1.000e-04, It/sec 0.167, Tokens/sec 33.015, Trained Tokens 410739, Peak mem 8.613 GB
+Iter 1660: Train loss 0.281, Learning Rate 1.000e-04, It/sec 0.146, Tokens/sec 37.147, Trained Tokens 413283, Peak mem 8.613 GB
+Iter 1670: Train loss 0.250, Learning Rate 1.000e-04, It/sec 0.138, Tokens/sec 26.963, Trained Tokens 415234, Peak mem 8.613 GB
+Iter 1680: Train loss 0.236, Learning Rate 1.000e-04, It/sec 0.171, Tokens/sec 37.958, Trained Tokens 417459, Peak mem 8.613 GB
+Iter 1690: Train loss 0.257, Learning Rate 1.000e-04, It/sec 0.175, Tokens/sec 45.235, Trained Tokens 420040, Peak mem 8.613 GB
+Iter 1700: Train loss 0.208, Learning Rate 1.000e-04, It/sec 0.177, Tokens/sec 34.384, Trained Tokens 421982, Peak mem 8.613 GB
+Iter 1700: Saved adapter weights to /Users/mohammedwasifulhaq/Projects/PhoneAI/adapters/exp3/multi-r8/adapters.safetensors and /Users/mohammedwasifulhaq/Projects/PhoneAI/adapters/exp3/multi-r8/0001700_adapters.safetensors.
+Iter 1710: Train loss 0.262, Learning Rate 1.000e-04, It/sec 0.145, Tokens/sec 35.213, Trained Tokens 424414, Peak mem 8.613 GB
+Iter 1720: Train loss 0.245, Learning Rate 1.000e-04, It/sec 0.161, Tokens/sec 42.441, Trained Tokens 427042, Peak mem 8.613 GB
+Iter 1730: Train loss 0.233, Learning Rate 1.000e-04, It/sec 0.130, Tokens/sec 33.639, Trained Tokens 429636, Peak mem 8.613 GB
+Iter 1740: Train loss 0.225, Learning Rate 1.000e-04, It/sec 0.160, Tokens/sec 33.136, Trained Tokens 431710, Peak mem 8.613 GB
+Iter 1750: Train loss 0.293, Learning Rate 1.000e-04, It/sec 0.153, Tokens/sec 41.893, Trained Tokens 434455, Peak mem 8.613 GB
+Iter 1760: Train loss 0.263, Learning Rate 1.000e-04, It/sec 0.137, Tokens/sec 29.569, Trained Tokens 436609, Peak mem 8.613 GB
+Iter 1770: Train loss 0.200, Learning Rate 1.000e-04, It/sec 0.192, Tokens/sec 45.239, Trained Tokens 438966, Peak mem 8.613 GB
+Iter 1780: Train loss 0.231, Learning Rate 1.000e-04, It/sec 0.166, Tokens/sec 40.647, Trained Tokens 441416, Peak mem 8.613 GB
+Iter 1790: Train loss 0.263, Learning Rate 1.000e-04, It/sec 0.172, Tokens/sec 43.958, Trained Tokens 443979, Peak mem 8.613 GB
+Calculating loss...: 0it [00:00, ?it/s]Calculating loss...: 1it [00:03,  3.08s/it]Calculating loss...: 2it [00:04,  1.92s/it]Calculating loss...: 3it [00:06,  2.25s/it]Calculating loss...: 4it [00:07,  1.80s/it]Calculating loss...: 5it [00:09,  1.56s/it]Calculating loss...: 6it [00:11,  1.86s/it]Calculating loss...: 7it [00:14,  2.11s/it]Calculating loss...: 8it [00:15,  1.80s/it]Calculating loss...: 9it [00:18,  2.24s/it]Calculating loss...: 10it [00:19,  1.95s/it]Calculating loss...: 11it [00:21,  1.81s/it]Calculating loss...: 12it [00:22,  1.60s/it]Calculating loss...: 13it [00:23,  1.51s/it]Calculating loss...: 14it [00:27,  2.21s/it]Calculating loss...: 15it [00:29,  2.17s/it]Calculating loss...: 16it [00:31,  1.97s/it]Calculating loss...: 17it [00:32,  1.88s/it]Calculating loss...: 18it [00:34,  1.88s/it]Calculating loss...: 19it [00:36,  2.00s/it]Calculating loss...: 20it [00:38,  1.85s/it]Calculating loss...: 21it [00:39,  1.74s/it]Calculating loss...: 22it [00:41,  1.67s/it]Calculating loss...: 23it [00:42,  1.56s/it]Calculating loss...: 24it [00:45,  1.83s/it]Calculating loss...: 25it [00:46,  1.67s/it]Calculating loss...: 26it [00:47,  1.51s/it]Calculating loss...: 27it [00:49,  1.62s/it]Calculating loss...: 28it [00:51,  1.81s/it]Calculating loss...: 29it [00:53,  1.66s/it]Calculating loss...: 30it [00:54,  1.50s/it]Calculating loss...: 31it [00:55,  1.39s/it]Calculating loss...: 32it [00:56,  1.31s/it]Calculating loss...: 33it [00:57,  1.19s/it]Calculating loss...: 34it [01:03,  2.73s/it]Calculating loss...: 35it [01:05,  2.42s/it]Calculating loss...: 36it [01:07,  2.20s/it]Calculating loss...: 37it [01:08,  2.11s/it]Calculating loss...: 37it [01:08,  1.86s/it]
+Iter 1800: Val loss 0.495, Val took 68.977s
+Iter 1800: Train loss 0.283, Learning Rate 1.000e-04, It/sec 0.181, Tokens/sec 47.718, Trained Tokens 446611, Peak mem 8.613 GB
+Iter 1800: Saved adapter weights to /Users/mohammedwasifulhaq/Projects/PhoneAI/adapters/exp3/multi-r8/adapters.safetensors and /Users/mohammedwasifulhaq/Projects/PhoneAI/adapters/exp3/multi-r8/0001800_adapters.safetensors.
+Saved final weights to /Users/mohammedwasifulhaq/Projects/PhoneAI/adapters/exp3/multi-r8/adapters.safetensors.

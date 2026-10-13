@@ -1,0 +1,37 @@
+Fetching 2 files:   0%|          | 0/2 [00:00<?, ?it/s]Fetching 2 files: 100%|██████████| 2/2 [00:00<00:00, 37117.73it/s]
+Fetching 3 files:   0%|          | 0/3 [00:00<?, ?it/s]Fetching 3 files: 100%|██████████| 3/3 [00:00<00:00, 57719.78it/s]
+Fetching 4 files:   0%|          | 0/4 [00:00<?, ?it/s]Fetching 4 files: 100%|██████████| 4/4 [00:00<00:00, 38836.15it/s]
+Fetching 4 files:   0%|          | 0/4 [00:00<?, ?it/s]Fetching 4 files: 100%|██████████| 4/4 [00:00<00:00, 10498.88it/s]
+Fetching 9 files:   0%|          | 0/9 [00:00<?, ?it/s]Fetching 9 files: 100%|██████████| 9/9 [00:00<00:00, 85792.58it/s]
+distill math: kept 1809/2050
+  gen distill_code 492/974  peak 4.2 GB
+  gen distill_code 789/974  peak 22.4 GB
+distill code: kept 618/974
+  gen distill_notes 32/2050  peak 22.4 GB
+  gen distill_notes 352/2050  peak 22.4 GB
+  gen distill_notes 672/2050  peak 22.4 GB
+  gen distill_notes 992/2050  peak 22.4 GB
+  gen distill_notes 1293/2050  peak 22.4 GB
+  gen distill_notes 1587/2050  peak 24.3 GB
+  gen distill_notes 1899/2050  peak 24.3 GB
+distill notes: kept 1048/2050
+math   train  1759  valid 50
+code   train   568  valid 50
+notes  train   998  valid 50
+multi  train  3325  valid 150
+training math (rank 8, 300 iters)…
+training code (rank 8, 300 iters)…
+training notes (rank 8, 300 iters)…
+training multi-r8 (rank 8, 900 iters)…
+training multi-r24 (rank 24, 900 iters)…
+Traceback (most recent call last):
+  File "/Users/mohammedwasifulhaq/Projects/PhoneAI/experiments/task_adapters.py", line 336, in <module>
+    train(args)
+    ~~~~~^^^^^^
+  File "/Users/mohammedwasifulhaq/Projects/PhoneAI/experiments/task_adapters.py", line 245, in train
+    subprocess.run([sys.executable, "-m", "mlx_lm", "lora", "-c", str(cfg_path)], stdout=log, stderr=subprocess.STDOUT, check=True)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/subprocess.py", line 577, in run
+    raise CalledProcessError(retcode, process.args,
+                             output=stdout, stderr=stderr)
+subprocess.CalledProcessError: Command '['/opt/anaconda3/bin/python', '-m', 'mlx_lm', 'lora', '-c', '/Users/mohammedwasifulhaq/Projects/PhoneAI/results/exp3_train_multi-r24.yaml']' died with <Signals.SIGABRT: 6>.

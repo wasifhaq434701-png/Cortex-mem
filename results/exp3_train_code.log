@@ -1,0 +1,49 @@
+Loading configuration file /Users/mohammedwasifulhaq/Projects/PhoneAI/results/exp3_train_code.yaml
+Loading pretrained model
+Fetching 9 files:   0%|                                  | 0/9 [00:00<?, ?it/s]Fetching 9 files: 100%|███████████████████████| 9/9 [00:00<00:00, 95808.97it/s]
+Loading datasets
+Training
+Trainable parameters: 0.411% (16.515M/4022.468M)
+Starting training..., iters: 300
+Calculating loss...: 0it [00:00, ?it/s]Calculating loss...: 1it [00:02,  2.40s/it]Calculating loss...: 2it [00:07,  4.01s/it]Calculating loss...: 3it [00:11,  3.99s/it]Calculating loss...: 4it [00:16,  4.29s/it]Calculating loss...: 5it [00:23,  5.27s/it]Calculating loss...: 6it [00:26,  4.55s/it]Calculating loss...: 7it [00:33,  5.27s/it]Calculating loss...: 8it [00:38,  5.28s/it]Calculating loss...: 9it [00:44,  5.54s/it]Calculating loss...: 10it [00:49,  5.38s/it]Calculating loss...: 11it [00:56,  5.70s/it]Calculating loss...: 12it [01:00,  5.40s/it]Calculating loss...: 12it [01:00,  5.06s/it]
+Iter 1: Val loss 0.162, Val took 60.756s
+Iter 10: Train loss 0.128, Learning Rate 2.000e-05, It/sec 0.058, Tokens/sec 78.152, Trained Tokens 13450, Peak mem 7.436 GB
+Iter 20: Train loss 0.106, Learning Rate 2.000e-05, It/sec 0.062, Tokens/sec 88.168, Trained Tokens 27577, Peak mem 7.436 GB
+Iter 30: Train loss 0.084, Learning Rate 2.000e-05, It/sec 0.058, Tokens/sec 79.373, Trained Tokens 41263, Peak mem 7.633 GB
+Iter 40: Train loss 0.087, Learning Rate 2.000e-05, It/sec 0.071, Tokens/sec 90.353, Trained Tokens 54071, Peak mem 7.633 GB
+Iter 50: Train loss 0.094, Learning Rate 2.000e-05, It/sec 0.065, Tokens/sec 87.110, Trained Tokens 67445, Peak mem 7.633 GB
+Iter 60: Train loss 0.079, Learning Rate 2.000e-05, It/sec 0.061, Tokens/sec 89.058, Trained Tokens 82034, Peak mem 7.633 GB
+Iter 70: Train loss 0.079, Learning Rate 2.000e-05, It/sec 0.059, Tokens/sec 79.992, Trained Tokens 95703, Peak mem 7.633 GB
+Iter 80: Train loss 0.085, Learning Rate 2.000e-05, It/sec 0.064, Tokens/sec 88.303, Trained Tokens 109499, Peak mem 7.633 GB
+Iter 90: Train loss 0.086, Learning Rate 2.000e-05, It/sec 0.068, Tokens/sec 86.616, Trained Tokens 122179, Peak mem 7.633 GB
+Calculating loss...: 0it [00:00, ?it/s]Calculating loss...: 1it [00:05,  5.13s/it]Calculating loss...: 2it [00:12,  6.23s/it]Calculating loss...: 3it [00:15,  4.82s/it]Calculating loss...: 4it [00:20,  4.80s/it]Calculating loss...: 5it [00:26,  5.57s/it]Calculating loss...: 6it [00:32,  5.49s/it]Calculating loss...: 7it [00:36,  4.97s/it]Calculating loss...: 8it [00:40,  4.66s/it]Calculating loss...: 9it [00:46,  5.16s/it]Calculating loss...: 10it [00:53,  5.69s/it]Calculating loss...: 11it [00:58,  5.61s/it]Calculating loss...: 12it [01:03,  5.39s/it]Calculating loss...: 12it [01:03,  5.30s/it]
+Iter 100: Val loss 0.079, Val took 63.639s
+Iter 100: Train loss 0.078, Learning Rate 2.000e-05, It/sec 0.058, Tokens/sec 81.275, Trained Tokens 136171, Peak mem 7.633 GB
+Iter 100: Saved adapter weights to /Users/mohammedwasifulhaq/Projects/PhoneAI/adapters/exp3/code/adapters.safetensors and /Users/mohammedwasifulhaq/Projects/PhoneAI/adapters/exp3/code/0000100_adapters.safetensors.
+Iter 110: Train loss 0.071, Learning Rate 2.000e-05, It/sec 0.068, Tokens/sec 90.650, Trained Tokens 149548, Peak mem 7.633 GB
+Iter 120: Train loss 0.081, Learning Rate 2.000e-05, It/sec 0.081, Tokens/sec 126.514, Trained Tokens 165238, Peak mem 7.633 GB
+Iter 130: Train loss 0.069, Learning Rate 2.000e-05, It/sec 0.065, Tokens/sec 95.152, Trained Tokens 179909, Peak mem 7.828 GB
+Iter 140: Train loss 0.066, Learning Rate 2.000e-05, It/sec 0.079, Tokens/sec 100.237, Trained Tokens 192602, Peak mem 7.828 GB
+Iter 150: Train loss 0.047, Learning Rate 2.000e-05, It/sec 0.080, Tokens/sec 111.190, Trained Tokens 206573, Peak mem 7.828 GB
+Iter 160: Train loss 0.038, Learning Rate 2.000e-05, It/sec 0.072, Tokens/sec 90.422, Trained Tokens 219214, Peak mem 7.828 GB
+Iter 170: Train loss 0.042, Learning Rate 2.000e-05, It/sec 0.072, Tokens/sec 98.568, Trained Tokens 232936, Peak mem 7.828 GB
+Iter 180: Train loss 0.040, Learning Rate 2.000e-05, It/sec 0.071, Tokens/sec 98.312, Trained Tokens 246786, Peak mem 7.828 GB
+Iter 190: Train loss 0.042, Learning Rate 2.000e-05, It/sec 0.078, Tokens/sec 104.960, Trained Tokens 260199, Peak mem 7.828 GB
+Calculating loss...: 0it [00:00, ?it/s]Calculating loss...: 1it [00:04,  4.20s/it]Calculating loss...: 2it [00:08,  4.31s/it]Calculating loss...: 3it [00:14,  4.99s/it]Calculating loss...: 4it [00:18,  4.66s/it]Calculating loss...: 5it [00:21,  3.98s/it]Calculating loss...: 6it [00:26,  4.33s/it]Calculating loss...: 7it [00:30,  4.19s/it]Calculating loss...: 8it [00:35,  4.60s/it]Calculating loss...: 9it [00:38,  4.18s/it]Calculating loss...: 10it [00:41,  3.69s/it]Calculating loss...: 11it [00:45,  3.74s/it]Calculating loss...: 12it [00:50,  4.22s/it]Calculating loss...: 12it [00:50,  4.23s/it]
+Iter 200: Val loss 0.080, Val took 50.723s
+Iter 200: Train loss 0.040, Learning Rate 2.000e-05, It/sec 0.080, Tokens/sec 103.365, Trained Tokens 273095, Peak mem 7.828 GB
+Iter 200: Saved adapter weights to /Users/mohammedwasifulhaq/Projects/PhoneAI/adapters/exp3/code/adapters.safetensors and /Users/mohammedwasifulhaq/Projects/PhoneAI/adapters/exp3/code/0000200_adapters.safetensors.
+Iter 210: Train loss 0.043, Learning Rate 2.000e-05, It/sec 0.082, Tokens/sec 109.774, Trained Tokens 286522, Peak mem 7.828 GB
+Iter 220: Train loss 0.037, Learning Rate 2.000e-05, It/sec 0.075, Tokens/sec 100.849, Trained Tokens 299893, Peak mem 7.828 GB
+Iter 230: Train loss 0.048, Learning Rate 2.000e-05, It/sec 0.072, Tokens/sec 106.153, Trained Tokens 314707, Peak mem 7.828 GB
+Iter 240: Train loss 0.044, Learning Rate 2.000e-05, It/sec 0.081, Tokens/sec 112.850, Trained Tokens 328618, Peak mem 7.828 GB
+Iter 250: Train loss 0.037, Learning Rate 2.000e-05, It/sec 0.080, Tokens/sec 107.123, Trained Tokens 342075, Peak mem 7.828 GB
+Iter 260: Train loss 0.036, Learning Rate 2.000e-05, It/sec 0.070, Tokens/sec 103.229, Trained Tokens 356920, Peak mem 7.828 GB
+Iter 270: Train loss 0.045, Learning Rate 2.000e-05, It/sec 0.069, Tokens/sec 103.688, Trained Tokens 371840, Peak mem 7.828 GB
+Iter 280: Train loss 0.033, Learning Rate 2.000e-05, It/sec 0.077, Tokens/sec 97.333, Trained Tokens 384442, Peak mem 7.828 GB
+Iter 290: Train loss 0.029, Learning Rate 2.000e-05, It/sec 0.073, Tokens/sec 100.888, Trained Tokens 398202, Peak mem 7.828 GB
+Calculating loss...: 0it [00:00, ?it/s]Calculating loss...: 1it [00:02,  2.58s/it]Calculating loss...: 2it [00:06,  3.44s/it]Calculating loss...: 3it [00:12,  4.44s/it]Calculating loss...: 4it [00:16,  4.29s/it]Calculating loss...: 5it [00:21,  4.53s/it]Calculating loss...: 6it [00:26,  4.82s/it]Calculating loss...: 7it [00:29,  4.29s/it]Calculating loss...: 8it [00:33,  4.14s/it]Calculating loss...: 9it [00:37,  4.05s/it]Calculating loss...: 10it [00:40,  3.65s/it]Calculating loss...: 11it [00:44,  3.84s/it]Calculating loss...: 12it [00:49,  4.25s/it]Calculating loss...: 12it [00:49,  4.15s/it]
+Iter 300: Val loss 0.084, Val took 49.747s
+Iter 300: Train loss 0.020, Learning Rate 2.000e-05, It/sec 0.075, Tokens/sec 103.626, Trained Tokens 411932, Peak mem 7.828 GB
+Iter 300: Saved adapter weights to /Users/mohammedwasifulhaq/Projects/PhoneAI/adapters/exp3/code/adapters.safetensors and /Users/mohammedwasifulhaq/Projects/PhoneAI/adapters/exp3/code/0000300_adapters.safetensors.
+Saved final weights to /Users/mohammedwasifulhaq/Projects/PhoneAI/adapters/exp3/code/adapters.safetensors.

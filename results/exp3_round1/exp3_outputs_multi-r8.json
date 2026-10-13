@@ -1,0 +1,3658 @@
+[
+ {
+  "set": "gsm8k",
+  "out": "Janet has 16-3-4=9 eggs left over after eating breakfast and baking muffins.\nShe makes 9*2=$18 every day at the farmers' market.\nAnswer: 18"
+ },
+ {
+  "set": "gsm8k",
+  "out": "It takes 2/2=1 white bolt of fiber.\nSo in total, it takes 2+1=3 bolts of fiber.\nAnswer: 3"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The house cost 80,000+50,000=$130,000\nThe value of the house increased by 130,000*.15=$19,500\nSo the house is now worth 130,000+19,500=$149,500\nSo he made a profit of 149,500-130,000=$19,500\nAnswer: 19,500"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Each sprint is 60 meters so 3 sprints are 3*60 = 180 meters\nHe runs 180 meters a day and does 3 days a week so he runs 180*3 = 540 meters\nAnswer: 540"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Wendi feeds her chickens 3 cups of feed per day, and she has 20 chickens, so she needs 3*20 = 60 cups of feed per day.\nShe has already given her chickens 15 cups of feed in the morning, and 25 cups of feed in the afternoon, so she has already given them 15+25 = 40 cups of feed.\nShe needs to give her chickens 60-40 = 20 cups of feed in the final meal of the day.\nAnswer: 20"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The first 16 / 2 = 8 glasses are regular price.\nThe next 8 glasses are 60% off, so they cost 8 * 5 * 0.60 = $4.80.\nThe 8 glasses cost 8 * 5 = $40.\nKylar needs to pay 40 + 4.80 = $44.80 for all the glasses.\nAnswer: 44.8"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Charleston has 4 x 20 = 80 sheep.\nToulouse has 2 x 80 = 160 sheep.\nTogether, the three cities have 160 + 80 + 20 = 260 sheep.\nAnswer: 260"
+ },
+ {
+  "set": "gsm8k",
+  "out": "First find the total download time without any interruptions: 200 GB / 2 GB/minute = 100 minutes\nThen find how long the download is before the restart: 100 minutes * 40% = 40 minutes\nThen add the time of the restart to find the new download time: 40 minutes + 20 minutes = 60 minutes\nThen divide the remaining download time by the download speed to find the new download time: 60 minutes / 2 GB/minute = 30 minutes\nAnswer: 30"
+ },
+ {
+  "set": "gsm8k",
+  "out": "He drove 60*3=180 miles away from home\nHe spent 2 hours in traffic going 0 mph so that is 2*0=0 miles\nHe drove 30*0.5=15 miles\nHe drove 80*2=160 miles\nSo he drove 180-15+160=325 miles\nAnswer: 325"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Eliza's regular pay for 40 hours is 40 x $10 = $400.\nShe also received an overtime pay of $10 x 1.2 = $12.\nTherefore, Eliza's total earnings for this week is $400 + $12 = $412.\nAnswer: 412"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Second month: 60 x 3 = 180 downloads\nThird month: 180 x 30% = 54 downloads\nTotal downloads: 60 + 180 + 54 = 294 downloads\nAnswer: 294"
+ },
+ {
+  "set": "gsm8k",
+  "out": "3 dozen donuts cost 3 x $68 = $204.\n2 dozen cupcakes cost 2 x $80 = $160.\n6 dozen cheesecakes cost 6 x $55 = $330.\nTherefore, the total cost of the pastries is $204 + $160 + $330 = $694.\nAnswer: 694"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The tree will earn 7*1.5 = $10.5 per year.\nIt will take 90/10.5 = 8 years before he starts earning money on the lemon tree.\nAnswer: 8"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The orange house sold half of what was left, so 5*2=10 was sold there.\nThe red house sold 2+10=12 vacuum cleaners.\nThe green house sold 1/3*12=4 vacuum cleaners.\nMelanie started with 12+4+10+5=21 vacuum cleaners.\nAnswer: 21"
+ },
+ {
+  "set": "gsm8k",
+  "out": "20% of the students enrolled in contemporary dance, so 100 - 20 = 80% are not in contemporary dance.\n80% of the students are not in contemporary dance, and 25% of the remaining enrolled in jazz dance, so 25/100 x 80 = 20% are in jazz dance.\n80% - 20% = 60% of the students are in hip-hop dance.\nAnswer: 60"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The expected increase in value of the jewelry is 5000*2.5% = 125.\nThe expected increase in value of the electronic gadgets is 8000*1.2% = 96.\nThe expected profit from the jewelry is 125+5000 = 625.\nThe expected profit from the electronic gadgets is 96+8000 = 896.\nAnswer: 896"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The distance covered by each train in the first 80 miles is 80 miles.\nThe distance covered by each train in the next 150 miles is 150 miles.\nThe total distance covered by each train in the two days is 80 miles + 150 miles = 230 miles.\nAnswer: 230"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Jill makes 35*20 = $700 per week as a teacher.\nJill makes 15*30 = $450 per week as a cheerleading coach.\nJill makes 700+450 = $1150 per week.\nJill makes 1150*50 = $57500 per year.\nAnswer: 57500"
+ },
+ {
+  "set": "gsm8k",
+  "out": "She eats 3 x 7 = 21 eggs per week.\nIn 4 weeks, she will eat 21 x 4 = 84 eggs.\nSince 1 dozen is equal to 12, then she will eat 84/12 = 7 dozens of eggs.\nAnswer: 7"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Marissa has already walked 4 + 2 = 6 miles.\nShe has 12 - 6 = 6 miles left to walk.\nShe has 2 hours already spent walking, so she has 4 - 2 = 2 hours left to walk.\nShe needs to walk 6 miles / 2 hours = 3 miles per hour to have an average speed of 4 miles per hour.\nAnswer: 3"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The orange drink is 10 x 2/3 = 6 2/3 liters water.\nThe pineapple drink is 15 x 3/5 = 9 liters water.\nThere are 6 2/3 + 9 = 15 2/3 liters water in the 25 liters of orange and pineapple drinks.\nSince 1 liter of orange drink spilled, there are only 25 - 1 = 24 liters of orange and pineapple drinks left.\nTherefore, there are 15 2/3 - 1 = 14 2/3 liters of water in the 24 liters of orange and pineapple drinks.\nAnswer: 14 2/3"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Raymond was born 6 years before Samantha, so Samantha is 6 + 31 = 37 years old.\nRaymond's son was born when he was 23, so Raymond is 23 + 37 = 60 years old.\nRaymond's son was born 60 - 60 = 0 years ago.\nAnswer: 0"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Billy sold 3 + 2 + 0 = 5 DVDs to his first 3 customers.\nBilly sold 2 * 2 = 4 DVDs to his next 2 customers.\nBilly sold 0 * 3 = 0 DVDs to his last 3 customers.\nBilly sold 5 + 4 + 0 = 9 DVDs.\nAnswer: 9"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The candle will burn for 5:00 PM - 1:00 PM = 4 hours.\nThe candle will melt by 2 cm/hour * 4 hours = 8 cm.\nAnswer: 8"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The book was discounted by $19.50 * 25% = $4.875.\nThe original price of the book was $4.875 + $19.50 = $24.375.\nAnswer: 24.375"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Marie paid a total of $12 + (5 x $3) + (4 x $1.50) = $23 for the chicken, milk, and apples.\nTherefore, Marie ordered $50 - $23 = $27 worth of pizza.\nThus, Marie ordered $27 / $8.50 = 3 boxes of pizza.\nAnswer: 3"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Mishka spent 3 x $16.50 = $49.50 on shorts.\nShe spent 3 x $22.50 = $67.50 on pants.\nShe spent 3 x $42 = $126 on shoes.\nTherefore, Mishka spent $49.50 + $67.50 + $126 = $243 on all the clothing items.\nAnswer: 243"
+ },
+ {
+  "set": "gsm8k",
+  "out": "She eats 1 serving of ice cream a night and there are 30 days in a month so she will eat 1*30 = 30 servings of ice cream\n1 carton of ice cream has 15 servings and she will need 30 servings of ice cream so she will need 30/15 = 2 cartons of ice cream\nEach carton of ice cream costs $4.00 and she will need 2 cartons of ice cream so she will spend 4*2 = $8.00 on ice cream\nAnswer: 8"
+ },
+ {
+  "set": "gsm8k",
+  "out": "After the first stop, Henry had 60 - 20 = 40 miles left to travel.\nHe traveled 15 miles to reach his second stop, so he had 40 - 15 = 25 miles left to travel.\nAnswer: 25"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The two pairs of heels cost 33*2 = 66 dollars.\nThe boots cost 66+5 = 71 dollars.\nAnswer: 71"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The total ratio representing the sum of their ages is 7+11 = 18\nThe fraction of the total ratio that represents Darrell's age is 7/18, and since their total age is 162, Darrell is 7/18*162 = 73.5 years old.\nIf their total age is 162, and Darrell is 73.5, Allen is 162-73.5 = 88.5 years old.\nIf Allen is 88.5 years old now, in 10 years he will be 88.5+10 = 98.5 years old.\nAnswer: 98.5"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The second friend says 80/2 + 20 = 60.\nThe third friend says 80 * 25% + 80 = 20 + 80 = 100.\nThe average is (80 + 60 + 100)/3 = 60.\nAnswer: 60"
+ },
+ {
+  "set": "gsm8k",
+  "out": "He walks the dogs 10*.5=5 hours a day\nSo he spends 5*7=35 hours a week taking care of dogs\nAnswer: 35"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Let s be the number of silver coins and g be the number of gold coins. We know that s + g = 110 and g = s + 30. Substituting the second equation into the first, we get s + s + 30 = 110. Combining like terms, we get 2s + 30 = 110. Subtracting 30 from both sides, we get 2s = 80. Dividing both sides by 2, we get s = 40. Substituting that value into the second equation, we get g = 40 + 30 = 70 gold coins.\nAnswer: 70"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Raymond has 40 jewels, so half of Raymond's jewels is 40/2 = 20 jewels.\nSince Aaron has 5 more jewels than half of Raymond's jewels, he has 20+5 = 25 jewels.\nSince Siobhan has 2 fewer jewels than Aaron, she has 25-2 = 23 jewels.\nAnswer: 23"
+ },
+ {
+  "set": "gsm8k",
+  "out": "In the second 20 minutes, he scores 25% more points than the first 20 minutes.  So he scores 20*.25 = 5 more points\nIn the second 20 minutes, he scores 5+4 = 9 points\nIn the second 20 minutes, he scores 9 points, so in total he scores 9+4 = 13 points\nAnswer: 13"
+ },
+ {
+  "set": "gsm8k",
+  "out": "He eats 2 yogurts a day for 30 days so 2*30 = 60 yogurts\nThe sale is 4 yogurts for $5.00 and he needs 60 yogurts so he spends 5*60/4 = $75.00 on yogurt\nAnswer: 75"
+ },
+ {
+  "set": "gsm8k",
+  "out": "He earned 13 x $15 = $195 from selling the legos.\nHe spent $20 x 8 = $160 on video games.\nHe had $195 - $160 = $35 left after buying video games.\nSo, he still has $35 + $5 = $40 worth of legos.\nTherefore, he still has 40 / 15 = 2 legos.\nAnswer: 2"
+ },
+ {
+  "set": "gsm8k",
+  "out": "He runs 60/3=20 miles a day\nHe runs 20/2=10 miles the second and third day\nHe runs 10*2=20 miles on the second and third day\nHe runs 3*10=30 miles on the first day\nSo he runs 30+20+20=70 miles\nSo he runs 70/30=2.333... hours\nSo he runs 2.333.../3=0.777... hours\nSo he runs 0.777.../1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Since Dana can skip at 3 miles per hour, she can run at 3 * 2 = 6 miles per hour.\nShe can walk at 6 / 4 = 1.5 miles per hour.\nIf she spends 1/3 of her time running, she will spend 6 hours * 1/3 = 2 hours running.\nIf she spends 2/3 of her time walking, she will spend 6 hours * 2/3 = 4 hours walking.\nIf she runs for 2 hours at 6 miles per hour, she will travel 2 hours * 6 miles per hour = 12 miles.\nIf she walks for 4 hours at 1.5 miles per hour, she will travel 4 hours * 1.5 miles per hour = 6 miles.\nIf she skips for 6 hours at 3 miles per hour, she will travel 6 hours * 3 miles per hour = 18 miles.\nIn total, Dana will travel 12 miles + 6 miles + 18 miles = 36 miles.\nAnswer: 36"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Ben\u2019s iPhone is 2 * 1 = 2 years old.\nBrandon\u2019s iPhone is 4 * 2 = 8 years old.\nAnswer: 8"
+ },
+ {
+  "set": "gsm8k",
+  "out": "When Polly holds the sapphire gemstone, she can throw the javelin 400*3=1200 feet.\nIf she stands 1200-1000=200 feet away from the dragon, she can still throw the javelin and hit it.\nAnswer: 200"
+ },
+ {
+  "set": "gsm8k",
+  "out": "There were 5 x 8 = 40 pieces of pie to begin with.\nSince there were 14 pieces of pie left, then 40 - 14 = 26 pieces were taken by the guests.\nAnswer: 26"
+ },
+ {
+  "set": "gsm8k",
+  "out": "There are 250 calories per serving of chips and you have 5 servings so 250*5 = 1250 calories\nYou have already eaten 1800 calories and you need to eat 2000-1800 = 200 more calories\nYou have 1250-200 = 1050 calories left from the chips\n1050 calories and 250 calories per serving of chips means you can eat 1050/250 = 4.2 servings of chips\n4.2 servings of chips and 1 serving is 4.2+1 = 5.2 servings\n5.2 servings of chips and 1 serving is 5.2*1 = 5.2 servings\n5.2 servings of chips and 1 serving is 5.2*1 = 5.2 servings\n5.2 servings of chips and 1 serving is 5.2*1 = 5.2 servings\nAnswer: 5.2"
+ },
+ {
+  "set": "gsm8k",
+  "out": "He makes 20/10=2 pounds of beeswax\nSo he needs 2*10=$20.00 in supplies\nSo he makes 20*2=$40.00 selling the candles\nSo his net profit is 40-20=$20.00\nAnswer: 20"
+ },
+ {
+  "set": "gsm8k",
+  "out": "On Tuesday, Meredith wrote 2/5 * 5 = 2 articles.\nOn Wednesday, she wrote 2 * 2 = 4 articles.\nThe total number of articles she wrote is 5 + 2 + 4 = 11 articles.\nSince each article takes 4 hours to write, she spent 11 * 4 = 44 hours writing articles.\nAnswer: 44"
+ },
+ {
+  "set": "gsm8k",
+  "out": "She started with 80 post-its and had 23 remaining after placing them on the cups of coffee, so she placed 80-23 = 57 post-its on the cups of coffee.\nShe placed a post-it on 57 of the cups of coffee and had 220-57 = 163 post-its left over.\nShe purchased a package of Post-it notes notes in the store and had 163+57 = 220 post-its after placing them on the cups of coffee.\nAnswer: 220"
+ },
+ {
+  "set": "gsm8k",
+  "out": "He bought 200/40=5 blue ties\nSo he bought 5*2=10 red ties\nRed ties cost 40*.5=$20 more than blue ties\nSo he spent 40+20=$60 on red ties\nSo he spent 200+60=$260 on ties\nAnswer: 260"
+ },
+ {
+  "set": "gsm8k",
+  "out": "1 foot = 12 inches\n4 feet = 4 x 12 inches = 48 inches\n48 inches / 6 inches/piece = 8 pieces\nAnswer: 8"
+ },
+ {
+  "set": "gsm8k",
+  "out": "There are a total of 15 floors * 8 units/floor = 120 units in the building.\nSince 3/4 of the building is occupied, there are 120 units * 3/4 = 90 units that are occupied.\nThe number of unoccupied units is 120 units - 90 units = 30 units.\nAnswer: 30"
+ },
+ {
+  "set": "gsm8k",
+  "out": "There are 252/12 = 21 dozen eggs per day\nSo, Lloyd makes 21 x $2 = $42 per day\nTherefore, Lloyd makes $42 x 7 = $294 per week on eggs\nAnswer: 294"
+ },
+ {
+  "set": "gsm8k",
+  "out": "He is sailing for 4 hours at 10 mph so 4*10 = 40 miles\nHe then travels back at 6 mph for 40/6 = 6.666... hours\nAnswer: 6.666..."
+ },
+ {
+  "set": "gsm8k",
+  "out": "The comic books weigh a total of 30 * 1/4 = 7.5 pounds.\nThe books and toys currently weigh 7.5 + 15 = 22.5 pounds.\nThe books weigh 22.5 - 7.5 = 15 pounds.\nTherefore, he needs to remove 15 / 1/2 = 30 toys.\nAnswer: 30"
+ },
+ {
+  "set": "gsm8k",
+  "out": "On Thursday, the mechanic will earn 6*60 = $360 for repairing the truck tires.\nOn Thursday, the mechanic will earn 4*40 = $160 for repairing the car tires.\nOn Friday, the mechanic will earn 12*40 = $480 for repairing the car tires.\nOn Friday, the mechanic will earn 0*60 = $0 for repairing the truck tires.\nOn Friday, the mechanic will earn 480-0 = $480.\nOn Thursday, the mechanic will earn 360+160 = $520.\nThe mechanic will earn 480-520 = -$40 more on Friday than on Thursday.\nAnswer: -40"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The two house cats have a total of 12 + 12 = 24 kittens.\nPatchy has 3 * 12 = 36 kittens.\nThe Doubtfire family now has 36 + 24 + 7 = 67 kittens.\nAnswer: 67"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Jean has 30 - 2 = 28 lollipops left after eating 2.\nJean can make 28 / 2 = 14 bags of lollipops.\nAnswer: 14"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The tickets and popcorn will cost Peter 7+7 = 14 dollars.\nHe can go to the movies 42/14 = 3 times.\nAnswer: 3"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The total weight of the boxes must not exceed 5000 - 3755 = 1245 pounds.\nThe number of boxes that can be loaded is 1245 / 15 = 83 boxes.\nAnswer: 83"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The $3.00 delivery fee and $4.00 tip added $3 + $4 = $7.00 to the price of the groceries.\nThe 25% fee added $40 * .25 = $10.00 to the price of the groceries.\nSo the groceries cost $40 + $10 + $7 = $57.00\nAnswer: 57"
+ },
+ {
+  "set": "gsm8k",
+  "out": "There are 6 clusters of 20 fruit, so there are 6 * 20 = 120 raspberries in clusters.\nThere are 67 individual raspberries not in clusters.\nThere are 120 + 67 = 187 raspberries total.\nAnswer: 187"
+ },
+ {
+  "set": "gsm8k",
+  "out": "There are 25 - 1 = 24 good oranges.\n20/100 * 25 = 5 are unripe.\n2 + 5 = 7 are unripe or bad.\n24 - 7 = 17 are good.\nAnswer: 17"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The brooch cost 500+800=$1300\nSo the insurance cost 1300*.1=$130\nSo the total cost was 1300+130=$1430\nAnswer: 1430"
+ },
+ {
+  "set": "gsm8k",
+  "out": "After 30 years, Marcy will have received 30 * $50,000/year = $1,500,000.\nAfter 20 years, she will have received 20 * $50,000/year = $1,000,000.\nThe value of the pension at the end of 20 years will be $1,000,000 / $1,000,000 = 1.\nAfter 20 years, she will be entitled to 5% * $1 = $0.05/year.\nAfter 30 years, her annual pension will be $0.05/year + $50,000/year = $50,050/year.\nAnswer: 50,050"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Since a year has 12 months, the total number of months in the first half of the year is 12/2 = 6 months.\nIf the streaming company charged her $140 per month, the total cost for the first half of the year is 6*140 = $840\nIn the second half of the year, the company charged her 10/100*140 = $14 less than the initial amount.\nThe total cost for the second half of the year is 140-14 = $126\nThe total cost for the second half of the year for 6 months is 6*126 = $756\nThe total cost for the entire year is 756+840 = $1596\nAnswer: 1596"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Sophia's car gets 100 miles per 4 gallons of gas, or 100/4 = 25 miles per gallon of gas.\nHer car's gas tank holds 12 gallons of gas, so she can travel 25 * 12 = 300 miles on a full tank of gas.\nAnswer: 300"
+ },
+ {
+  "set": "gsm8k",
+  "out": "He watches 2*3=6 hours of TV\nHe reads for 2/2=1 hour\nSo he spends 6+1=7 hours on TV and reading per week\nThat means he spends 7*4=28 hours on TV and reading in 4 weeks\nAnswer: 28"
+ },
+ {
+  "set": "gsm8k",
+  "out": "There are 4 schools * 2 teams per school = 8 teams in total.\nThere are 8 teams * 5 players per team = 40 players in total.\nThere are 4 schools * 2 coaches per school = 8 coaches in total.\nThere are 40 players + 8 coaches = 48 people in total.\nAnswer: 48"
+ },
+ {
+  "set": "gsm8k",
+  "out": "There were 175 diamonds - 35 rubies = 140 rubies.\nThere were 140 rubies * 2 = 280 emeralds.\nSo, there were 175 diamonds + 140 rubies + 280 emeralds = 595 gems in the chest.\nAnswer: 595"
+ },
+ {
+  "set": "gsm8k",
+  "out": "There are 60 x 2 = 120 boys at the school.\nThere are 60 + 120 = 180 students at the school.\nTherefore, there are 180/5 = 36 teachers at the school.\nAnswer: 36"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Bailey receives a total of 5 * 8 = 40 dollars from her allowance.\nBailey started with 100 - 40 = 60 dollars.\nAnswer: 60"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Each day she teaches 5 classes and she teaches 5 days a week so she makes 5*15 = $75.00 per day\nShe makes $75.00 per day and she teaches 5 days a week so she makes 75*5 = $375.00 per week\nShe also teaches 8 classes on Saturday and each class has 15 students so she makes 8*15 = $120.00 on Saturday\nShe makes $375.00 per week and $120.00 on Saturday so she makes 375+120 = $495.00 per week\nAnswer: 495"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The second recipe has 20 x 2 = 40 instructions.\nSo, Kelian has to read 20 + 40 = 60 instructions to prepare the two dishes.\nAnswer: 60"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The total amount of money from selling brownies is 43 brownies * $3/brownie = $129.\nThe total amount of money from selling cheesecakes is 23 cheesecakes * $4/cheesecake = $92.\nThe total amount of money from selling brownies and cheesecakes is $129 + $92 = $221.\nAnswer: 221"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The total cost of the cell phones is 5 x $150 = $750.\nThe total interest for the cell phones is $750 x 2% = $15.\nTherefore, Shiela will pay a total of $750 + $15 = $765.\nShiela will pay $765/3 = $255 per month for 3 months.\nAnswer: 255"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Artie will sell 12 pots of marigolds at $3 per pot because 2.74 rounds down to 3.\nHe will make 36 dollars from marigolds because 12 x 3 = 36\nArtie will sell 9 pots of petunias at $2 per pot because 1.87 rounds down to 2.\nHe will make 18 dollars from petunias because 9 x 2 = 18\nArtie will sell 17 pots of begonias at $2 per pot because 2.12 rounds up to 2.\nHe will make 34 dollars from begonias because 17 x 2 = 34\nHe will make 98 dollars because 36 + 18 + 34 = 98\nAnswer: 98"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The second level will have 16*2=32 square feet.\nThe third level will have 32*2=64 square feet.\nThe fourth level will have 64*2=128 square feet.\nThe total square footage of the castle will be 128+64+32+16=240 square feet.\nThe average square footage per level will be 240/4=60 square feet.\nAnswer: 60"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Cecilia will feed the puppy 1 cup of dog food for 180 days, which is 180 * 1 = 180 cups of dog food.\nThe puppy will be fed 2 cups of dog food for 365 - 180 = 185 days.\nCecilia will use 185 * 2 = 370 cups of dog food for the rest of the puppy's life.\nIn total, she will use 180 + 370 = 550 cups of dog food.\nSince one bag of dog food contains 110 cups, Cecilia will need 550 / 110 = 5 bags of dog food.\nAnswer: 5"
+ },
+ {
+  "set": "gsm8k",
+  "out": "If Sarah does 400 pounds of laundry, and David does 1/4 as much, David does 1/4*400 = 100 pounds of laundry.\nRaymond does 1/2 as much laundry as Sarah, which translates to 1/2*400 = 200 pounds of laundry.\nThe total amount of laundry Raymond and David do is 200+100 = 300 pounds of laundry.\nThe difference in the amount of laundry Raymond and David do is 300-200 = 100 pounds of laundry.\nAnswer: 100"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The flowers can be bought in 18/3 = 6 packages of 3.\nThis will cost 6 * 2.50 = $15.\nThe flowers can also be bought in 18/2 = 9 packages of 2.\nThis will cost 9 * 1 = $9.\nBy buying the flowers in the better deal, Vincent will save 15 - 9 = $6.\nAnswer: 6"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The discount is 100*.3=$30\nSo the grooming cost is 100-30=$70\nAnswer: 70"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The two girls shared 24 x 1/6 = 4 liters of water.\nSo, 24 - 4 = 20 liters of water were left.\nSince the boy got 6 liters of water, then 20 - 6 = 14 liters of water were left.\nAnswer: 14"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Charlie had 10 stickers + 21 stickers = 31 stickers.\nHe got 23 stickers + 31 stickers = 54 stickers.\nHe gave his sister 9 stickers, so 54 stickers - 9 stickers = 45 stickers.\nHe used 28 stickers for a greeting card, so 45 stickers - 28 stickers = 17 stickers.\nAnswer: 17"
+ },
+ {
+  "set": "gsm8k",
+  "out": "4 times Grace's weight is 4 * 125 = 500 pounds.\nAlex weighs 500 - 2 = 498 pounds.\nTheir combined weight is 498 + 125 = 623 pounds.\nAnswer: 623"
+ },
+ {
+  "set": "gsm8k",
+  "out": "There are 3*25=75 roses total.\nThere are 75*8=600 thorns total.\nAnswer: 600"
+ },
+ {
+  "set": "gsm8k",
+  "out": "They won 8+22/2=16 games.\nAnswer: 16"
+ },
+ {
+  "set": "gsm8k",
+  "out": "He has been on 4 vacations a year for 34-23 = 11 years\nThat means he has 11*4 = 44 vacation shirts\nEach vacation is a different row of the quilt, so he has 44 rows of the quilt\nAnswer: 44"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The second time the alarm went off, it rang for 3 x 4 = 12 times.\nThe third time it rang for 12 / 2 = 6 times.\nSo, the alarm rang a total of 4 + 12 + 6 = 22 times.\nAnswer: 22"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Sylvie's annual salary is $600 * 12 = $7200.\nIf she stays in the company for 5 years, her annual salary will be $7200 + ($7200 * 10/100) = $7920.\nAfter 3 more years of service, Sylvie's annual salary will be $7920 + ($7920 * 10/100) = $8712.\nAnswer: 8712"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Let x be the number of copies Harald sold. Marilyn sold 10*x copies.\n10*x+x=88,000\n11*x=88,000\nx=8,000\nAnswer: 8,000"
+ },
+ {
+  "set": "gsm8k",
+  "out": "16 friends * 1/4 = 4 friends don't show up\n16 friends - 4 friends = 12 friends show up\n12 friends * .75 = 9 friends will receive a gift bag\n9 friends * $2 = $18\nAnswer: 18"
+ },
+ {
+  "set": "gsm8k",
+  "out": "An adult dinosaur will eat 10 lbs of potato salad and a child will eat 10/2 = 5 lbs of potato salad.\nThere will be 20 adults and 5 children at the picnic and 20*10 = 200 lbs of potato salad will be eaten by the adults.\nThe children will eat 5*5 = 25 lbs of potato salad.\nTed needs to bring 200+25 = 225 lbs of potato salad to the picnic to feed everyone.\nAnswer: 225"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Marcia has 4+2 = 6 pets.\nJan has 6*3 = 18 pets.\nTotal pets = 18+6+4 = 28 pets.\nAnswer: 28"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Corey is 10 + 1 = 11 years old.\nAmy is 11 - 2 = 9 years old.\nJackson is 9 - 5 = 4 years old.\nAnswer: 4"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Gerald ran the 400-meter hurdles in 38+2=40 seconds before his diet.\nHis diet improved his speed by 40*.10=4 seconds.\nSo Gerald can now run the 400-meter hurdles in 40-4=36 seconds.\nAnswer: 36"
+ },
+ {
+  "set": "gsm8k",
+  "out": "There are 60/2 = 30 cats.\nThe total number of cats and dogs is 30 + 60 = 90 pets.\nThe number of rabbits is 90 - 12 = 78 pets.\nThe total number of pets in the neighborhood is 78 + 90 = 168 pets.\nAnswer: 168"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Boys: 200 x 2/5 = 80\nSo, 200 - 80 = 120 are girls.\nGirls in the girl scout: 120 x 2/3 = 80\nSo, 120 - 80 = 40 girls are not in the girl scout.\nAnswer: 40"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Harry slept 9 hours - 2/3 * 9 hours = 3 hours.\nHarry slept 9 hours - 3 hours = 6 hours more than James.\nAnswer: 6"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Freda uses 32/16 = 2 cans of tomatoes.\nFreda used 2*3 = 6 tomatoes.\nAnswer: 6"
+ },
+ {
+  "set": "gsm8k",
+  "out": "There were originally 30 cars on the motorway - 5 cars that took an exit = 25 cars that had to go through the traffic jam.\n25 cars that had to go through the traffic jam - 20 cars that drove through in the second 15 minutes = 5 cars that drove through in the first 15 minutes.\nAnswer: 5"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Mary has 2 potted plants on 40 window ledges, so she has 2 * 40 = 80 potted plants.\nShe has received 18 new potted plants, so she has 80 + 18 = 98 potted plants.\nShe will give away 1 potted plant to each of 40 friends and family members, so she will give away 1 * 40 = 40 potted plants.\nShe will remain with 98 - 40 = 58 potted plants.\nAnswer: 58"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The second friend pressed on the doorbell 1/4 * 20 = 5 times more than the first friend.\nThe third friend pressed on the doorbell 60 + 10 = 70 times.\nThe total number of doorbell rings made by the three friends is 20 + 5 + 70 = 95 times.\nThe total number of doorbell rings made by all four friends is 95 + 60 = 155 times.\nAnswer: 155"
+ },
+ {
+  "set": "gsm8k",
+  "out": "There are 4 + 20 + 7 + 8 = 39 pages to read in all the textbooks.\nHe has 39 - 15 = 24 pages to read to complete all his reading.\nHe has 24 / 4 = 6 pages to read in one day to complete all his reading.\nAnswer: 6"
+ },
+ {
+  "set": "gsm8k",
+  "out": "John drinks 5 glasses of water per day for 5 days a week so 5*5 = 25 glasses of water\nHe drinks 25 glasses of water per week and 5 glasses of water per day on the weekends so 25+5 = 30 glasses of water\nAnswer: 30"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The fog bank will take 10 minutes/mile * 42 miles = 420 minutes to cover the whole city.\nAnswer: 420"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Poppy places 1000/4 = 250 pieces on the board.\nThere are 1000 - 250 = 750 pieces left.\nMom places 750/3 = 250 pieces on the board.\nThere are 750 - 250 = 500 pieces left.\nAnswer: 500"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Since Cody eats 3 times as many cookies as Amir, he eats 3*5 = 15 cookies.\nTogether, they eat 15+5 = 20 cookies.\nAnswer: 20"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Each box is 5*6*4=120 cubic inches\nSo the inner dimensions of each box are 5-2=3 inches\n6-2=4 inches\n4-2=2 inches\nSo the inner volume of each box is 3*4*2=24 cubic inches\nSo the total inner volume of all 3 boxes is 24*3=72 cubic inches\nAnswer: 72"
+ },
+ {
+  "set": "gsm8k",
+  "out": "He watched 2 hours of TV on Monday and Tuesday because 2 x 1 = 2\nHe watched 1.5 hours of TV on Thursday because 1 + 0.5 = 1.5\nHe watched 2 hours of TV on Friday because 2 x 1 = 2\nHe watched 5.5 hours of TV on Wednesday because 7 - 2 - 1.5 - 2 = 5.5\nHe watched 11 30-minute episodes on Wednesday because 5.5 / 0.5 = 11\nAnswer: 11"
+ },
+ {
+  "set": "gsm8k",
+  "out": "After dropping 5 cookies, Henry had 110 cookies - 5 cookies = 105 cookies.\nBefore dropping the cookies, he had 105 cookies + 5 cookies = 110 cookies.\nSince he baked 15 more cookies than he meant to, he originally meant to bake 110 cookies - 15 cookies = 95 cookies.\nSince he baked twice as many cookies as he did last year, he baked 95 cookies / 2 = 47.5 cookies.\nSince he can't bake a fraction of a cookie, he must have baked 47.5 cookies + 1 cookies = 48 cookies last year.\nAnswer: 48"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The gas station is selling gas for $3.00 a gallon and they are offering $0.20 cashback per gallon so 3-.20 = $2.80 per gallon\nIf someone buys 10 gallons of gas they will get 10*2.80 = $28.00\nAnswer: 28"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Beatrice ate 24 x 2 = 48 fruit roll-ups.\nMarcell ate 14 x 3 = 42 fruit roll-ups.\nTogether they ate 48 + 42 = 90 fruit roll-ups.\nOn average, they ate 90 / 2 = 45 fruit roll-ups.\nAnswer: 45"
+ },
+ {
+  "set": "gsm8k",
+  "out": "At a rate of 2 liters per 10 feet, the boat took on 2/10 = 0.2 liters of water per foot.\nSince it took 16 seconds to travel 20 feet, the boat took on 0.2 * 20 = 4 liters of water.\nSince the boat was 64 seconds away from shore and it took 16 seconds to travel 20 feet, it took 64 / 16 = 4 sets of 20 feet to travel the 64 feet to shore.\nSince the boat took on 4 liters of water per set of 20 feet, it took on 4 * 4 = 16 liters of water to travel the 64 feet to shore.\nAnswer: 16"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Each teacher uses the whiteboard 2 * 2 = 4 times per day.\nThe whiteboard is cleaned 3 * 4 = 12 times per day.\nAnswer: 12"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Ryan planted 2 x 15 = 30 flowers.\nSince 5 did not grow, only 30 - 5 = 25 flowers grew.\nAnswer: 25"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Brittany's phone can hold 1800/6=300 photographs.\nBrittany's phone can hold 300*50=15000 photographs.\nThe number of birds in Jamal's photograph of ducks at the zoo is 15000/50=300 birds.\nAnswer: 300"
+ },
+ {
+  "set": "gsm8k",
+  "out": "She has 10 * 10 = $100 worth of 2 x 4 x 10 boards.\nShe has 5 * 16 = $80 worth of 4 x 4 x 10 boards.\nShe has 100 + 80 = $180 worth of lumber.\nShe makes a 50% profit on the lumber, so she makes 180 * .5 = $90.\nAnswer: 90"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The total ratio representing the number of teaspoons of sugar and cups of water is 7+13 = 20\nThe fraction of the total ratio that represents the number of teaspoons of sugar is 7/20, and since Katy used 120 teaspoons of sugar, she used 7/20*120 = 42 teaspoons of sugar.\nAnswer: 42"
+ },
+ {
+  "set": "gsm8k",
+  "out": "He bought 2*3=6 pairs of shoes\nSo he paid 60*6=$360\nAnswer: 360"
+ },
+ {
+  "set": "gsm8k",
+  "out": "If there were 2 containers of imported vehicles, each having 5 vehicles inside, there were a total of 2*5 = 10 vehicles inside the containers.\nThe total number of vehicles inside the containers increased to 30 after the next day, meaning 30-10 = 20 vehicles were added to the port.\nSince each container has 5 vehicles inside, 20/5 = 4 containers were imported on the second day.\nAnswer: 4"
+ },
+ {
+  "set": "gsm8k",
+  "out": "If Adrien's total salary was 30 percent higher than Lylah's, then Lylah was making 30/100 * 40000 = $12000 less than Adrien.\nIf Adrien's total salary was 40000 + 12000 = $52000.\nIf Adrien earned $40000 four years ago, he is now making 40000 + 40000 * 40% = $208000.\nIf Adrien's total salary was 30 percent higher than Lylah's, then Lylah was making 40000 - 12000 = $28000.\nIf Adrien's total salary was 30 percent higher than Lylah's, and Lylah was making $28000, then Lylah is now making 28000 + 28000 * 40% = $39200.\nThe total salary the two were making four years later is 28000 + 208000 + 39200 = $266000.\nAnswer: 266000"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Miguel uses 2 x 30 = 60 sheets of paper per week.\nSo, he uses 60 x 4 = 240 sheets of paper every month.\nAnswer: 240"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Kael brought 5 x 2 = 10 apples.\nHe also brought 8/2 = 4 oranges.\nSo, there are a total of 5 + 8 + 10 + 4 = 27 fruits.\nAnswer: 27"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Monday: 8 hours\nTuesday and Wednesday: 8 - 2 = 6 hours\nThursday to Sunday: 6 + 1 = 7 hours\nTotal: 8 + 6 + 7 = 21 hours\nAnswer: 21"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Rosie runs 10 x 3 = 30 miles in the first 3 hours.\nShe runs 5 x 4 = 20 miles in the next 4 hours.\nTherefore, Rosie can run a total of 30 + 20 = 50 miles in 7 hours.\nAnswer: 50"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Jennie stamps 60/3 = 20 letters.\nThere were 30 - 20 = 10 letters in the pile of already-stamped letters before she began.\nAnswer: 10"
+ },
+ {
+  "set": "gsm8k",
+  "out": "After using 3 spoons to sample her stew, Julia had 12-3 = 9 spoons left.\nSince her husband gave her 5 spoons, that means he bought 5-0 = 5 spoons because he didn't have any spoons to begin with.\nSince Julia was out of spoons to begin with, that means there were 0 spoons in the package she bought.\nAnswer: 5"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Dylan bought 38 + 6 = 44 fish sausages.\nTherefore, Dylan bought 38 + 44 = 82 sausages in all.\nAnswer: 82"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Amy made 20+50 = 70 friends.\nTogether, Amy and Lily have 70+50 = 120 friends.\nAnswer: 120"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Each watermelon costs 3*15 = 45$.\nHe will spend 4*45 = 180$ on watermelons.\nHe will spend 20*15 = 300$ on peppers.\nHe will spend 10*5 = 50$ on oranges.\nHe will spend a total of 180+300+50 = 530$.\nAnswer: 530"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Each patient spends 24/60=1/5 of an hour in the hospital\nSo the hospital makes 500*(1/5)=100 hours\nThat means the hospital makes 100*150=$15,000 from the patients\nThe hospital charges the patients 100*200=$20,000\nSo the hospital makes a profit of 20,000-15,000=$5,000\nAnswer: 5000"
+ },
+ {
+  "set": "gsm8k",
+  "out": "60/3 = 20 elves quit after the children's vomit.\n60 - 20 = 40 elves remain.\n40 - 10 = 30 elves remain after the kids' kicks.\nAnswer: 30"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Joseph's expenditure in June was $500 - $60 = $440.\nTherefore, his total expenditure for those two months was $500 + $440 = $940.\nAnswer: 940"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Pam rode the roller coaster 2 x 6 = 12 tickets.\nFred rode the roller coaster 4 x 6 = 24 tickets.\nPam rode the luge 2 x 6 = 12 tickets.\nFred rode the luge 2 x 6 = 12 tickets.\nSo, they used a total of 12 + 24 + 12 + 12 = 60 tickets.\nAnswer: 60"
+ },
+ {
+  "set": "gsm8k",
+  "out": "On Tuesday, Walt walked 6 * 4 = 24 miles.\nFrom Monday to Tuesday, Walt walked 4 + 24 = 28 miles.\nOn Wednesday, Walt walked 41 - 28 = 13 miles.\nAnswer: 13"
+ },
+ {
+  "set": "gsm8k",
+  "out": "He pays 4*15=$60 per month\nSo he pays 60*12=$720 per year\nAnswer: 720"
+ },
+ {
+  "set": "gsm8k",
+  "out": "3 times as many video games as Brian has is 3*20 = 60 video games\n60-5 = 55 video games\nAnswer: 55"
+ },
+ {
+  "set": "gsm8k",
+  "out": "There are 27/3=9 unicorns in the Scottish Highlands.\nOut of those 9, 9/3=3 are female.\nAnswer: 3"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The 2 subs will cost 2 * $7.50 = $15.00\nThe 2 bags of chips will cost 2 * $1.50 = $3.00\nThe 2 cookies will cost 2 * $1.00 = $2.00\nThe total cost of the food will be $15.00 + $3.00 + $2.00 = $20.00\nThe delivery fee will be $20.00 * 20% = $4.00\nThe total cost of the order including the delivery fee will be $20.00 + $4.00 = $24.00\nAdding the tip will make the order $24.00 + $5.00 = $29.00\nAnswer: 29"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Mark completed 5 questions per hour * 8 hours = 40 questions on the first test.\nHe completed 5 questions per hour * 6 hours = 30 questions on the second test.\nHe attempted 40 questions + 30 questions = 70 questions.\nTherefore, Mark left 75 questions - 70 questions = 5 questions incomplete.\nAnswer: 5"
+ },
+ {
+  "set": "gsm8k",
+  "out": "There are 22+4*12=68 pink gumballs.\nAnswer: 68"
+ },
+ {
+  "set": "gsm8k",
+  "out": "There are 20 - 12 - 4 = 4 semi-automatic cars.\nTherefore, 4/20 x 100% = 20% of the cars are semi-automatic.\nAnswer: 20"
+ },
+ {
+  "set": "gsm8k",
+  "out": "There are 700/3 = 233 baby bees.\nThere are 233*2 = 466 baby bees.\nThere are 466*2 = 932 worker bees.\nAnswer: 932"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Jordan plays video games for 2 x 7 = 14 hours a week.\nHe would earn 10 x 14 = $140 in one week if he spent his video game time working.\nAnswer: 140"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The food items cost 2+3+3+3+4=15 dollars\nThe nonfood items cost 100-15=85 dollars\nThe tax came to 85*.10=8.5 dollars\nSo everything cost 85+8.5=93.5 dollars\nAnswer: 93.5"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Each client will cost $2 * 2 bottles of bleach + $5 * 1 pack of cloths = $9.\nThere will be 3 + 5 = 8 clients in total.\nTotal expenses will be 8 clients * $9 per client = $72.\nTotal profit will be $92 - $72 = $20.\nAnswer: 20"
+ },
+ {
+  "set": "gsm8k",
+  "out": "There are 10 x 100 = 1000 pineapples per 10 hectares.\nJohn can harvest 1000 x 12 = 12000 pineapples in a year.\nAnswer: 12000"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The 500 piece box has 500 pieces of legos\nThe 3 times more legos in the 3 times more box is 3*500 = 1500 pieces of legos\nThe 1/4 box has 1/4*500 = 125 pieces of legos\nAll total, there are 500+1500+125 = 2125 pieces of legos\nAnswer: 2125"
+ },
+ {
+  "set": "gsm8k",
+  "out": "30 bees left the hive in the first 6 hours.\n1/2 that many bees, or 30/2 = 15 bees, returned in the next 6 hours.\nTwo times as many bees as the 15 that returned, or 2*15 = 30 bees, left the hive in the next 6 hours.\n30 bees that left the hive in the first 6 hours didn't return to the hive, so 30-15 = 15 bees returned to the hive in the next 6 hours.\n15 bees that left the hive in the first 6 hours returned to the hive, so 15+30 = 45 bees returned to the hive in the next 6 hours.\nAnswer: 45"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Brittany's mom bought 1 adult ticket + 1 child ticket = 2 tickets.\nThe admission cost for 2 tickets is 2 tickets * $10/ticket = $20.\nBrittany's mom gave the cashier $20 + $12 = $32.\nBrittany's mom received $8 in change, so she gave the cashier $32 - $8 = $24.\nAnswer: 24"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Dorothy has 12/3 = 4 friends on Facebook.\nJames has 4 x 4 = 16 friends on Facebook.\nAnswer: 16"
+ },
+ {
+  "set": "gsm8k",
+  "out": "First convert Steve's travel distance from miles to feet: 3 miles * 5280 feet/mile = 15840 feet\nThen divide that distance by Steve's biking speed to find the travel time: 15840 feet / 440 feet/minute = 36 minutes\nThen convert Tim's travel distance from miles to feet: 2 miles * 5280 feet/mile = 10560 feet\nThen divide that distance by Tim's skating speed to find the travel time: 10560 feet / 264 feet/minute = 40 minutes\nThen subtract Tim's travel time from Steve's travel time to find the difference: 40 minutes - 36 minutes = 4 minutes\nAnswer: 4"
+ },
+ {
+  "set": "gsm8k",
+  "out": "5 people came on bicycles and each had 2 tires so 5*2 = 10 tires\n3 people came on tricycles and each had 3 tires so 3*3 = 9 tires\n1 person came on a unicycle and had 1 tire so 1*1 = 1 tire\n10+9+1 = 20 tires\n20 tires at 25 cents a tire is 20*25 = 500 cents\n500 cents is 500/100 = 5 dollars\nAnswer: 5"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Carl buys 10 x 6 = 60 cookies.\nCarl pays 60 x $0.10 = $6 for the cookies.\nCarl receives $10 - $6 = $4 in change.\nAnswer: 4"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Dave ate 14 french fries + 1 seagull ate 14/2 = 7 french fries.\n3 pigeons ate 3*3 = 9 french fries.\n7 french fries + 9 french fries = 16 french fries.\n16 french fries - 9 french fries = 7 french fries.\n7 french fries + 7 french fries = 14 french fries.\n14 french fries + 2/3*14 french fries = 14 french fries + 9 1/3 french fries = 23 1/3 french fries.\n23 1/3 french fries + 1 ant ate 1 french fry = 24 1/3 french fries.\n24 1/3 french fries - 5 french fries = 19 1/3 french fries.\n19 1/3 french fries * 3 = 58 french fries.\nAnswer: 58"
+ },
+ {
+  "set": "gsm8k",
+  "out": "On 3 of the days of the week, he has 3 classes per day that last 1 hour so he spends 3*1 = 3 hours in class on those days\nOn 2 of the days of the week, he has 2 classes per day that last 2 hours so he spends 2*2 = 4 hours in class on those days\nIn one week, he spends 3+4 = 7 hours in class\nIn one semester, he spends 7*16 = 112 hours in class\nAnswer: 112"
+ },
+ {
+  "set": "gsm8k",
+  "out": "First find the total length of the rolls: 300 rolls * 4 inches/roll = 1200 inches\nThen find the total length of the croissants: 120 croissants * 6 inches/croissant = 720 inches\nThen find the total length of the baguettes: 60 baguettes * 2 feet/baguette = 120 feet\nThen add the length of each type of baked good to find the total length: 1200 inches + 720 inches + 120 feet = 2040 inches\nThen convert the length of the croissants and baguettes to inches: 120 feet * 12 inches/foot = 1440 inches\nThen add the length of the croissants and baguettes to the length of the rolls to find the total length: 2040 inches + 1440 inches = 3480 inches\nThen divide the total length by 12 to convert to feet: 3480 inches / 12 inches/foot = 290 feet\nAnswer: 290"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The apes in the zoo need 200+400+100 = 700 bananas every month.\nThe zookeeper needs 700*2 = 1400 bananas to last for 2 months.\nAnswer: 1400"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Blake runs 15*100=1500 feet\nKelly runs 100*34=3400 feet\nKelly runs 3400-1500=1900 feet farther\nAnswer: 1900"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Raphael spent 4 x $1.5 = $6 on pens.\nHe spent 2 x $4 = $8 on notebooks.\nTherefore, Raphael spent $6 + $8 + $20 = $34 on everything.\nAnswer: 34"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Finn sees 11 tadpoles + 6 tadpoles = 17 tadpoles come out of hiding.\n17 tadpoles - 2 tadpoles = 15 tadpoles hide under a rock.\n15 tadpoles + 15 tadpoles = 30 tadpoles are in the pond.\nAnswer: 30"
+ },
+ {
+  "set": "gsm8k",
+  "out": "On Tuesday, the tank had 17+7 = 24 feet of water.\nOn Wednesday, the tank\u2019s water depth is 24*(2/3) = 16 feet.\nAnswer: 16"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Anakin caught 10 + 6 + 3 = 19 fish.\nLocsin caught 10 - 5 = 5 starfish.\nLocsin caught 6 - 3 = 3 sea horses.\nLocsin caught 3 + 2 = 5 clownfish.\nSo, Locsin caught 5 + 3 + 5 = 13 fish.\nTherefore, Anakin and Locsin caught 19 + 13 = 32 fish.\nAnswer: 32"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The price of a bag of marbles increases by 20/100 * $20 = $4 every two months.\nAfter 36 months, the price of a bag of marbles would be $20 + $4 * 36 / 2 = $20 + $72 = $92.\nAnswer: 92"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The doll is worth 3 * $5 = $15.\nOne red car is worth $4 and one action figure is worth $5 so a red car and an action figure are worth $4 + $5 = $9.\nAll the red cars are worth 5 * $9 = $45.\nAll the action figures are worth 3 * $5 = $15.\nAll the toys are worth $45 + $15 + $15 = $75.\nAnswer: 75"
+ },
+ {
+  "set": "gsm8k",
+  "out": "If she does her own taxes, she'll lose 35*3 = $105 in income.\nHiring an accountant will cost $90, so she'll have 90-105 = $15 more income.\nAnswer: 15"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The total cost of the accessories is 157 + 74 + 102 = 333.\nThe total cost of the computer is 1090 + 333 = 1423.\nThe total cost of the accessories and the computer is 1423 + 333 = 1756.\nThe total cost of the accessories, the computer and the CD burner is 1756 + 74 = 2430.\nThe total cost of the accessories, the computer, the CD burner and the printer is 2430 + 102 = 3432.\nThe total cost of the accessories, the computer, the CD burner, the printer and the CD burner is 3432 + 102 = 4432.\nThe total cost of the accessories, the computer, the CD burner, the printer and the CD burner is 4432 - 1500 = 2932.\nAnswer: 2932"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Sandra needs 3 x 15 = 45 eggs.\nShe needs to babysit 45/9 = 5 times.\nAnswer: 5"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Let S be Seth's age and B be Brooke's age. We know that S = 2B and S + B + 2 = 28. Substituting the first equation into the second, we get 2B + B + 2 = 28. Combining like terms, we get 3B + 2 = 28. Subtracting 2 from both sides, we get 3B = 26. Dividing both sides by 3, we get B = 26/3 = 8 2/3. Since ages are not fractions, we can round down to 8 years old for Brooke. Substituting that age into the first equation, we get S = 2 * 8 = 16 years old for Seth.\nAnswer: 16"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Twice the money Ethel has is 2 x 8 = 16 dollars.\nJimmy has 16 + 2 = 18 dollars.\nAnswer: 18"
+ },
+ {
+  "set": "gsm8k",
+  "out": "He walks 20*5=100 miles a day\nSo he walks 100*5=500 miles a week\nSo he walks 500-10*2=480 miles\nAnswer: 480"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The jacket costs 25*3 = 75 dollars.\nThe average cost of the hat and jacket is (25+75)/2 = 50 dollars.\nThe pants cost 50*2 = 100 dollars.\nThe total cost of the uniform is 25+75+100 = 200 dollars.\nAnswer: 200"
+ },
+ {
+  "set": "gsm8k",
+  "out": "First find the total number of legs from the spiders: 80 spiders * 8 legs/spider = 640 legs\nThen find the total number of legs from the insects: 90 insects * 6 legs/insect = 540 legs\nThen find the total number of legs from the invertebrates: 3 invertebrates * 10 legs/invertebrate = 30 legs\nThen add the number of legs from each group to find the total number of legs: 640 legs + 540 legs + 30 legs = 1210 legs\nAnswer: 1210"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Since Sally Thirtytwo is 8, Sally Four is 8 years old.\nGranny Red is 2 * 8 = 16 years old.\nSally Two is 16 + 3 = 19 years old.\nThe total age of the three birds is 19 + 16 + 8 = 43 years.\nThe total age of the four birds is 43 + 8 = 51 years.\nAnswer: 51"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Jessica's minimum payment is 300 + 200 + 500 = 1000.\nShe wants to pay 1000 * 50% = 500 more.\nSo she will pay 1000 + 500 = 1500/month.\nIn a year, she will pay 1500/month * 12 months/year = 18,000/year.\nAnswer: 18,000"
+ },
+ {
+  "set": "gsm8k",
+  "out": "First find the total time Billy spends peeling the potatoes: 60 potatoes * 1.5 minutes/pepper = 90 minutes\nThen find the total time he spends cutting the potatoes: 60 potatoes * 5 seconds/pepper = 300 seconds\nThen convert the peeling time to seconds: 90 minutes * 60 seconds/minute = 540 seconds\nThen add the peeling and cutting times to find the total prep time: 540 seconds + 300 seconds = 840 seconds\nAnswer: 840"
+ },
+ {
+  "set": "gsm8k",
+  "out": "They make 20*0.50 = $10 per gallon\nThey make 10+3+2 = $15 per gallon\nThey made 25/15 = 1.666 gallons\nThey spent 1.666*3 = $5 on lemons\nAnswer: 5"
+ },
+ {
+  "set": "gsm8k",
+  "out": "There were 240 - 80 - 240 = 0 Chinese participants.\nSince there were 60 boys on the Chinese team, there were 60 + 0 = 60 girls on the Chinese team.\nAnswer: 60"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Zaid spends 6000/4 = 1500$ on rent.\nHe spends 6000/3 = 2000$ on car fuel.\nHe will have 6000 - 1500 - 2000 = 2500$ left after paying for rent and car fuel.\nHe will have 2500/2 = 1250$ left after donating 1250$ to his favorite charity.\nHe will have 1250 - 200 - 700 = 1050$ left after giving his daughter 200$ and his wife 700$.\nAnswer: 1050"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Since Bo has 40 crabs, Monic has 40-4 = 36 crabs.\nRani has 36+10 = 46 crabs.\nTogether, the three have 36+46+40 = 122 crabs.\nAnswer: 122"
+ },
+ {
+  "set": "gsm8k",
+  "out": "He worked 5+8=13 hours\nSo he earned 10*13=$130\nAnswer: 130"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The winner got 3/4*80 = 60 votes.\nThe loser got 80-60 = 20 votes.\nAnswer: 20"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Sandra ordered 200 pink calla lilies, which were 5 times the number of white carnations, so she ordered 200/5 = 40 white carnations.\nSandra ordered 4 times as many red roses as white carnations, so she ordered 40*4 = 160 red roses.\nAnswer: 160"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Two years ago, Mark was 30 + 5 = 35 years old.\nHalf of Jan's age is 30 / 2 = 15 years old.\nSo, Mark was 35 - 15 = 20 years old.\nThat means Jean is 20 + 2 = 22 years old.\nAnswer: 22"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The first team will have a total run time of 4*55=220 seconds\nThe second team's first runner will have a total run time of 60 seconds\nThe second team's second runner will have a total run time of 60-3=57 seconds\nThe second team's third runner will have a total run time of 57-3=54 seconds\nThe second team's fourth runner will have a total run time of 54-3=51 seconds\nThe second team's total run time will be 60+57+54+51=222 seconds\nThe faster team will win by 222-220=2 seconds\nAnswer: 2"
+ },
+ {
+  "set": "gsm8k",
+  "out": "There are 6 possible outcomes when rolling a die, and 1/6 is the probability of any given outcome, so there is a 1/6 * 100% = 16.666...% chance of rolling a number greater than 3.\nThere are 6 possible outcomes when rolling a die, and 1/6 is the probability of any given outcome, so there is a 1/6 * 100% = 16.666...% chance of rolling a 2, and since there are 3 even numbers on a die, there is a 3/6 * 100% = 50% chance of rolling an even number, and since there are 6 possible outcomes, there is a 50% * 50% = 25% chance of rolling two even numbers in a row.\nThere is a 16.666...% - 25% = -8.333...% chance that Jerry rolls a number greater than 3 that is not an even number, which is the same as 100% - 8.333...% = 91.666...% chance that he rolls a number greater than 3 that is not an even number.\nAnswer: 91.666..."
+ },
+ {
+  "set": "gsm8k",
+  "out": "Jenna picked 20/2 = 10 apples.\nTogether, they picked 20 + 10 = 30 apples.\nAnswer: 30"
+ },
+ {
+  "set": "gsm8k",
+  "out": "There are 10 cages of hamsters that have 5 pieces of straw each for a total of 10*5 = 50 pieces of straw.\nThere are 20 pieces of straw that are distributed among the rabbits for a total of 20+50 = 70 pieces of straw.\nThere are 160-70 = 90 pieces of straw that are distributed among the rats and 3 cages of rats that are in equal groups for a total of 90/3 = 30 rats.\nAnswer: 30"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The interest of Mandy after 1 month is $100 x 2% = $2.\nThe interest of Mandy after 2 months is $100 + $2 = $102.\nThe interest of Mandy after 3 months is $102 + $2 = $104.\nAnswer: 104"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Let x be the number of bags of wheat the trader bought from the farmer.\nThe total cost of buying the wheat is 20*x + 2*x = 22*x\nThe total revenue from selling the wheat is 30*x - 2*x = 28*x\nThe total profit made by the trader is 28*x - 22*x = 6*x\nSince the total profit made by the trader is $400, 6*x = 400\nThe number of bags of wheat the trader sold is x = 400/6 = 66.666...\nSince the number of bags of wheat must be a whole number, the trader sold 66 bags of wheat.\nAnswer: 66"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The tickets cost $20.25 and they bought 3 so that's 20.25*3 = $60.75\nThey spent $4.50 less on food than on tickets so they spent 60.75-4.50 = $56.25 on food\nThey went on 2 rides that cost $33 each so that's 2*33 = $66\nAll together they spent 60.75+56.25+66 = $183\nThey will split the $183 cost 3 ways so each of them will pay 183/3 = $61\nAnswer: 61"
+ },
+ {
+  "set": "gsm8k",
+  "out": "He collects 2 peaches a minute for 3*60=180 minutes\nSo he collects 2*180=360 peaches\nAnswer: 360"
+ },
+ {
+  "set": "gsm8k",
+  "out": "There are 10 ducks who need 3.5 pounds of insects to eat, so they need 10*3.5 = 35 pounds of insects to eat.\nThere are 35 pounds of insects that the ducks need to eat and there are 7 days in a week, so they need to eat 35/7 = 5 pounds of insects per day.\nAnswer: 5"
+ },
+ {
+  "set": "gsm8k",
+  "out": "He plants 10 trees a year and cuts down 2 so he adds 10-2 = 8 trees a year\nHe starts with 50 trees and adds 8 trees a year so after 10 years he has 50+8*10 = 130 trees\n30% of the trees die so 30/100*130 = 39 trees die\nHe has 130 trees - 39 trees = 91 trees left\nAnswer: 91"
+ },
+ {
+  "set": "gsm8k",
+  "out": "On Friday morning, the neighbors placed 18 pink plastic flamingos out on Sue's front yard.\nOn Saturday morning, the neighbors took back one third of the flamingos, painted them white, and put these newly painted white flamingos back out on Sue's front yard.  So, 18/3 = 6 white flamingos were painted.\n6 white flamingos were painted and added to the 18 pink flamingos that were out on Sue's front yard, for a total of 6+18 = 24 flamingos.\nOn Sunday morning, the neighbors added another 18 pink plastic flamingos to the collection, bringing the total to 24+18 = 42 pink flamingos.\nAnswer: 42"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Violetta will buy 5 crayons because 5 x 2 = 10\nShe will spend $10 on crayons because 10 x 2 = 20\nShe will get $0 change because 20 - 20 = 0\nAnswer: 0"
+ },
+ {
+  "set": "gsm8k",
+  "out": "A pen costs $1.20 + $0.30 = $1.50.\n8 pens will cost 8 x $1.50 = $12.\nAnswer: 12"
+ },
+ {
+  "set": "gsm8k",
+  "out": "There will be a total of 2 pounds of carrots per restaurant * 40 restaurants = 80 pounds of carrots distributed.\nThe amount of carrots that will not be used is 200 pounds of carrots - 80 pounds of carrots = 120 pounds of carrots.\nAnswer: 120"
+ },
+ {
+  "set": "gsm8k",
+  "out": "There are 8417 + 9092 = 17409 men and women in Soda.\nSo, there are 23786 - 17409 = 6377 children in Soda.\nAnswer: 6377"
+ },
+ {
+  "set": "gsm8k",
+  "out": "In the first month, Elaine collected 3 * 20 = 60 cards.\nIn the second month, she collected 60 - 20 = 40 cards.\nIn the third month, she collected 2 * (60 + 40) = 200 cards.\nIn total, she collected 60 + 40 + 200 = 300 cards.\nAdding the initial cards, Elaine now has 300 + 200 = 500 cards.\nAnswer: 500"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Let x be the number of sentences Mark edits for Publisher A.\nPublisher B pays Mark 2*x sentences.\nMark edits a total of x + 2*x = 1000 sentences.\nThis translates to 3*x = 1000.\nThus, x = 1000/3 \u2248 333.33 sentences.\nMark makes 5*x + 2*x*5 = 5*x + 10*x = 15*x cents.\nTherefore, Mark makes 15*x = 15*(1000/3) = 5000 cents.\nAnswer: 5000"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Baldur gets 5 pails of water in the morning and 6 pails of water in the afternoon for a total of 5+6 = 11 pails of water.\nEach pail contains 5 liters of water so 11 pails of water contain 11*5 = 55 liters of water.\nAnswer: 55"
+ },
+ {
+  "set": "gsm8k",
+  "out": "He made 2000*52=$104,000 a year\nThe raise in salary was 2000*.05=$100\nSo he made 104,000+100=$105,000\nSo he made 105,000+5000=$155,000\nAnswer: 155,000"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Each acre produces 5*10=50 tons of grapes\nThat produces 50*2=100 barrels of wine\nAnswer: 100"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Carl ate 2 x 7 = 14 slices of cheese for sandwiches.\nHe used 1 + 2 = 3 slices of cheese for breakfast omelets.\nHe used 3 x 3 = 9 slices of cheese for breakfast omelets.\nHe used 14 + 9 + 8 = 21 slices of cheese.\nAnswer: 21"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Janet bought 6 x 9 = 54 blue pens.\nShe also bought 2 x 6 = 12 red pens.\nSo, Janet has a total of 22 + 54 + 10 + 12 = 98 pens now.\nAnswer: 98"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The total of the first five tests is 89 + 71 + 92 + 100 + 86 = 458\nThe total of the five tests after removing the lowest score is 458 - 71 = 387\nThe total of the six tests will be 387 + x = 387 + x\nThe average of the six tests will be (387 + x) / 6 = 93\n387 + x = 558\nx = 171\nAnswer: 171"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Micheal rode the bike 5 times a week for 4 weeks, so 5 * 4 = 20 times\nHe rode the bike 20 times for 25 kilometers each time, so 20 * 25 = 500 kilometers\nHe changed his routine to ride the bike 2 times a week for 60 kilometers each time, so 2 * 60 = 120 kilometers\nHe did that for 3 weeks, so 3 * 120 = 360 kilometers\nIn total, Micheal rode the bike 500 + 360 = 860 kilometers\nAnswer: 860"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Each candied apple weighs 40g / 2 = 20g.\nJoe's bag of candy weighs 25 * 40 + 80 * 20 = 2000g.\nAnswer: 2000"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Monday: 4 cakes\nTuesday: 4 * 3 = 12 cakes\nWednesday: 12 * 5 = 60 cakes\nTotal: 4 + 12 + 60 = 76 cakes\nAnswer: 76"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Since a dozen has 12 items, half a dozen has 12/2 = 6 items.\nThe total cost of half a dozen plates is 6000*6 = 36000 dollars.\nIf twenty dozen cups cost 1200 dollars less than the total cost of half a dozen plates, then twenty dozen cups cost 36000-1200 = 24000 dollars.\nSince a dozen has 12 items, twenty dozen cups cost 24000/12 = 2000 dollars.\nEach cup costs 2000/20 = 100 dollars.\nAnswer: 100"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Sara will earn $5 x 4 = $20 from babysitting the kids.\nShe will earn $4 x 2 = $8 from mowing the lawn.\nSara will have $20 + $8 + $10 = $38 saved after mowing the lawn 2 times.\nSara will have $38 - $30 = $8 saved after buying the jacket.\nSara will have $8 - $20 = -$12 saved after buying the shoes.\nSara must mow the lawn $12 / $4 = 3 times to save enough money to buy the jacket and shoes.\nAnswer: 3"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Let x be the number of red chickens and y be the number of white chickens. We know that 3x + 5y = 42 and y = x + 2. Substituting the second equation into the first, we get 3x + 5(x + 2) = 42.\nSimplifying, we get 3x + 5x + 10 = 42\nCombining like terms, we get 8x + 10 = 42\nSubtracting 10 from both sides, we get 8x = 32\nDividing both sides by 8, we get x = 4 red chickens.\nAnswer: 4"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The park is 1.5 miles by 6 miles, so the total distance around the park is 1.5 + 6 + 6 + 1.5 = 15 miles\nIf Gary walks at 3 miles/hour, then he spends 15 / 3 = 5 hours walking around the park\nAnswer: 5"
+ },
+ {
+  "set": "gsm8k",
+  "out": "On the second day, there were 100+50 = 150 customers.\nThere were 500-150-100 = 250 customers on the third day.\nAnswer: 250"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Let x be the amount of water in the small pool now.\nThe big pool has 4*x gallons of water now.\n4 minutes ago, the big pool had 4*x - 4*4 = 4*x - 16 gallons of water.\nThe small pool had 4*x - 16 gallons of water 4 minutes ago.\nThe big pool had 4*x - 16 gallons of water 4 minutes ago, and the small pool had 4*x - 16 gallons of water 4 minutes ago, so 4*x - 16 = 2*(4*x - 16).\n4*x - 16 = 8*x - 32\n-4*x = -16\nx = 4\nAnswer: 4"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The shoes and belt will cost $320 + $32 = $352\nShe will have to earn $352 - $8 = $344\nShe will have to work $344 / $8 = 43 hours\nAnswer: 43"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Janeth will return $2000 + ($2000 x 10/100) = $2200.\nJaneth will have to pay a total of $165/month x 12 months = $1980.\nJaneth's remaining balance will be $2200 - $1980 = $220.\nAnswer: 220"
+ },
+ {
+  "set": "gsm8k",
+  "out": "There are 7+4 = 11 dahlias in the vase.\nThere are 4+11 = 15 flowers in the vase in total.\nAnswer: 15"
+ },
+ {
+  "set": "gsm8k",
+  "out": "If Harriet is 21, then Adrian is 21*3 = 63 years old.\nSince Harriet is 21, Zack is 21*2 = 42 years old.\nIn three years, Adrian will be 63+3 = 66 years old.\nIn three years, Harriet will be 21+3 = 24 years old.\nIn three years, Zack will be 42+3 = 45 years old.\nThe average age of the three in three years will be (66+24+45)/3 = 45 years.\nAnswer: 45"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Naomi scored 68 points and the total of all the points is 251 so 251 - 68 = 183 points is the total of the other 3 students.\nYuri scored 10 more than half as many points as Naomi so 68 / 2 + 10 = 44 points\nBrianna scored 17 more points than Naomi so 68 + 17 = 85 points\nYuri and Brianna scored a total of 44 + 85 = 129 points\nThe other 3 students scored a total of 183 - 129 = 54 points which is Jojo's score.\nAnswer: 54"
+ },
+ {
+  "set": "gsm8k",
+  "out": "She spent 10*3=30 minutes on crossword puzzles\nShe spent 5*8=40 minutes on sudoku puzzles\nShe spent 30+40=70 minutes\nAnswer: 70"
+ },
+ {
+  "set": "gsm8k",
+  "out": "There were 120 - 90 = 30 liters of water left after Celine used some to water her garden.\nSo, 30 x 2 = 60 liters of rainwater was collected.\nTherefore, there are 30 + 60 = 90 liters of water in the tank now.\nAnswer: 90"
+ },
+ {
+  "set": "gsm8k",
+  "out": "He plants 90 geraniums + 40 fewer petunias = 50 petunias.\nHe plants 90 geraniums + 50 petunias = 140 flowers.\nAnswer: 140"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The company spent 15000/3 = 5000 dollars on advertising for the second year.\nThe total amount the company spent on advertising for the two years is 15000 + 5000 = 20000 dollars.\nAnswer: 20000"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The total rental cost for the canoes is 30 * 3 = $90.\nThe total rental cost for the banana boat raft is 18 * 5 = $90.\nAltogether, they will pay 90 + 90 = $180.\nAnswer: 180"
+ },
+ {
+  "set": "gsm8k",
+  "out": "He will spend 6/2=3 days traveling by car from New Jersey to Rochester.\nHe will spend 3*2=6 days traveling from Rochester to New Jersey.\nHe will spend a total of 6+6=12 days traveling.\nAnswer: 12"
+ },
+ {
+  "set": "gsm8k",
+  "out": "There are 30+20+40 = 90 cards in total.\nAfter losing 8 water type cards, there are 40-8 = 32 water type cards left.\nAfter buying 14 grass type cards, there are 20+14 = 34 grass type cards left.\nThere are 32+34 = 66 water and grass type cards left.\nThe probability that a randomly picked card will be a water type is 66/90 = 0.7333333333.\nThe percentage chance that a randomly picked card will be a water type is 0.7333333333*100 = 73.33333333, which rounds down to 73.\nAnswer: 73"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The burrito is $6.50 and he adds $2.00 for meat, $1.00 for cheese, $1.00 for avocado and $0.25 for each of 2 sauces for a total of 2*.25 = $0.50\nSo the burrito comes out to 6.50+2+1+1+0.50 = $11.00\nHe also upgrades his meal for $3.00 and has a $5.00 gift card so he owes 11+3-5 = $9.00\nAnswer: 9"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Kalinda's mom can place 4/2 = 2 pieces per minute.\nTogether, they can place 4 + 2 = 6 pieces per minute.\nIt will take them 360/6 = 60 minutes to complete the puzzle.\n60 minutes = 60/60 = 1 hour.\nAnswer: 1"
+ },
+ {
+  "set": "gsm8k",
+  "out": "30% of 120 watermelons = 0.30 x 120 = 36 watermelons\n120 - 36 = 84 watermelons were not ready for harvest when Ashlyn took them home.\n3/4 of 84 watermelons = 0.75 x 84 = 63 watermelons\n63 + 36 = 99 watermelons were ready for harvest.\n84 - 63 = 21 watermelons were not ready for harvest after the two weeks.\nAnswer: 21"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The cars sell for 12*20,000=$240,000\nHe pays 240,000*.1=$24,000 in taxes\nHe pays 1000*12=$12,000 for registration\nSo everything costs 240,000+24,000+12,000=$376,000\nAnswer: 376,000"
+ },
+ {
+  "set": "gsm8k",
+  "out": "On Monday, Kylie collects 5+20 = 25 shells.\nOn Tuesday, Kylie collects 25*2 = 50 shells.\nAnswer: 50"
+ },
+ {
+  "set": "gsm8k",
+  "out": "If there were 50 ants, there were 50/2 = 25 bugs.\nThe total number of insects in the garden is 25+50 = 75\nAnswer: 75"
+ },
+ {
+  "set": "gsm8k",
+  "out": "36/3=12 penguins swim out to the ocean.\n12/3=4 penguins go inside the cave.\n12+4=16 penguins leave the sunbathing area.\n36-16=20 penguins are still sunbathing.\nAnswer: 20"
+ },
+ {
+  "set": "gsm8k",
+  "out": "He eats 6 tomatoes per day and he eats twice as much as his girlfriend so he eats 6/2 = 3 tomatoes per day for his girlfriend\nHe eats 6 tomatoes per day and he eats 3 tomatoes per day for his girlfriend so he eats 6+3 = 9 tomatoes per day\nHe eats 9 tomatoes per day and he has 3 tomatoes per week so he needs 9/3 = 3 tomatoes per week\nHe has 3 tomatoes per week and he needs 3 tomatoes per week to grow his tomatoes so he needs 3/3 = 1 vine\nAnswer: 1"
+ },
+ {
+  "set": "gsm8k",
+  "out": "There are 20 friends, and each will have 4 slices of pizza, so 20*4 = 80 slices of pizza needed\nPizzas are only sold in 8 slices per pizza, and there are 80 slices needed, so 80/8 = 10 pizzas needed\nAnswer: 10"
+ },
+ {
+  "set": "gsm8k",
+  "out": "He can make 25/5 = 5 new pens from the empty ones.\nSo he gets 25 + 5 = 30 pens.\nAnswer: 30"
+ },
+ {
+  "set": "gsm8k",
+  "out": "He had $20 + $10 = $30 added to his allowance.\nHe invested $30 * 3 = $90 in stocks.\nHe had $90 + $30 = $120 after a year.\nAnswer: 120"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Joan is 20 + 5 = 25 years old.\nMary is 25 - 2 = 23 years old.\nThe sum of the ages of the three girls is 20 + 23 + 25 = 68 years.\nAnswer: 68"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Out of the 1000 students in the hall, 30% went out through exit A, which is 30/100*1000 = 300 students.\nThe number of students who remained in the hall after the 300 students went out through exit A is 1000-300 = 700 students.\n3/5 of the 700 students went out through exit B, which is 3/5*700 = 420 students.\nThe number of students who remained in the hall after 420 students went out through exit B is 700-420 = 280 students.\nThe number of students who went out through exit C is 280 students.\nAnswer: 280"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Robert has 54/2 = 27 candies.\nJames has 27 + 6 = 33 candies.\nJohn has 54 - 33 = 21 more candies than James.\nAnswer: 21"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Dolly will read 2 + 1 = 3 books.\nPandora will read 1 + 2 = 3 books.\nTogether, they will read 3 + 3 = 6 books.\nAnswer: 6"
+ },
+ {
+  "set": "gsm8k",
+  "out": "He had 5-2=3 penpals\nThey each write 2*5=10 pages a week\nSo they write 10*3=30 pages a week\nHe writes 30*2=60 pages a week\nSo he spends 60*6=360 minutes writing\nThat is 360/60=6 hours\nAnswer: 6"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Every day, Jason has 15 minutes of calls to his boss, so over 30 days he has 15*30 = 450 minutes of calls to his boss.\nIf he has 450 minutes of calls to his boss, and he has a phone plan of 1000 minutes, then he has 1000-450 = 550 minutes left.\nIf he has 550 minutes left on his phone plan, and he has 300 minutes of calls to other people, then he has 550+300 = 850 minutes left.\nAnswer: 850"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Kyle took 5 fries, and Billy took 2*5 = 10 fries.\nSo, 5+10 = 15 fries were taken by Kyle and Billy.\nSince Griffin had 24 fries to begin with, then 24-15 = 9 fries were left after Kyle and Billy took some.\nGinger gave Griffin 9+3 = 12 fries to make the total number of fries that Griffin had 27.\nAnswer: 12"
+ },
+ {
+  "set": "gsm8k",
+  "out": "There are 32 - 4 = 28 snails in the second aquarium.\nThe total number of snails in the two aquariums is 28 + 4 = 32 snails.\nThe total number of fish in the two aquariums is 32/2 = 16 fish.\nAnswer: 16"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The makeup artist worked 6*4=24 hours\nThat cost 24*250=$6000\nSo Jean gets a 6000*.1=$600 discount\nSo Jean pays 6000-600=$5400\nAnswer: 5400"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The total cost of the party supplies is $12 + $43 + $15 + $4 + $22 = $96.\nEach of the three people will pay $96/3 = $32.\nAnswer: 32"
+ },
+ {
+  "set": "gsm8k",
+  "out": "The chef bought 4 x 50 = 200 pounds of onions.\nSo, the chef spent 200 x $1.50 = $300.\nAnswer: 300"
+ },
+ {
+  "set": "gsm8k",
+  "out": "On Monday, Sue ate 4 * 5 = 20 cookies.\nOn Tuesday, Sue ate 20 * 2 = 40 cookies.\nSue ate 20 + 40 = 60 cookies.\nSue's sister ate 5 + 13 = 18 cookies.\nSue ate 60 - 18 = 42 cookies more.\nSue consumed 42 * 200 = 8400 calories.\nAnswer: 8400"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef has_close_elements(numbers: List[float], threshold: float) -> bool:\n    return any(abs(a - b) < threshold for a, b in zip(numbers[:-1], numbers[1:]))\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef separate_paren_groups(paren_string: str) -> List[str]:\n    paren_string = paren_string.replace(' ', '')\n    return [paren_string[i:j] for i, j in paren_string.find('(', '(', 0, len(paren_string))]\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef truncate_number(number: float) -> float:\n    return number - int(number)\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef below_zero(operations: List[int]) -> bool:\n    balance = 0\n    for op in operations:\n        balance += op\n        if balance < 0:\n            return True\n    return False\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef mean_absolute_deviation(numbers: List[float]) -> float:\n    mean, n = sum(numbers), len(numbers)\n    return sum(abs(x - mean) for x in numbers) / n\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef intersperse(numbers, delimeter):\n    return [n if n is not None else delimeter for n in numbers]\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef parse_nested_parens(paren_string: str) -> List[int]:\n    max_depth = 0\n    current_depth = 0\n    result = []\n    for paren in paren_string.split():\n        for p in paren:\n            if p == '(':\n                current_depth += 1\n                max_depth = max(max_depth, current_depth)\n            elif p == ')':\n                current_depth -= 1\n        result.append(max_depth)\n    return result\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef filter_by_substring(strings: List[str], substring: str) -> List[str]:\n    result = [s for s in strings if substring in s]\n    return result\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef sum_product(numbers: List[int]) -> Tuple[int, int]:\n    sum_numbers = sum(numbers)\n    product_numbers = 1\n    for i in numbers:\n        product_numbers *= i\n    return (sum_numbers, product_numbers)\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef rolling_max(numbers: List[int]) -> List[int]:\n    result = [max(numbers[0], numbers[1])]\n    for i in range(2, len(numbers)):\n        result.append(max(result[i - 1], numbers[i]))\n    return result\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef make_palindrome(string: str) -> str:\n    if not string:\n        return ''\n    else:\n        longest_palindrome_suffix = ''\n        for i in range(len(string)):\n            if is_palindrome(string[i:]):\n                longest_palindrome_suffix = string[i:]\n        return string + longest_palindrome_suffix[::-1]\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef string_xor(a: str, b: str) -> str:\n    result = [0] * len(a)\n    for i in range(len(a)):\n        result[i] = int(a[i] ^ b[i])\n    return ''.join(map(str, result))\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef longest(strings: List[str]) -> Optional[str]:\n    if not strings:\n        return None\n    max_len = max(len(x) for x in strings)\n    max_str = max((x) for x in strings, key=len)\n    return max_str\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef greatest_common_divisor(a: int, b: int) -> int:\n    if b == 0:\n        return a\n    else:\n        return greatest_common_divisor(b, a % b)\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef all_prefixes(string: str) -> List[str]:\n    return [string[:i] for i in range(1, len(string + 1)]\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef string_sequence(n: int) -> str:\n    return ' '.join([str(i) for i in range(0, n + 1)])\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef count_distinct_characters(string: str) -> int:\n    return len(set(string.lower()))\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef parse_music(music_string: str) -> List[int]:\n    music_string = music_string.replace('o|', '2')\n    music_string = music_string.replace('o', '4')\n    music_string = music_string.replace('.|', '1')\n    return [int(x) for x in music_string.split()]\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef how_many_times(string: str, substring: str) -> int:\n    count = 0\n    n = len(string)\n    m = len(substring)\n    for i in range(n - m + 1):\n        if string[i] == substring[0]:\n            j = 1\n            while j < m and string[i + j] == substring[j]:\n                j += 1\n            if j == m:\n                count += 1\n    return count\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef sort_numbers(numbers: str) -> str:\n    numbers = numbers.split()\n    numbers = [int(n) for n in numbers]\n    numbers.sort()\n    return ' '.join([str(n) for n in numbers])\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef find_closest_elements(numbers: List[float]) -> Tuple[float, float]:\n    closest_elements = min(numbers, key = numbers.count)\n    return (closest_elements, numbers[0] if numbers[0] == closest_elements else numbers[1])\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef rescale_to_unit(numbers: List[float]) -> List[float]:\n    min_val = min(numbers)\n    max_val = max(numbers)\n    return [(x - min_val) / (max_val - min_val) for x in numbers]\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef filter_integers(values: List[Any]) -> List[int]:\n    result = [i for i in values if isinstance(i, int)]\n    return result\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef strlen(string: str) -> int:\n    return len(string)\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef largest_divisor(n: int) -> int:\n    return int(n / 2)\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef factorize(n: int) -> List[int]:\n    factors = []\n    i = 2\n    while i*i <= n:\n        while n % i == 0:\n            factors.append(i)\n            n = n // i\n        i += 1\n    if n > 1:\n        factors.append(n)\n    return factors\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef remove_duplicates(numbers: List[int]) -> List[int]:\n    result = []\n    for x in numbers:\n        if x not in result:\n            result.append(x)\n    return result\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef flip_case(string: str) -> str:\n    return ''.join([c.lower() if c.isupper() else c.upper() for c in string])\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef concatenate(strings: List[str]) -> str:\n    return ''.join(strings)\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef filter_by_prefix(strings: List[str], prefix: str) -> List[str]:\n    result = [s for s in strings if s.startswith(prefix)]\n    return result\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef get_positive(l: list):\n    return [x for x in l if x > 0]\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef is_prime(n):\n    if n == 1 or n == 0:\n        return False\n    if n == 2 or n == 3:\n        return True\n    if n % 2 == 0:\n        return False\n    i = 5\n    while i*i <= n:\n        if n % i == 0:\n            return False\n        i += 2\n    return True\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef find_zero(xs: list):\n    return round(-xs[1] / xs[0], 2)\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef sort_third(l):\n    l = l.copy()\n    l.sort()\n    for i in range(len(l), 0, -1):\n        if i % 3 == 0:\n            l[i - 1] = l[i - 1]\n    return l\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef unique(l: list):\n    return sorted(list(set(l)))\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef max_element(l: list):\n    max_element = max(l)\n    return max_element\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef fizz_buzz(n: int):\n    count = 0\n    for i in range(11, n + 1):\n        if i % 11 == 0 or i % 13 == 0:\n            count += 1\n    return count\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef sort_even(l):\n    l_even = [l[i] for i in range(1, len(l), 2)]\n    l_even.sort()\n    l_odd = [l[i] for i in range(0, len(l), 2)]\n    l_odd[::] = l_even\n    return l_odd\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef decode_cyclic(s: str):\n    return s[1:] + s[0]\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef prime_fib(n: int):\n    if n == 1 or n == 2:\n        return 2\n    else:\n        return prime_fib(n - 1) + prime_fib(n - 2)\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef triples_sum_to_zero(l: list):\n    n = len(l)\n    for i in range(0, n):\n        for j in range(i + 1, n):\n            for k in range(j + 1, n):\n                if l[i] + l[j] + l[k] == 0:\n                    return True\n    return False\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef car_race_collision(n: int):\n    return n * n\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef incr_list(l):\n    return [i + 1 for i in l]\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef pairs_sum_to_zero(l):\n    return len(set(l) & set(-x for x in l)) > 0\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef change_base(x: int, base: int):\n    return bin(x).replace(\"0b\", \"\")\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef triangle_area(a, h):\n    area = 0.5 * a * h\n    return area\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef fib4(n: int):\n    if n == 0 or n == 1 or n == 2 or n == 3:\n        return 0\n    if n == 4:\n        return 2\n    return fib4(n - 1) + fib4(n - 2) + fib4(n - 3) + fib4(n - 4)\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef median(l: list):\n    l.sort()\n    n = len(l)\n    if n % 2 == 0:\n        return (l[n//2 - 1] + l[n//2]) / 2\n    else:\n        return l[n//2]\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef is_palindrome(text: str):\n    return text == text[::-1]\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef modp(n: int, p: int):\n    return pow(2, n, p)\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef decode_shift(s: str):\n    return \"\".join([chr(((ord(ch) - 5 - ord(\"a\")) % 26) + ord(\"a\")) for ch in s])\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef remove_vowels(text):\n    vowels = 'aeiouAEIOU'\n    return ''.join([char for char in text if char not in vowels])\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef below_threshold(l: list, t: int):\n    return all(x < t for x in l)\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef add(x, y):\n    return x + y\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef same_chars(s0: str, s1: str):\n    return sorted(s0) == sorted(s1)\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef fib(n: int):\n    if n == 0 or n == 1:\n        return 1\n    return (fib(n - 1) + (fib(n - 2)))\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef correct_bracketing(brackets: str):\n    stack = []\n    for bracket in brackets:\n        if bracket == \"<\":\n            stack.append(bracket)\n        elif bracket == \">\":\n            if not stack:\n                return False\n            top = stack.pop()\n            if top != \"<\":\n                return False\n    return not stack\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef monotonic(l):\n    return (l == sorted(l)) or (l == sorted(l, reverse=True))\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef common(l1, l2):\n    result = sorted(list(set(l1) & set(l2)))\n    return result\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef largest_prime_factor(n: int):\n    if n % 2 == 0:\n        return 2\n    i = 3\n    while i*i <= n:\n        if n % i == 0:\n            return i\n        i += 2\n    return n\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef sum_to_n(n: int):\n    return n * (n + 1) // 2\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef correct_bracketing(brackets: str):\n    stack = []\n    for bracket in brackets:\n        if bracket == \"(\":\n            stack.append(bracket)\n        elif bracket == \")\":\n            if not stack:\n                return False\n            top = stack.pop()\n    return not stack\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef derivative(xs):\n    result = [i * xs[i] for i in range(1, len(xs))]\n    return result\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef fibfib(n: int):\n    if n == 0 or n == 1:\n        return 0\n    if n == 2:\n        return 1\n    return fibfib(n - 1) + fibfib(n - 2) + fibfib(n - 3)\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef vowels_count(s):\n    vowels = ['a', 'e', 'i', 'o', 'u', 'y']\n    count = 0\n    for i in range(len(s)):\n        if s[i] in vowels:\n            count += 1\n    return count\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef circular_shift(x, shift):\n    x = str(x)\n    n = len(x)\n    shift = shift % n\n    return x[shift:]+x[:shift]\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef digitSum(s):\n    return sum(ord(c) for c in s if c.isupper())\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef fruit_distribution(s,n):\n    s = s.split()\n    apples = int(s[0])\n    oranges = int(s[1])\n    return n - apples - oranges\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef pluck(arr):\n    smallest_even = None\n    smallest_index = None\n    for i in range(len(arr)):\n        if arr[i] % 2 == 0 and (smallest_even is None or arr[i] < smallest_even):\n            smallest_even = arr[i]\n            smallest_index = i\n    return [smallest_even, smallest_index] if smallest_even is not None else []\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef search(lst): \n    maxval = -1\n    for i in lst: \n        if lst.count(i) >= i: \n            maxval = max(maxval, i) \n    return maxval\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef strange_sort_list(lst):\n    return [min(lst), max(lst), min(lst), max(lst)] if lst else lst\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef triangle_area(a, b, c):\n    if (a + b <= c) or (a + c <= b) or (b + c <= a):\n        return -1\n    s = (a + b + c) / 2.0\n    area = (s * (s - a) * (s - b) * (s - c)) ** 0.5\n    return round(area, 2)\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef will_it_fly(q, w):\n    return (sum(q) <= w) and (q == q[::-1])\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef smallest_change(arr):\n    arr_len = len(arr)\n    arr = arr[:]\n    arr.reverse()\n    change_count = 0\n    for i in range(arr_len // 2):\n        if arr[i] != arr[arr_len - 1]:\n            change_count += 1\n        arr.pop()\n    return change_count\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef total_match(lst1, lst2):\n    total1 = sum(len(x) for x in lst1)\n    total2 = sum(len(x) for x in lst2)\n    if total1 > total2:\n        return lst1\n    elif total2 > total1:\n        return lst2\n    else:\n        return lst1\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef is_prime(n): \n    if n <= 1: \n        return False\n    if n <= 3: \n        return True\n    if n % 2 == 0 or n % 3 == 0: \n        return False\n    i = 4\n    while i*i <= n: \n        if n % i == 0: \n            return False\n        i += 2\n    return True\ndef is_multiply_prime(a): \n    if a <= 3: \n        return True\n    if a % 2 == 0 or a % 3 == 0: \n        return False\n    i = 4\n    while i*i <= a: \n        if a % i == 0 and is_prime(i) and is_prime(a / i): \n            return True\n        i += 2\n    return False\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef is_simple_power(x, n):\n    if x == 1:\n        return True\n    if n == 1:\n        return False\n    if x % n == 0:\n        return is_simple_power(x / n, n)\n    return False\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef iscube(a):\n    b = round(a**(1/3))\n    return b*b*b == a\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef hex_key(num):\n    prime_digits = {'2', '3', '5', '7', 'B', 'D'}\n    return sum(1 for i in range(len(num)) \n                if num[i] in prime_digits)\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef decimal_to_binary(decimal):\n    binary = bin(decimal).replace(\"0b\",\"\")\n    return (\"db\" + binary + \"db\")\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef is_happy(s):\n    return len(s) >= 3 and all(s[i] != s[i - 1] and s[i] != s[i - 2] for i in range(3, len(s)))\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef numerical_letter_grade(grades):\n    letter_grades = []\n    for g in grades:\n        if g >= 4.0:\n            letter_grades.append('A+')\n        elif g >= 3.7:\n            letter_grades.append('A')\n        elif g >= 3.3:\n            letter_grades.append('A-')\n        elif g >= 3.0:\n            letter_grades.append('B+')\n        elif g >= 2.7:\n            letter_grades.append('B')\n        elif g >= 2.3:\n            letter_grades.append('B-')\n        elif g >= 2.0:\n            letter_grades.append('C+')\n        elif g >= 1.7:\n            letter_grades.append('C')\n        elif g >= 1.3:\n            letter_grades.append('C-')\n        elif g >= 1.0:\n            letter_grades.append('D+')\n        elif g >= 0.7:\n            letter_grades.append('D')\n        elif g >= 0.0:\n            letter_grades.append('D-')\n        else:\n            letter_grades.append('E')\n    return letter_grades\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef is_prime(n):\n    if n == 2:\n        return True\n    if n % 2 == 0:\n        return False\n    i = 3\n    while i*i <= n:\n        if n % i == 0:\n            return False\n        i += 2\n    return True\ndef prime_length(string):\n    return is_prime(len(string))\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef starts_one_ends(n):\n    return (10**(n - 1) + 9 * 10**(n - 2)) // 11\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef solve(N):\n    return bin(sum(map(int,str(N)))).replace(\"0\",\"\")\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef add(lst): \n    return sum(x for i, x in enumerate(lst) if i % 2 == 0 and x % 2 == 0)\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef anti_shuffle(string):\n    string = string.split(' ')\n    string = [sorted(x) for x in string]\n    string = ' '.join(string)\n    return string\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef get_row(lst, x):\n    result = []\n    for i in range(len(lst)):\n        for j in range(len(lst[i])):\n            if lst[i][j] == x:\n                result.append((i, j))\n    result.sort(key=lambda x: x[0])\n    result.sort(key=lambda x: x[1], reverse=True)\n    return result\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef sort_array(array):\n    if len(array) == 0 or len(array) == 1:\n        return array\n    if (array[0] + array[-1]) % 2 == 0:\n        return sorted(array, reverse=True)\n    else:\n        return sorted(array)\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef encrypt(s):\n    return s[2:]+s[:2]\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef next_smallest(lst):\n    if (len(lst) < 2):\n        return\n    if ((len(lst) == 2)  and (lst[0] == lst[1]) ):\n        return\n    dup_items = set(lst)\n    lst = list(dup_items)\n    lst.sort() \n    return lst[1]\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef is_bored(S):\n    return S.count(\"I\") - S.count(\"i\")\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef any_int(x, y, z):\n    return (x == y + z) or (y == x + z) or (z == x + y)\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef encode(message):\n    vowels = 'aeiouAEIOU'\n    result = message\n    for i in range(len(message)):\n        if message[i] in vowels:\n            result = result[:i] + chr(ord('A') + (ord(message[i]) - ord('A'))) + result[i+1:]\n    return result\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef is_prime(n): \n    if n < 2: \n        return False\n    if n == 2: \n        return True\n    if n % 2 == 0: \n        return False\n    i = 3\n    while i*i <= n: \n        if n % i == 0: \n            return False\n        i += 2\n    return True\ndef get_sum(n): \n    return sum(int(i) for i in str(n))\ndef skjkasdkd(lst): \n    return get_sum(max(i for i in lst if is_prime(i)))\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef check_dict_case(dict):\n    if not dict:\n        return True\n    keys = dict.keys()\n    if all(i.islower() for i in keys) or all(i.isupper() for i in keys):\n        return True\n    else:\n        return False\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef count_up_to(n):\n    result = []\n    for i in range(2,n):\n        if (i == 2 or i == 3 or i == 5 or i == 7):\n            result.append(i)\n        elif (i % 2 == 0 or i % 3 == 0 or i % 5 == 0 or i % 7 == 0):\n            continue\n        else:\n            result.append(i)\n    return result\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef multiply(a, b):\n    return (a % 10) * (b % 10)\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef count_upper(s):\n    return sum(1 for i in range(0, len(s), 2) if s[i] == s[i].upper())\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef closest_integer(value):\n    return round(int(value), 0)\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef make_a_pile(n):\n    pile = [n]\n    while n < 1000:\n        n += 1\n        pile.append(n)\n    return pile\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef words_string(s):\n    return s.split(', ')\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef choose_num(x, y):\n    if x > y:\n        return -1\n    if x % 2 == 0:\n        return x\n    else:\n        return x + 1\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef rounded_avg(n, m):\n    if n > m:\n        return -1\n    total = 0\n    for i in range(n, m + 1):\n        total += i\n    return bin(int(total / (m - n + 1)))\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef unique_digits(x):\n    return sorted([i for i in x if not any(map(lambda d: int(d) % 2 == 0, str(i)))] \n                for i in x)\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef by_length(arr):\n    arr = [i for i in arr if 1 <= i <= 9]\n    arr.sort()\n    arr.reverse()\n    return [str(i) for i in arr]\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef f(n):\n    result = []\n    for i in range(1, n + 1):\n        if i % 2 == 0:\n            result.append(i * result[i - 1])\n        else:\n            result.append(sum(range(1, i + 1)))\n    return result\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef even_odd_palindrome(n):\n    even_palindromes = 0\n    odd_palindromes = 0\n    for i in range(1, n + 1):\n        if str(i) == str(i)[::-1]:\n            if i % 2 == 0:\n                even_palindromes += 1\n            else:\n                odd_palindromes += 1\n    return (even_palindromes, odd_palindromes)\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef count_nums(arr):\n    count_nums = 0\n    for x in arr:\n        if x >= 0:\n            while x > 0:\n                x = x / 10\n                count_nums += 1\n        else:\n            x = -x\n            while x > 0:\n                x = x / 10\n                count_nums += 1\n    return count_nums\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef move_one_ball(arr):\n    arr_len = len(arr)\n    if arr_len == 0:\n        return True\n    sorted_arr = sorted(arr)\n    if sorted_arr == arr:\n        return True\n    if sorted_arr == arr[1:]: \n        return True\n    return False\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef exchange(lst1, lst2):\n    even_count = 0\n    odd_count = 0\n    for i in lst1:\n        if i % 2 == 0:\n            even_count += 1\n        else:\n            odd_count += 1\n    for i in lst2:\n        if i % 2 == 0:\n            even_count -= 1\n        else:\n            odd_count -= 1\n    if odd_count == 0:\n        return \"YES\"\n    else:\n        return \"NO\"\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef histogram(test):\n  temp = test.split()\n  res = {}\n  max_val = 0\n  for i in temp:\n    res[i] = res.get(i, 0) + 1\n    if res[i] > max_val:\n      max_val = res[i]\n  if max_val == 0:\n    return {}\n  res = {key: val for key, val in res.items() if val == max_val}\n  return (res)\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef reverse_delete(s,c): \n    s = s.replace(c, '') \n    return (s, s == s[::-1])\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef odd_count(lst):\n    return [f\"the number of odd elements {len([i for i in s if i % 2 != 0])}n the str{len([i for i in s if i % 2 != 0])}ng {len([i for i in s if i % 2 != 0])} of the {len([i for i in s if i % 2 != 0])}nput.\" for s in lst]\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef minSubArraySum(nums):\n    minSum = nums[0]\n    currentSum = 0\n    for i in range(len(nums)):\n        currentSum += nums[i]\n        if currentSum < minSum:\n            minSum = currentSum\n        if currentSum > 0:\n            currentSum = 0\n    return minSum\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef max_fill(grid, capacity):\n    return sum([min(i, capacity) for i in [sum(row) for row in grid]])\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef sort_array(arr):\n    arr.sort(key = bin(arr).count('1'))\n    return arr\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef count_consonants(word):\n    return sum(1 for c in word if c not in \"aeiouy\")\ndef select_words(s, n):\n    return [word for word in s.split() if count_consonants(word) == n]\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\nimport re\ndef get_closest_vowel(word):\n    for vowel in re.findall(r\"[aeiouAEIOU]\", word):\n        if vowel not in (word[0], word[-1]):\n            return vowel\n    return \"\"\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef is_balanced(string):\n    count = 0\n    for i in string:\n        if i == '(':\n            count += 1\n        else:\n            count -= 1\n    return count == 0\ndef match_parens(lst):\n    return 'Yes' if (is_balanced(lst[0] + lst[1]) or\n                    is_balanced(lst[1] + lst[0])) else 'No'\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef maximum(arr, k):\n    arr.sort()\n    return arr[-k:]\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef solution(lst): \n    return sum(i for i in lst if i%2==0 and i%2==0)\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef add_elements(arr, k):\n    sum = 0\n    for i in range(0, k):\n        if (arr[i] <= 100):\n            sum = sum + arr[i]\n    return sum\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef get_odd_collatz(n): \n    odd_collatz = [] \n    while n != 1: \n        if n % 2 == 1: \n            odd_collatz.append(n) \n        n = n // 2 \n    odd_collatz.append(1) \n    return odd_collatz\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\nimport re\ndef valid_date(date):\n    dmy = re.compile(r\"\"\"\n        (0[1-9]|1[0-9]|2[0-9]|3[0-1])-\n        (0[1-9]|1[0-9]|2[0-9]|3[0-1])-\n        (19[0-9][0-9]|\n        20[0-9][0-9]|\n        3[0-9][0-9])\"\"\")\n    return dmy.search(date) is not None\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\nimport re\ndef split_words(txt):\n  return (re.findall(r'\\w+', txt))\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef is_sorted(lst):\n    return len(set(lst)) == 1 or all(b >= a for a, b in zip(lst[:-1], lst[1:]))\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef is_prime(n): \n    if n <= 1: \n        return False\n    if n <= 3: \n        return True\n    if n % 2 == 0 or n % 3 == 0: \n        return False\n    i = 4\n    while i*i <= n: \n        if n % i == 0: \n            return False\n        i += 2\n    return True\ndef intersection(interval1, interval2): \n    start = max(interval1[0], interval2[0])\n    end = min(interval1[1], interval2[1])\n    if start > end: \n        return \"NO\"\n    length = end - start + 1\n    if is_prime(length): \n        return \"YES\"\n    return \"NO\"\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef prod_signs(arr):\n    if not arr:\n        return None\n    sign_prod = 1\n    magnitudes_sum = 0\n    for i in arr:\n        if i > 0:\n            magnitudes_sum += i\n            sign_prod *= 1\n        elif i < 0:\n            magnitudes_sum += -i\n            sign_prod *= -1\n        else:\n            magnitudes_sum = 0\n            sign_prod = 0\n    return sign_prod * magnitudes_sum\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef minPath(grid, k): \n    N = len(grid) \n    dp = [[0 for i in range(N + 1)] for j in range(N + 1)] \n    dp[0][0] = 0\n    for i in range(1, N + 1): \n        dp[i][0] = dp[i - 1][0] + grid[i][0] \n    for j in range(1, N + 1): \n        dp[0][j] = dp[0][j - 1] + grid[0][j] \n    for i in range(1, N + 1): \n        for j in range(1, N + 1): \n            dp[i][j] = min(dp[i - 1][j], dp[i][j - 1]) + grid[i][j] \n    return dp[N - 1][N - 1]\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef tri(n):\n    tri = [0] * (n + 1)\n    tri[0] = 0\n    tri[1] = 3\n    for i in range(2, n + 1):\n        tri[i] = tri[i - 1] + tri[i - 2] + tri[i - 3]\n    return tri\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef digits(n):\n    if n == 0:\n        return 0\n    return n % 10 * digits(int(n / 10)) if n % 10 % 2 != 0 else 0\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef is_nested(string):\n    count = 0\n    nested = False\n    for i in range(len(string)):\n        if string[i] == '[':\n            count += 1\n        elif string[i] == ']':\n            count -= 1\n        if count == 0:\n            return True\n    return False\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\nimport math\ndef sum_squares(lst):\n    return sum(math.ceil(x*x) for x in lst)\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\nimport re\ndef check_if_last_char_is_a_letter(txt):\n  return bool(re.search(r\"\\w+\\S*$\", txt))\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef can_arrange(arr):\n    for i in range(len(arr)-1):\n        if arr[i] >= arr[i+1]:\n            return i\n    return -1\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef largest_smallest_integers(lst):\n    largest_neg = None\n    smallest_pos = None\n    for i in lst:\n        if i < 0 and (largest_neg is None or i > largest_neg):\n            largest_neg = i\n        if i > 0 and (smallest_pos is None or i < smallest_pos):\n            smallest_pos = i\n    return (largest_neg, smallest_pos)\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef compare_one(a, b):\n    if isinstance(a, str) and isinstance(b, str):\n        return max(a, b)\n    elif isinstance(a, float) and isinstance(b, float):\n        return max(a, b)\n    elif isinstance(a, int) and isinstance(b, int):\n        return max(a, b)\n    elif isinstance(a, str) and isinstance(b, int):\n        return b\n    elif isinstance(a, int) and isinstance(b, str):\n        return a\n    else:\n        return max(a, b)\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef is_equal_to_sum_even(n): \n    return n % 4 == 0\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef special_factorial(n):\n    result = 1\n    for i in range(1,n+1):\n        result *= i\n    return result\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef fix_spaces(text):\n    return (text.replace(' ','_',1).replace('  ','-',1))\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\nimport re\ndef file_name_check(file_name):\n    if (file_name.count(\".\") != 1):\n        return \"No\"\n    else:\n        name, ext = file_name.split(\".\")\n        if (len(name) < 1 or name[0] not in \"abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ\"):\n            return \"No\"\n        if (len(ext) != 3):\n            return \"No\"\n        if (ext not in [\"txt\", \"exe\", \"dll\"]):\n            return \"No\"\n        if (re.search(r'\\d+', name) and len(re.search(r'\\d+', name)) > 0):\n            return \"No\"\n        return \"Yes\"\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef sum_squares(lst):\n    result = 0\n    for i in range(len(lst)):\n        if i % 3 == 0:\n            result += lst[i] ** 2\n        elif i % 4 == 0:\n            result += lst[i] ** 3\n    return result\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef is_prime(n):\n    if n == 2:\n        return True\n    if n % 2 == 0:\n        return False\n    i = 3\n    while i*i <= n:\n        if n % i == 0:\n            return False\n        i += 2\n    return True\ndef words_in_sentence(sentence):\n    return ' '.join([word for word in sentence.split() if is_prime(len(word))])\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef simplify(x, n):\n    x_num, x_den = x.split('/')\n    n_num, n_den = n.split('/')\n    result_num = x_num * n_num\n    result_den = x_den * n_den\n    return result_num % result_den == 0\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef order_by_points(nums):\n    result = sorted(nums, key = sum, reverse = False)\n    return result\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef isOdd(n): \n    return n % 2 == 1\ndef getFirstDigit(n): \n    while n >= 10: \n        n = n / 10; \n    return int(n)\ndef getLastDigit(n): \n    return n % 10\ndef specialFilter(nums): \n    count = 0\n    for x in nums: \n        if x > 10 and isOdd(getFirstDigit(x)) and isOdd(getLastDigit(x)): \n            count = count + 1\n    return count\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef get_max_triples(n): \n    a = [0] * n \n    for i in range(1, n + 1): \n        a[i - 1] = i * i - i + 1\n    count = 0\n    for i in range(1, n + 1): \n        for j in range(i + 1, n + 1): \n            for k in range(j + 1, n + 1): \n                if (a[i - 1] + a[j - 1] + a[k - 1] % 3 == 0): \n                    count += 1\n    return count\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\nplanets = [\"Mercury\", \"Venus\", \"Earth\", \"Mars\", \"Jupiter\", \"Saturn\", \"Uranus\", \"Neptune\"]\ndef bf(planet1, planet2):\n    if planet1 not in planets or planet2 not in planets:\n        return tuple()\n    planet1 = planets.index(planet1)\n    planet2 = planets.index(planet2)\n    if planet1 > planet2:\n        return tuple(planets[planet2:planet1])\n    else:\n        return tuple(planets[planet1:planet2])\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef list_sort(lst):\n    lst.sort(key=len)\n    lst.sort()\n    return lst\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef x_or_y(n, x, y):\n    if n == 1:\n        return y\n    if n == 2:\n        return x\n    if n == 3:\n        return x\n    if n == 4:\n        return y\n    if n == 5:\n        return x\n    if n == 6:\n        return y\n    if n == 7:\n        return x\n    if n == 8:\n        return y\n    if n == 9:\n        return y\n    if n == 10:\n        return y\n    return y\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef double_the_difference(nums):\n    return sum((x*x) for x in nums if x >= 0 and x == int(x))\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef compare(scores,guesses):\n    return [abs(s - g) for s, g in zip(scores, guesses)]\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef Strongest_Extension(class_name, extensions):\n    strongest_extension = max(extensions, key = lambda x: (x.count('A') - x.count('a')))\n    return class_name + '.' + strongest_extension\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef cycpattern_check(a,b): \n    b = b + b\n    if (b.count(a)): \n        return True\n    else: \n        return False\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef even_odd_count(num):\n    count_even = 0\n    count_odd = 0\n    while num != 0:\n        if num % 2 == 0:\n            count_even += 1\n        else:\n            count_odd += 1\n        num = num // 10\n    return (count_even, count_odd)\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef int_to_mini_roman(n):\n    roman_num = {1000: 'M', 900: 'CM', 800: 'D', 700: 'CD', 600: 'D', 500: 'C', 400: 'CD', 300: 'C', 200: 'C', 100: 'C', 90: 'XC', 80: 'L', 70: 'L', 60: 'C', 50: 'C', 40: 'CD', 30: 'C', 20: 'C', 10: 'X', 9: 'IX', 8: 'V', 7: 'V', 6: 'C', 5: 'C', 4: 'CD', 3: 'C', 2: 'C', 1: 'I'}\n    roman_num = {key: value for key, value in roman_num.items() if value not in roman_num.values()}\n    return ''.join([roman_num[n // key] for key in sorted(roman_num.keys(), reverse=True)])\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef right_angle_triangle(a, b, c):\n    return (a*a + b*b == c*c) or (a*a + c*c == b*b) or (b*b + c*c == a*a)\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef find_max(words):\n    max_chars = max(len(set(word)) for word in words)\n    max_words = [word for word in words if len(set(word)) == max_chars]\n    return min(max_words)\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef eat(number, need, remaining):\n    if number >= need:\n        return [number, 0]\n    else:\n        return [need, remaining - (need - number)]\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef do_algebra(operator, operand):\n    result = operand[0]\n    for i in range(1, len(operand)):\n        result = eval( str(operator[i - 1]) + str(operand[i - 1]) + str(operand[i]))\n    return result\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef solve(s):\n    letters = []\n    digits = []\n    for i in s:\n        if i.isalpha():\n            letters.append(i)\n        else:\n            digits.append(i)\n    for i in range(len(letters)):\n        letters[i] = letters[i].upper() if i % 2 == 0 else letters[i].lower()\n    return (digits + letters)\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\nimport hashlib\ndef string_to_md5(text):\n    if not text:\n        return None\n    return hashlib.md5(text).hexdigest()\n```"
+ },
+ {
+  "set": "humaneval",
+  "out": "```python\ndef generate_integers(a, b):\n    result = []\n    for i in range(a, b + 1):\n        if i % 2 == 0:\n            result.append(i)\n    return result\n```"
+ },
+ {
+  "set": "notes",
+  "out": "June 2024 + 18 months = December 2025.\nAnswer: 2025"
+ },
+ {
+  "set": "notes",
+  "out": "insurance on day 22, school fees on day 16, parking on day 2; earliest is parking.\nAnswer: parking"
+ },
+ {
+  "set": "notes",
+  "out": "4900 + 15000 + 3700 = 23600.\nAnswer: 23600"
+ },
+ {
+  "set": "notes",
+  "out": "10100 on day 1, 15000 on day 5, 1400 on day 14; earliest is 10100.\nAnswer: 10100"
+ },
+ {
+  "set": "notes",
+  "out": "18000 \u00d7 12 = 216000.\nAnswer: 216000"
+ },
+ {
+  "set": "notes",
+  "out": "1 \u00d7 3 per day \u00d7 7 days = 21.\nAnswer: 21"
+ },
+ {
+  "set": "notes",
+  "out": "16600 \u00d7 12 = 199200.\nAnswer: 199200"
+ },
+ {
+  "set": "notes",
+  "out": "insurance on day 23, school fees on day 2, parking on day 9; earliest is school fees.\nAnswer: school fees"
+ },
+ {
+  "set": "notes",
+  "out": "13400 for streaming on day 12, 13300 for school fees on day 17, 1000 for parking on day 19; earliest is streaming.\nAnswer: streaming"
+ },
+ {
+  "set": "notes",
+  "out": "4400 \u00d7 12 = 52800.\nAnswer: 52800"
+ },
+ {
+  "set": "notes",
+  "out": "May 2022 + 36 months = May 2025.\nAnswer: 2025"
+ },
+ {
+  "set": "notes",
+  "out": "1 \u00d7 1 per day \u00d7 7 days = 7.\nAnswer: 7"
+ },
+ {
+  "set": "notes",
+  "out": "500 + 5300 + 5400 = 16700.\nAnswer: 16700"
+ },
+ {
+  "set": "notes",
+  "out": "2000 on day 4, 4900 on day 8, 6600 on day 20; earliest is 2000.\nAnswer: 2000"
+ },
+ {
+  "set": "notes",
+  "out": "8800 \u00d7 12 = 105600.\nAnswer: 105600"
+ },
+ {
+  "set": "notes",
+  "out": "12600 + 6000 + 19300 = 37900.\nAnswer: 37900"
+ },
+ {
+  "set": "notes",
+  "out": "1700 + 16900 + 5000 = 23600.\nAnswer: 23600"
+ },
+ {
+  "set": "notes",
+  "out": "January 2025 + 36 months = January 2028.\nAnswer: 2028"
+ },
+ {
+  "set": "notes",
+  "out": "parking on day 18, insurance on day 11, streaming on day 16; earliest is insurance.\nAnswer: insurance"
+ },
+ {
+  "set": "notes",
+  "out": "from 28 July 2026 to 3 September 2026 is 54 days.\nAnswer: 54"
+ },
+ {
+  "set": "notes",
+  "out": "August 2022 + 24 months = August 2024.\nAnswer: 2024"
+ },
+ {
+  "set": "notes",
+  "out": "from 7 January 2026 to 6 August 2026 is 213 days.\nAnswer: 213"
+ },
+ {
+  "set": "notes",
+  "out": "6500 on day 7, 4000 on day 18, 10200 on day 19; earliest is 6500.\nAnswer: 6500"
+ },
+ {
+  "set": "notes",
+  "out": "November 2022 + 36 months = November 2025.\nAnswer: 2025"
+ },
+ {
+  "set": "notes",
+  "out": "September 2021 + 12 months = September 2022.\nAnswer: 2022"
+ },
+ {
+  "set": "notes",
+  "out": "July 2021 + 12 months = July 2022.\nAnswer: 2022"
+ },
+ {
+  "set": "notes",
+  "out": "2 \u00d7 3 per day \u00d7 7 days = 42.\nAnswer: 42"
+ },
+ {
+  "set": "notes",
+  "out": "parking on day 2, insurance on day 3, school fees on day 25; earliest is parking.\nAnswer: parking"
+ },
+ {
+  "set": "notes",
+  "out": "5800 for parking on day 14, 4000 for insurance on day 25, 11400 for streaming on day 26; earliest is insurance.\nAnswer: insurance"
+ },
+ {
+  "set": "notes",
+  "out": "16500 \u00d7 12 = 198000.\nAnswer: 198000"
+ },
+ {
+  "set": "notes",
+  "out": "parking on day 16, school fees on day 25, streaming on day 9; earliest is streaming.\nAnswer: streaming"
+ },
+ {
+  "set": "notes",
+  "out": "2 \u00d7 3 per day \u00d7 7 days = 42.\nAnswer: 42"
+ },
+ {
+  "set": "notes",
+  "out": "5100 on day 13, 2800 on day 20, 18000 on day 3; earliest is 18000.\nAnswer: 18000"
+ },
+ {
+  "set": "notes",
+  "out": "9300 for parking on day 21, 6000 for insurance on day 28, 2200 for school fees on day 16; earliest is school fees.\nAnswer: school fees"
+ },
+ {
+  "set": "notes",
+  "out": "10100 on day 16, 13800 on day 17, 18100 on day 20; earliest is 10100.\nAnswer: 10100"
+ },
+ {
+  "set": "notes",
+  "out": "20 \u00d7 12 = 240.\nAnswer: 240"
+ },
+ {
+  "set": "notes",
+  "out": "from 21 July 2026 to 25 November 2026 is 126 days.\nAnswer: 126"
+ },
+ {
+  "set": "notes",
+  "out": "12900 \u00d7 12 = 154800.\nAnswer: 154800"
+ },
+ {
+  "set": "notes",
+  "out": "14700 + 12000 + 9300 = 36000.\nAnswer: 36000"
+ },
+ {
+  "set": "notes",
+  "out": "parking on day 28, insurance on day 13, school fees on day 9; earliest is school fees.\nAnswer: school fees"
+ },
+ {
+  "set": "notes",
+  "out": "10500 + 8300 + 13500 = 32300.\nAnswer: 32300"
+ },
+ {
+  "set": "notes",
+  "out": "10500 for school fees on day 13, 14400 for streaming on day 28, 15800 for parking on day 26; earliest is school fees.\nAnswer: school fees"
+ },
+ {
+  "set": "notes",
+  "out": "16600 + 9400 + 11900 = 37900.\nAnswer: 37900"
+ },
+ {
+  "set": "notes",
+  "out": "February 2021 + 36 months = February 2024.\nAnswer: 2024"
+ },
+ {
+  "set": "notes",
+  "out": "from 19 July 2026 to 14 July 2026 is 5 days.\nAnswer: 5"
+ },
+ {
+  "set": "notes",
+  "out": "2 \u00d7 3 per day \u00d7 7 days = 42.\nAnswer: 42"
+ },
+ {
+  "set": "notes",
+  "out": "June 2026 + 12 months = June 2027.\nAnswer: 2027"
+ },
+ {
+  "set": "notes",
+  "out": "from 18 March 2026 to 24 February 2027 is 320 days.\nAnswer: 320"
+ },
+ {
+  "set": "notes",
+  "out": "2500 + 5400 + 4700 = 12600.\nAnswer: 12600"
+ },
+ {
+  "set": "notes",
+  "out": "1 \u00d7 3 per day \u00d7 7 days = 21.\nAnswer: 21"
+ },
+ {
+  "set": "notes",
+  "out": "from 17 January 2026 to 23 March 2026 is 67 days.\nAnswer: 67"
+ },
+ {
+  "set": "notes",
+  "out": "18900 \u00d7 12 = 226800.\nAnswer: 226800"
+ },
+ {
+  "set": "notes",
+  "out": "May 2023 + 24 months = May 2025.\nAnswer: 2025"
+ },
+ {
+  "set": "notes",
+  "out": "11100 \u00d7 12 = 133200.\nAnswer: 133200"
+ },
+ {
+  "set": "notes",
+  "out": "2 \u00d7 3 per day \u00d7 7 days = 42.\nAnswer: 42"
+ },
+ {
+  "set": "notes",
+  "out": "August 2022 + 18 months = February 2024.\nAnswer: 2024"
+ },
+ {
+  "set": "notes",
+  "out": "from 11 July 2026 to 15 December 2026 is 152 days.\nAnswer: 152"
+ },
+ {
+  "set": "notes",
+  "out": "2 \u00d7 2 per day \u00d7 7 days = 28.\nAnswer: 28"
+ },
+ {
+  "set": "notes",
+  "out": "23, 25, 1; earliest is 1.\nAnswer: 1"
+ },
+ {
+  "set": "notes",
+  "out": "from 15 October 2026 to 24 November 2026 is 50 days.\nAnswer: 50"
+ },
+ {
+  "set": "notes",
+  "out": "August 2026 + 12 months = August 2027.\nAnswer: 2027"
+ },
+ {
+  "set": "notes",
+  "out": "May 2024 + 24 months = May 2026.\nAnswer: 2026"
+ },
+ {
+  "set": "notes",
+  "out": "22, 13, 9; earliest is 9.\nAnswer: insurance"
+ },
+ {
+  "set": "notes",
+  "out": "March 2022 + 24 months = March 2024.\nAnswer: 2024"
+ },
+ {
+  "set": "notes",
+  "out": "1 \u00d7 1 per day \u00d7 7 days = 7.\nAnswer: 7"
+ },
+ {
+  "set": "notes",
+  "out": "12000 \u00d7 12 = 144000.\nAnswer: 144000"
+ },
+ {
+  "set": "notes",
+  "out": "August 2026 + 18 months = February 2028.\nAnswer: 2028"
+ },
+ {
+  "set": "notes",
+  "out": "4800 + 8000 + 4700 = 17500.\nAnswer: 17500"
+ },
+ {
+  "set": "notes",
+  "out": "10100 \u00d7 12 = 121200.\nAnswer: 121200"
+ },
+ {
+  "set": "notes",
+  "out": "March 2021 + 18 months = September 2022.\nAnswer: 2022"
+ },
+ {
+  "set": "notes",
+  "out": "June 2022 + 36 months = June 2025.\nAnswer: 2025"
+ },
+ {
+  "set": "notes",
+  "out": "14300 \u00d7 12 = 171600.\nAnswer: 171600"
+ },
+ {
+  "set": "notes",
+  "out": "November 2024 + 12 months = November 2025.\nAnswer: 2025"
+ },
+ {
+  "set": "notes",
+  "out": "June 2026 + 18 months = December 2027.\nAnswer: 2027"
+ },
+ {
+  "set": "notes",
+  "out": "6500 on day 12, 17100 on day 25, 13400 on day 28; earliest is 6500.\nAnswer: 6500"
+ },
+ {
+  "set": "notes",
+  "out": "11600 + 1400 + 19400 = 32400.\nAnswer: 32400"
+ },
+ {
+  "set": "notes",
+  "out": "2 \u00d7 1 per day \u00d7 7 days = 14.\nAnswer: 14"
+ },
+ {
+  "set": "notes",
+  "out": "10500 + 6400 + 4100 = 21000.\nAnswer: 21000"
+ },
+ {
+  "set": "notes",
+  "out": "13500 on day 13, 16100 on day 21, 9900 on day 18; earliest is 9900.\nAnswer: insurance"
+ },
+ {
+  "set": "notes",
+  "out": "April 2026 + 18 months = October 2027.\nAnswer: 2027"
+ },
+ {
+  "set": "notes",
+  "out": "from 21 May 2026 to 22 October 2026 is 154 days.\nAnswer: 154"
+ },
+ {
+  "set": "notes",
+  "out": "parking on day 1, insurance on day 25, school fees on day 18; earliest is parking.\nAnswer: parking"
+ },
+ {
+  "set": "notes",
+  "out": "January 2024 + 12 months = January 2025.\nAnswer: 2025"
+ },
+ {
+  "set": "notes",
+  "out": "2 \u00d7 2 per day \u00d7 7 days = 28.\nAnswer: 28"
+ },
+ {
+  "set": "notes",
+  "out": "1 \u00d7 1 per day \u00d7 7 days = 7.\nAnswer: 7"
+ },
+ {
+  "set": "notes",
+  "out": "from 18 July 2026 to 3 March 2027 is 164 days.\nAnswer: 164"
+ },
+ {
+  "set": "notes",
+  "out": "9800 \u00d7 12 = 117600.\nAnswer: 117600"
+ },
+ {
+  "set": "notes",
+  "out": "July 2021 + 18 months = January 2023.\nAnswer: 2023"
+ },
+ {
+  "set": "notes",
+  "out": "September 2022 + 18 months = March 2024.\nAnswer: 2024"
+ },
+ {
+  "set": "notes",
+  "out": "March 2024 + 36 months = March 2027.\nAnswer: 2027"
+ },
+ {
+  "set": "notes",
+  "out": "14000 + 15300 + 18800 = 47100.\nAnswer: 47100"
+ },
+ {
+  "set": "notes",
+  "out": "1 \u00d7 2 per day \u00d7 7 days = 14.\nAnswer: 14"
+ },
+ {
+  "set": "notes",
+  "out": "from 18 December 2026 to 13 January 2027 is 32 days.\nAnswer: 32"
+ },
+ {
+  "set": "notes",
+  "out": "2500 + 3500 + 1600 = 7600.\nAnswer: 7600"
+ },
+ {
+  "set": "notes",
+  "out": "17300 + 9400 + 15000 = 41700.\nAnswer: 41700"
+ },
+ {
+  "set": "notes",
+  "out": "June 2021 + 12 months = June 2022.\nAnswer: 2022"
+ },
+ {
+  "set": "notes",
+  "out": "16200 + 4800 + 9300 = 20300.\nAnswer: 20300"
+ },
+ {
+  "set": "notes",
+  "out": "15500 for school fees on day 18, 19900 for parking on day 4, 6400 for insurance on day 26; earliest is parking.\nAnswer: parking"
+ },
+ {
+  "set": "notes",
+  "out": "November 2022 + 18 months = May 2024.\nAnswer: 2024"
+ },
+ {
+  "set": "notes",
+  "out": "16800 + 19400 + 1700 = 38900.\nAnswer: 38900"
+ },
+ {
+  "set": "notes",
+  "out": "3800 \u00d7 12 = 45600.\nAnswer: 45600"
+ },
+ {
+  "set": "notes",
+  "out": "18200 \u00d7 12 = 218400.\nAnswer: 218400"
+ },
+ {
+  "set": "notes",
+  "out": "2 \u00d7 3 per day \u00d7 7 days = 42.\nAnswer: 42"
+ },
+ {
+  "set": "notes",
+  "out": "1500 \u00d7 12 = 18000.\nAnswer: 18000"
+ },
+ {
+  "set": "notes",
+  "out": "from 21 September 2026 to 2 November 2026 is 52 days.\nAnswer: 52"
+ },
+ {
+  "set": "notes",
+  "out": "2300 + 10100 + 17000 = 29400.\nAnswer: 29400"
+ },
+ {
+  "set": "notes",
+  "out": "December 2025 + 24 months = December 2027.\nAnswer: 2027"
+ },
+ {
+  "set": "notes",
+  "out": "11500 for streaming on day 11, 600 for school fees on day 18, 13200 for insurance on day 27; earliest is streaming.\nAnswer: streaming"
+ },
+ {
+  "set": "notes",
+  "out": "May 2022 + 24 months = May 2024.\nAnswer: 2024"
+ },
+ {
+  "set": "notes",
+  "out": "5500 for parking on day 11, 17500 for streaming on day 23, 4100 for insurance on day 18; earliest is 5500.\nAnswer: parking"
+ },
+ {
+  "set": "notes",
+  "out": "15200 for streaming on day 16, 5500 for insurance on day 20, 19900 for parking on day 12; earliest is parking.\nAnswer: parking"
+ },
+ {
+  "set": "notes",
+  "out": "from 12 January 2026 to 15 April 2026 is 74 days.\nAnswer: 74"
+ },
+ {
+  "set": "notes",
+  "out": "1 \u00d7 2 per day \u00d7 7 days = 14.\nAnswer: 14"
+ },
+ {
+  "set": "notes",
+  "out": "500 + 14000 + 18100 = 37600.\nAnswer: 37600"
+ },
+ {
+  "set": "notes",
+  "out": "5 October 2024, 24 October 2024, 23 October 2024; earliest is 5 October 2024.\nAnswer: 5 October 2024"
+ },
+ {
+  "set": "notes",
+  "out": "1300 on day 16, 16000 on day 15, 8500 on day 26; earliest is 15.\nAnswer: 16000"
+ },
+ {
+  "set": "notes",
+  "out": "1 \u00d7 1 per day \u00d7 7 days = 7.\nAnswer: 7"
+ },
+ {
+  "set": "notes",
+  "out": "15100 + 13800 + 18200 = 47100.\nAnswer: 47100"
+ },
+ {
+  "set": "notes",
+  "out": "December 2024 + 12 months = December 2025.\nAnswer: 2025"
+ },
+ {
+  "set": "notes",
+  "out": "17100 \u00d7 12 = 205200.\nAnswer: 205200"
+ },
+ {
+  "set": "notes",
+  "out": "2 \u00d7 3 per day \u00d7 7 days = 42.\nAnswer: 42"
+ },
+ {
+  "set": "notes",
+  "out": "parking on day 20, insurance on day 19, streaming on day 7; earliest is streaming.\nAnswer: streaming"
+ },
+ {
+  "set": "notes",
+  "out": "March 2026 + 36 months = March 2029.\nAnswer: 2029"
+ },
+ {
+  "set": "notes",
+  "out": "from 21 April 2026 to 28 September 2026 is 150 days.\nAnswer: 150"
+ },
+ {
+  "set": "notes",
+  "out": "7700 \u00d7 12 = 86400.\nAnswer: 86400"
+ },
+ {
+  "set": "notes",
+  "out": "from 12 July 2026 to 26 June 2027 is 350 days.\nAnswer: 350"
+ },
+ {
+  "set": "notes",
+  "out": "12800 for school fees on day 20, 17900 for streaming on day 3, 11200 for parking on day 17; earliest is streaming.\nAnswer: streaming"
+ },
+ {
+  "set": "notes",
+  "out": "2300 on day 5, 3600 on day 8, 3600 on day 24; earliest is 2300.\nAnswer: 2300"
+ },
+ {
+  "set": "notes",
+  "out": "16600 \u00d7 12 = 199200.\nAnswer: 199200"
+ },
+ {
+  "set": "notes",
+  "out": "December 2025 + 18 months = June 2027.\nAnswer: 2027"
+ },
+ {
+  "set": "notes",
+  "out": "insurance on day 5, parking on day 20, streaming on day 12; earliest is insurance.\nAnswer: insurance"
+ },
+ {
+  "set": "notes",
+  "out": "from 10 October 2026 to 24 July 2027 is 258 days.\nAnswer: 258"
+ },
+ {
+  "set": "notes",
+  "out": "1 \u00d7 3 per day \u00d7 7 days = 21.\nAnswer: 21"
+ },
+ {
+  "set": "notes",
+  "out": "from 7 March 2026 to 27 April 2026 is 42 days.\nAnswer: 42"
+ },
+ {
+  "set": "notes",
+  "out": "from 13 August 2026 to 28 October 2026 is 74 days.\nAnswer: 74"
+ },
+ {
+  "set": "notes",
+  "out": "October 2021 + 24 months = October 2023.\nAnswer: 2023"
+ },
+ {
+  "set": "notes",
+  "out": "18100 \u00d7 12 = 217200.\nAnswer: 217200"
+ },
+ {
+  "set": "notes",
+  "out": "from 20 June 2026 to 10 June 2027 is 30 days.\nAnswer: 30"
+ },
+ {
+  "set": "notes",
+  "out": "May 2022 + 36 months = May 2025.\nAnswer: 2025"
+ },
+ {
+  "set": "notes",
+  "out": "1100 \u00d7 12 = 13200.\nAnswer: 13200"
+ },
+ {
+  "set": "notes",
+  "out": "2 \u00d7 2 per day \u00d7 7 days = 28.\nAnswer: 28"
+ },
+ {
+  "set": "notes",
+  "out": "1 \u00d7 1 per day \u00d7 7 days = 7.\nAnswer: 7"
+ },
+ {
+  "set": "notes",
+  "out": "from 1 September 2026 to 1 June 2027 is 254 days.\nAnswer: 254"
+ },
+ {
+  "set": "notes",
+  "out": "1 \u00d7 3 per day \u00d7 7 days = 21.\nAnswer: 21"
+ },
+ {
+  "set": "notes",
+  "out": "from 8 December 2026 to 3 September 2027 is 258 days.\nAnswer: 258"
+ },
+ {
+  "set": "notes",
+  "out": "from 25 July 2026 to 4 May 2027 is 253 days.\nAnswer: 253"
+ },
+ {
+  "set": "notes",
+  "out": "5300 \u00d7 12 = 63600.\nAnswer: 63600"
+ },
+ {
+  "set": "notes",
+  "out": "parking on day 4, streaming on day 24, school fees on day 3; earliest is school fees.\nAnswer: school fees"
+ },
+ {
+  "set": "notes",
+  "out": "insurance on day 10, parking on day 16, streaming on day 12; earliest is insurance.\nAnswer: insurance"
+ },
+ {
+  "set": "notes",
+  "out": "from 21 April 2026 to 21 January 2027 is 254 days.\nAnswer: 254"
+ },
+ {
+  "set": "notes",
+  "out": "2 \u00d7 3 per day \u00d7 7 days = 42.\nAnswer: 42"
+ },
+ {
+  "set": "notes",
+  "out": "2400 + 5200 + 17100 = 24700.\nAnswer: 24700"
+ },
+ {
+  "set": "notes",
+  "out": "16500 \u00d7 12 = 198000.\nAnswer: 198000"
+ },
+ {
+  "set": "notes",
+  "out": "from 12 August 2026 to 3 March 2027 is 153 days.\nAnswer: 153"
+ },
+ {
+  "set": "notes",
+  "out": "November 2023 + 36 months = November 2026.\nAnswer: 2026"
+ },
+ {
+  "set": "notes",
+  "out": "1 \u00d7 2 per day \u00d7 7 days = 14.\nAnswer: 14"
+ },
+ {
+  "set": "notes",
+  "out": "14900 on day 13, 18700 on day 18, 5000 on day 12; earliest is insurance.\nAnswer: insurance"
+ },
+ {
+  "set": "notes",
+  "out": "from 5 December 2026 to 11 December 2026 is 6 days.\nAnswer: 6"
+ },
+ {
+  "set": "notes",
+  "out": "10300 + 10200 + 4400 = 24900.\nAnswer: 24900"
+ },
+ {
+  "set": "notes",
+  "out": "parking on day 3, insurance on day 12, school fees on day 24; earliest is parking.\nAnswer: parking"
+ },
+ {
+  "set": "notes",
+  "out": "15800 on day 17, 3900 on day 21, 2700 on day 7; earliest is 2700.\nAnswer: 2700"
+ },
+ {
+  "set": "notes",
+  "out": "February 2023 + 36 months = February 2026.\nAnswer: 2026"
+ },
+ {
+  "set": "notes",
+  "out": "November 2024 + 18 months = May 2026.\nAnswer: 2026"
+ },
+ {
+  "set": "notes",
+  "out": "13700 + 3200 + 7700 = 24600.\nAnswer: 24600"
+ },
+ {
+  "set": "notes",
+  "out": "5200 \u00d7 12 = 62400.\nAnswer: 62400"
+ },
+ {
+  "set": "notes",
+  "out": "19400 \u00d7 12 = 232800.\nAnswer: 232800"
+ },
+ {
+  "set": "notes",
+  "out": "insurance on day 5, school fees on day 1, parking on day 28; earliest is school fees.\nAnswer: school fees"
+ },
+ {
+  "set": "notes",
+  "out": "2 \u00d7 1 per day \u00d7 7 days = 14.\nAnswer: 14"
+ },
+ {
+  "set": "notes",
+  "out": "April 2025 + 36 months = April 2028.\nAnswer: 2028"
+ },
+ {
+  "set": "notes",
+  "out": "16400 + 14300 + 13600 = 44300.\nAnswer: 44300"
+ },
+ {
+  "set": "notes",
+  "out": "1700 \u00d7 12 = 20400.\nAnswer: 20400"
+ },
+ {
+  "set": "notes",
+  "out": "18000 \u00d7 12 = 216000.\nAnswer: 216000"
+ },
+ {
+  "set": "notes",
+  "out": "parking on day 22, insurance on day 9, streaming on day 12; earliest is insurance.\nAnswer: insurance"
+ },
+ {
+  "set": "notes",
+  "out": "2 \u00d7 1 per day \u00d7 7 days = 14.\nAnswer: 14"
+ },
+ {
+  "set": "notes",
+  "out": "from 3 November 2026 to 20 February 2027 is 68 days.\nAnswer: 68"
+ },
+ {
+  "set": "notes",
+  "out": "November 2024 + 24 months = November 2026.\nAnswer: 2026"
+ },
+ {
+  "set": "notes",
+  "out": "17500 \u00d7 12 = 210000.\nAnswer: 210000"
+ },
+ {
+  "set": "notes",
+  "out": "April 2026 + 12 months = April 2027.\nAnswer: 2027"
+ },
+ {
+  "set": "notes",
+  "out": "2 \u00d7 2 per day \u00d7 7 days = 28.\nAnswer: 28"
+ },
+ {
+  "set": "notes",
+  "out": "from 14 March 2026 to 23 July 2026 is 122 days.\nAnswer: 122"
+ },
+ {
+  "set": "notes",
+  "out": "9100 on day 10, 4300 on day 24, 11400 on day 22; earliest is 9100.\nAnswer: 9100"
+ },
+ {
+  "set": "notes",
+  "out": "from 11 April 2026 to 16 May 2026 is 46 days.\nAnswer: 46"
+ },
+ {
+  "set": "notes",
+  "out": "March 2024 + 36 months = March 2027.\nAnswer: 2027"
+ },
+ {
+  "set": "notes",
+  "out": "9300 for streaming on day 2, 9400 for school fees on day 1, 8200 for insurance on day 26; earliest is 9400.\nAnswer: 9400"
+ },
+ {
+  "set": "notes",
+  "out": "1 \u00d7 3 per day \u00d7 7 days = 21.\nAnswer: 21"
+ },
+ {
+  "set": "notes",
+  "out": "1 \u00d7 2 per day \u00d7 7 days = 14.\nAnswer: 14"
+ },
+ {
+  "set": "notes",
+  "out": "December 2024 + 36 months = December 2027.\nAnswer: 2027"
+ },
+ {
+  "set": "notes",
+  "out": "from 22 July 2026 to 10 July 2027 is 28 days.\nAnswer: 28"
+ },
+ {
+  "set": "notes",
+  "out": "7500 \u00d7 12 = 90000.\nAnswer: 90000"
+ },
+ {
+  "set": "notes",
+  "out": "February 2021 + 18 months = August 2022.\nAnswer: 2022"
+ },
+ {
+  "set": "notes",
+  "out": "5200 on day 23, 7300 on day 5, 13900 on day 15; earliest is 7300.\nAnswer: 7300"
+ },
+ {
+  "set": "notes",
+  "out": "from 8 April 2026 to 9 October 2026 is 174 days.\nAnswer: 174"
+ },
+ {
+  "set": "notes",
+  "out": "4600 \u00d7 12 = 55200.\nAnswer: 55200"
+ },
+ {
+  "set": "notes",
+  "out": "October 2021 + 18 months = April 2023.\nAnswer: 2023"
+ },
+ {
+  "set": "notes",
+  "out": "2 \u00d7 2 per day \u00d7 7 days = 28.\nAnswer: 28"
+ },
+ {
+  "set": "notes",
+  "out": "11500 for streaming on day 14, 11000 for insurance on day 20, 15800 for parking on day 26; earliest is streaming.\nAnswer: streaming"
+ },
+ {
+  "set": "notes",
+  "out": "11100 \u00d7 12 = 133200.\nAnswer: 133200"
+ },
+ {
+  "set": "notes",
+  "out": "1 \u00d7 3 per day \u00d7 7 days = 21.\nAnswer: 21"
+ },
+ {
+  "set": "notes",
+  "out": "11400 + 9900 + 9900 = 31200.\nAnswer: 31200"
+ },
+ {
+  "set": "notes",
+  "out": "November 2022 + 12 months = November 2023.\nAnswer: 2023"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: households"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 33771"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 82.5"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 3"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 89.7"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: under the age of 18"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 127302"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 71.4"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 109400"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Somalia must achieve independence"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 76"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 85.9"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Kuwait lost half of its territory"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 94.6"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Spanish"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 9430"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 88.9"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Catherine"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Tim Tebow"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 68.3"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 0"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 1,997"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: non-commissioned officers"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 101100"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 6"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Raiders"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2901"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 5"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: females"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 5333"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 3"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Shaun Suisham"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Prater"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Romo"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: non-families"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Bills' home game"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 59"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 1"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Ryan Longwell"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 12"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 17"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 40.5"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 27"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 3"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 16824 - 120031 = -101797"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: rookie linebacker Brian Cushing"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Sebastian Janikowski"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 5"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Guatemalan"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: people"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Drew Brees"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: king's brothers raised a rebellion"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 1134"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: taking of Lower Burma"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 254000"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Patriots"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Asian"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: married couples living together"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 72"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 10"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Spanish"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 99.07"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 14"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Frank Gore"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Wolves"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: David Thomas"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 5771"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 86.9"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: public transportation"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Pacific Islander"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 65 years of age"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Drew Brees"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Spanish and Portuguese"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Jolo island"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 99.8"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Tendulkar"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 25200"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Sage Rosenfels"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 0.25"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 4"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: death of Mirwais"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 414000"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 0 and 9 years old"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Phil Dawson"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 69.89"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 119100"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Ottoman Empire"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 1922290"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 573"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 5"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 10 and 19"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 89.9"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2620"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: employment rate"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 98.13"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 100"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Danzig became the most priviledged city in the Commonwealth"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: senior population"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: married couples living together"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 1069"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 1997"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Sage Rosenfels"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 5,734"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2.1"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 99.66"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 88.32"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Patriots"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Mark Sanchez"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Cowboys"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 200"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 3"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 57"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: English"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Kuwait"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 5"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 1921\u201322"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 3"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Jets"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 17"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Murad I"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 18 to 24"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 1017"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 8.4"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Native American"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Falcons"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 3"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 21"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Venice"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: stay away from trading"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 84.7"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Trent Green"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 70.5"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 256"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 3"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 70"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 3"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 14.7"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 1"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 11"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 1"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 87.4"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Yancey Thigpen"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 24 and younger"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 122"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 11"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 3"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 25 to 44"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Vince Young"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 3"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Centenary Medal"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 17"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: females"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 24"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 1"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 99.27"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Hern\u00e1n Peraza The Elder"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 7791"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 46"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 1300"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Ambon and Menado"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 4"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2.3"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: French"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 11367"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 18"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 35"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 6"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: higher adult population of smokers"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 127302"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 5"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 0.07"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 79.9"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Raymond James Stadium"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 6"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 12"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Spain losing all territories it had gained since 1909"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 3"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 1700"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 22"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Maurice Jones-Drew"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 65 years of age"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: British Chief Commissioner in the South Caucasus"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Matt Moore"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 8.5"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 217"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Shayne Graham"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 3"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 3"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 45 - 64"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 5389 - 520 = 4869"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 90.3"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 30"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 3"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 27"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: African American"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 98.55"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: planters and their families"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 3"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 41"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 6"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 97.13"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: swedish"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 10"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Barack Obama"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 33.3"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 1"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Peyton Manning found running back Joseph Addai on a 7-yard touchdown pass"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: white"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: White American"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Red Terror"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 1"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Marc Bulger"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 4"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 3"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 27"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 25"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 21"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 363000"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 50000"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Antwerp"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Tamil"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: wide receiver T. J. Houshmandzadeh"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 10322"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 0"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 611390"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: under the age of 18"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Western Sahara War"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 134706"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Redskins"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 473"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 14"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Americans ancestry"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: households"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Janikowski"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: under the age of 18"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 15"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 26"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Great-Quartermaster"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: people"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: married couples living together"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: The Hague campaigns as field officer"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 49"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Thai visitors"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 66.6"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 38"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 5,771"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Romania, Laconia, Messenia, and Achaea"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 1"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 0"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 1"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 65 years and over"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 101460"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Spanish"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 150000"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 1"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 49-yard field goal"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: the Guarani"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Friedrich Cloedt"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2002-03"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 65.0"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 44"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 21"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 6"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2300"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 21660"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 67.2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 56"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 0.6"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: under the age of 18"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 3"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 86.2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 137473"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 84.2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 99.44"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 11068"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 22"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 24"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Danish army"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Santos"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 26"
+ }
+]

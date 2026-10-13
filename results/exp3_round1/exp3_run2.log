@@ -1,0 +1,16 @@
+Fetching 2 files:   0%|          | 0/2 [00:00<?, ?it/s]Fetching 2 files: 100%|██████████| 2/2 [00:00<00:00, 68759.08it/s]
+Fetching 3 files:   0%|          | 0/3 [00:00<?, ?it/s]Fetching 3 files: 100%|██████████| 3/3 [00:00<00:00, 24818.37it/s]
+Fetching 3 files:   0%|          | 0/3 [00:00<?, ?it/s]Fetching 3 files: 100%|██████████| 3/3 [00:00<00:00, 31936.32it/s]
+Fetching 4 files:   0%|          | 0/4 [00:00<?, ?it/s]Fetching 4 files: 100%|██████████| 4/4 [00:00<00:00, 40721.40it/s]
+Fetching 3 files:   0%|          | 0/3 [00:00<?, ?it/s]Fetching 3 files: 100%|██████████| 3/3 [00:00<00:00, 49152.00it/s]
+Fetching 9 files:   0%|          | 0/9 [00:00<?, ?it/s]Fetching 9 files: 100%|██████████| 9/9 [00:00<00:00, 42462.02it/s]
+base {'gsm8k': 0.88, 'humaneval': 0.774, 'notes': 0.575, 'drop': 0.607}
+Fetching 9 files:   0%|          | 0/9 [00:00<?, ?it/s]Fetching 9 files: 100%|██████████| 9/9 [00:00<00:00, 147456.00it/s]
+math {'gsm8k': 0.632, 'humaneval': 0.037, 'notes': 0.375, 'drop': 0.36}
+Fetching 9 files:   0%|          | 0/9 [00:00<?, ?it/s]Fetching 9 files: 100%|██████████| 9/9 [00:00<00:00, 51428.80it/s]
+code {'gsm8k': 0.06, 'humaneval': 0.323, 'notes': 0.045, 'drop': 0.067}
+Fetching 9 files:   0%|          | 0/9 [00:00<?, ?it/s]Fetching 9 files: 100%|██████████| 9/9 [00:00<00:00, 118334.60it/s]
+notes {'gsm8k': 0.156, 'humaneval': 0.0, 'notes': 0.74, 'drop': 0.407}
+Fetching 9 files:   0%|          | 0/9 [00:00<?, ?it/s]Fetching 9 files: 100%|██████████| 9/9 [00:00<00:00, 52356.08it/s]
+multi-r8 {'gsm8k': 0.572, 'humaneval': 0.372, 'notes': 0.745, 'drop': 0.487}
+training multi-r24 (rank 24, 1800 iters)…

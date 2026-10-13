@@ -1,0 +1,19 @@
+adapter_path: /Users/mohammedwasifulhaq/Projects/PhoneAI/adapters/exp3/multi-r24
+batch_size: 4
+data: /Users/mohammedwasifulhaq/Projects/PhoneAI/data/exp3/multi
+fine_tune_type: lora
+grad_checkpoint: true
+iters: 1800
+learning_rate: 0.0001
+lora_parameters:
+  dropout: 0.0
+  rank: 24
+  scale: 20.0
+mask_prompt: true
+max_seq_length: 1024
+model: mlx-community/Qwen3-4B-4bit
+num_layers: -1
+seed: 0
+steps_per_eval: 200
+train: true
+val_batches: -1

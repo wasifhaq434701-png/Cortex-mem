@@ -1,0 +1,3658 @@
+[
+ {
+  "set": "gsm8k",
+  "out": "16 \u00d7 2 = 32.\nAnswer: 32"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 3"
+ },
+ {
+  "set": "gsm8k",
+  "out": "80000 + 50000 = 130000.\nAnswer: 130000"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 108"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 60"
+ },
+ {
+  "set": "gsm8k",
+  "out": "5 \u00d7 16 = 80.\nAnswer: 80"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 140"
+ },
+ {
+  "set": "gsm8k",
+  "out": "200 GB \u00d7 2 per minute = 400.\nAnswer: 400"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 180"
+ },
+ {
+  "set": "gsm8k",
+  "out": "10 \u00d7 40 = 400.\nAnswer: 400"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 210"
+ },
+ {
+  "set": "gsm8k",
+  "out": "68 + 80 + 55 = 203.\nAnswer: 203"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 15"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 50"
+ },
+ {
+  "set": "gsm8k",
+  "out": "5000 + 2.5% = 5125.\n8000 + 1.2% = 8128.\nAnswer: 8128"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 230"
+ },
+ {
+  "set": "gsm8k",
+  "out": "20 \u00d7 12 = 240.\nAnswer: 240"
+ },
+ {
+  "set": "gsm8k",
+  "out": "3 \u00d7 4 = 12.\nAnswer: 12"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 8"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 14"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 17"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 10"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 8"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 26"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 4"
+ },
+ {
+  "set": "gsm8k",
+  "out": "16.50 + 22.50 + 42 = 81.\nAnswer: 81"
+ },
+ {
+  "set": "gsm8k",
+  "out": "4 \u00d7 60 = 240.\nAnswer: 240"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 10"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 10"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 262"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 100"
+ },
+ {
+  "set": "gsm8k",
+  "out": "10 \u00d7 0.5 = 5.\nAnswer: 5"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 75"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 38"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 100"
+ },
+ {
+  "set": "gsm8k",
+  "out": "5 \u00d7 12 = 60.\nAnswer: 60"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 5"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 10"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 14"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 16"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 600"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 40"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 2000 - 1800 = 2000"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 10"
+ },
+ {
+  "set": "gsm8k",
+  "out": "5 \u00d7 4 = 20.\nAnswer: 20"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 200"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 8"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 30"
+ },
+ {
+  "set": "gsm8k",
+  "out": "252 \u00d7 7 = 1764.\nAnswer: 1764"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 18"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 200"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 21"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 14"
+ },
+ {
+  "set": "gsm8k",
+  "out": "42 \u00f7 14 = 3.\nAnswer: 3"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 8"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 30"
+ },
+ {
+  "set": "gsm8k",
+  "out": "6 \u00d7 20 + 67 = 187.\nAnswer: 187"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 22"
+ },
+ {
+  "set": "gsm8k",
+  "out": "500 + 800 + 100 = 1400.\nAnswer: 1400"
+ },
+ {
+  "set": "gsm8k",
+  "out": "50000 \u00d7 12 = 600000.\nAnswer: 600000"
+ },
+ {
+  "set": "gsm8k",
+  "out": "140 \u00d7 12 = 1680.\nAnswer: 1680"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 1200"
+ },
+ {
+  "set": "gsm8k",
+  "out": "2 \u00d7 3 per day \u00d7 7 days = 42.\nAnswer: 42"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 40"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 285"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 13"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 100"
+ },
+ {
+  "set": "gsm8k",
+  "out": "5 \u00d7 15 = 75.\nAnswer: 75"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 60"
+ },
+ {
+  "set": "gsm8k",
+  "out": "3 \u00d7 43 + 4 \u00d7 23 = 129 + 92 = 221.\nAnswer: 221"
+ },
+ {
+  "set": "gsm8k",
+  "out": "150 \u00d7 3 = 450.\nAnswer: 450"
+ },
+ {
+  "set": "gsm8k",
+  "out": "2.74 \u00d7 12 = 32.88.\nAnswer: 32.88"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 24"
+ },
+ {
+  "set": "gsm8k",
+  "out": "110 \u00d7 12 = 1320.\nAnswer: 1320"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 200"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 1.50"
+ },
+ {
+  "set": "gsm8k",
+  "out": "100 \u00d7 0.7 = 70.\nAnswer: 70"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 18"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 10"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 153"
+ },
+ {
+  "set": "gsm8k",
+  "out": "25 \u00d7 8 = 200.\nAnswer: 200"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 15"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 16"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 10"
+ },
+ {
+  "set": "gsm8k",
+  "out": "600 \u00d7 12 = 7200.\nAnswer: 7200"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 80000"
+ },
+ {
+  "set": "gsm8k",
+  "out": "2 \u00d7 16 = 32.\nAnswer: 32"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 175"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 24"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 3"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 34.2"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 150"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 28"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 7"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 6"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 15"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 100"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 10"
+ },
+ {
+  "set": "gsm8k",
+  "out": "4 \u00d7 7 = 28.\nAnswer: 28"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 140"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 500"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 20"
+ },
+ {
+  "set": "gsm8k",
+  "out": "5 \u00d7 6 \u00d7 4 = 120.\nAnswer: 120"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 50"
+ },
+ {
+  "set": "gsm8k",
+  "out": "3.00 \u00d7 10 = 30.\nAnswer: 30"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 28"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 20"
+ },
+ {
+  "set": "gsm8k",
+  "out": "3 \u00d7 2 per day \u00d7 4 teachers = 48.\nAnswer: 48"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 50"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 3"
+ },
+ {
+  "set": "gsm8k",
+  "out": "10 \u00d7 10 = 100.\n5 \u00d7 16 = 80.\nAnswer: 200"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 7"
+ },
+ {
+  "set": "gsm8k",
+  "out": "2 \u00d7 3 per child \u00d7 60 = 420.\nAnswer: 420"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 140000"
+ },
+ {
+  "set": "gsm8k",
+  "out": "2 \u00d7 30 = 60.\nAnswer: 60"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 26"
+ },
+ {
+  "set": "gsm8k",
+  "out": "8 + 6 + 6 = 20.\nAnswer: 20"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 55"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 18"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 10"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 50"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 70"
+ },
+ {
+  "set": "gsm8k",
+  "out": "15 \u00d7 20 = 300.\nAnswer: 300"
+ },
+ {
+  "set": "gsm8k",
+  "out": "200 \u00d7 12 = 2400.\nAnswer: 2400"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 40"
+ },
+ {
+  "set": "gsm8k",
+  "out": "500 + 440 = 940.\nAnswer: 940"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 24"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 21"
+ },
+ {
+  "set": "gsm8k",
+  "out": "4 \u00d7 15 = 60.\nAnswer: 60"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 15"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 9"
+ },
+ {
+  "set": "gsm8k",
+  "out": "7.50 \u00d7 2 + 1.50 \u00d7 2 + 1.00 \u00d7 2 + 5.00 = 17.\nAnswer: 17"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 15"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 100"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 4"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 1400"
+ },
+ {
+  "set": "gsm8k",
+  "out": "10 \u00d7 7 = 70.\nAnswer: 70"
+ },
+ {
+  "set": "gsm8k",
+  "out": "2 + 3 + 3 + 4 = 12.\nAnswer: 12"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 92"
+ },
+ {
+  "set": "gsm8k",
+  "out": "10 \u00d7 100 = 1000.\nAnswer: 1000"
+ },
+ {
+  "set": "gsm8k",
+  "out": "500 + 1500 + 1250 = 3250.\nAnswer: 3250"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 15"
+ },
+ {
+  "set": "gsm8k",
+  "out": "12 + 10 = 22.\nAnswer: 22"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 16"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "gsm8k",
+  "out": "5 \u00d7 25 = 125.\nAnswer: 125"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 10"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 28"
+ },
+ {
+  "set": "gsm8k",
+  "out": "2 \u00d7 2 per day \u00d7 16 weeks = 28.\nAnswer: 28"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 150"
+ },
+ {
+  "set": "gsm8k",
+  "out": "200 + 400 + 100 = 700.\nAnswer: 700"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 200"
+ },
+ {
+  "set": "gsm8k",
+  "out": "4 \u00d7 1.5 = 6.\n2 \u00d7 4 = 8.\n20 + 6 + 8 = 30.\nAnswer: 30"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 9"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 10"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 25"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 40"
+ },
+ {
+  "set": "gsm8k",
+  "out": "5 red cars \u00d7 $4 = $20.\nAnswer: 20"
+ },
+ {
+  "set": "gsm8k",
+  "out": "90 + 35 = 125.\nAnswer: 125"
+ },
+ {
+  "set": "gsm8k",
+  "out": "1090 + 157 + 102 = 2869.\nAnswer: 2869"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 5"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 18"
+ },
+ {
+  "set": "gsm8k",
+  "out": "2 \u00d7 8 + 2 = 18.\nAnswer: 18"
+ },
+ {
+  "set": "gsm8k",
+  "out": "20 \u00d7 7 = 140.\nAnswer: 140"
+ },
+ {
+  "set": "gsm8k",
+  "out": "25 + 75 + 50 = 150.\nAnswer: 150"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 248"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 10"
+ },
+ {
+  "set": "gsm8k",
+  "out": "500 + 300 + 200 = 1000.\nAnswer: 1000"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 105"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 15"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 180"
+ },
+ {
+  "set": "gsm8k",
+  "out": "6000 - 200 - 7000 = 17000.\nAnswer: 17000"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 88"
+ },
+ {
+  "set": "gsm8k",
+  "out": "10 \u00d7 5 = 50.\nAnswer: 50"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 20"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 16"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 32"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 10"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 50"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 30"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "gsm8k",
+  "out": "100 \u00d7 1.02 = 102.\nAnswer: 102"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 20"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 28.50"
+ },
+ {
+  "set": "gsm8k",
+  "out": "2 \u00d7 3 = 6.\nAnswer: 6"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 35"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 40"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 24"
+ },
+ {
+  "set": "gsm8k",
+  "out": "20 - 10 = 10.\nAnswer: 10"
+ },
+ {
+  "set": "gsm8k",
+  "out": "1.20 \u00d7 8 = 9.60.\nAnswer: 9.60"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 120"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 16300"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 100"
+ },
+ {
+  "set": "gsm8k",
+  "out": "5 \u00d7 1000 = 5000.\nAnswer: 5000"
+ },
+ {
+  "set": "gsm8k",
+  "out": "5 \u00d7 5 + 6 \u00d7 5 = 25 + 30 = 55.\nAnswer: 55"
+ },
+ {
+  "set": "gsm8k",
+  "out": "5000 \u00d7 12 = 60000.\nAnswer: 60000"
+ },
+ {
+  "set": "gsm8k",
+  "out": "5 \u00d7 10 = 50.\nAnswer: 50"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 13"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 58"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 100"
+ },
+ {
+  "set": "gsm8k",
+  "out": "25 \u00d7 4 = 100.\nAnswer: 100"
+ },
+ {
+  "set": "gsm8k",
+  "out": "25 \u00d7 40g + 80 \u00d7 10g = 1000g.\nAnswer: 1000"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 17"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 6000"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 6"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 300"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 8"
+ },
+ {
+  "set": "gsm8k",
+  "out": "8 \u00d7 4 = 32.\nAnswer: 32"
+ },
+ {
+  "set": "gsm8k",
+  "out": "2000 + 10% of 2000 = 2200.\nAnswer: 2200"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 15"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 28"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 105"
+ },
+ {
+  "set": "gsm8k",
+  "out": "10 \u00d7 3 + 5 \u00d7 8 = 70.\nAnswer: 70"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 30"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 170"
+ },
+ {
+  "set": "gsm8k",
+  "out": "15000 + 5000 = 20000.\nAnswer: 20000"
+ },
+ {
+  "set": "gsm8k",
+  "out": "30 + 18 = 48.\nAnswer: 48"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 10"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 25"
+ },
+ {
+  "set": "gsm8k",
+  "out": "5.00 + 6.50 + 2.00 + 1.00 + 0.25 = 14.75.\nAnswer: 14.75"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 1.5"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 30"
+ },
+ {
+  "set": "gsm8k",
+  "out": "1000 \u00d7 12 = 12000.\nAnswer: 12000"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 25"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 75"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 12"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 10"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 30"
+ },
+ {
+  "set": "gsm8k",
+  "out": "20 + 10 = 30.\nAnswer: 30"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 33"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 400"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 18"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 6"
+ },
+ {
+  "set": "gsm8k",
+  "out": "5 \u00d7 2 per day \u00d7 7 days = 140.\nAnswer: 140"
+ },
+ {
+  "set": "gsm8k",
+  "out": "1000 - 15*300 = 1000 - 4500 = -3500.\nAnswer: -3500"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 3"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 16"
+ },
+ {
+  "set": "gsm8k",
+  "out": "250 \u00d7 4 = 1000.\nAnswer: 1000"
+ },
+ {
+  "set": "gsm8k",
+  "out": "12 + 43 + 15 + 4 + 22 = 96.\nAnswer: 96"
+ },
+ {
+  "set": "gsm8k",
+  "out": "50 \u00d7 1.50 = 75.\nAnswer: 75"
+ },
+ {
+  "set": "gsm8k",
+  "out": "Answer: 100"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: True"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: ['()', '(())', '(()())']"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 0.5"
+ },
+ {
+  "set": "humaneval",
+  "out": "1 + 2 + 3 = 6.\nAnswer: False"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 1.0"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: [1, 4, 2, 4, 3]"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: [2, 3, 1, 3]"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: ['abc', 'bacd', 'array']"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: (0, 1)"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: [1, 2, 3, 3, 3, 4, 4]"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 'catac'"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 100"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 'a'"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 1"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: ['a', 'ab', 'abc']"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: '0 1 2 3 4 5'"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 3"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: [4, 2, 1, 2, 2, 1, 1, 1, 1, 4, 4]"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 3"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 'one three five"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: (2.0, 2.2)"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: [0.0, 0.25, 0.5, 0.75, 1.0]"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: [5]"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 0"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 5"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: [2, 2, 2]"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: [1, 3, 4]"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: hELLO"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 'abc'"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: ['abc', 'array']"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: [2, 5, 6]"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: True"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 1.0"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: [2, 6, 3, 4, 8, 9, 5]"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: [0, 2, 3, 5, 9, 123]"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 123"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 0"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: [3, 6, 5, 4]"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: s"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: False"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 0"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: [2, 3, 4]"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: False"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: '22'"
+ },
+ {
+  "set": "humaneval",
+  "out": "5 \u00d7 3 / 2 = 7.5.\nAnswer: 7.5"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 4"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 3"
+ },
+ {
+  "set": "humaneval",
+  "out": "text == text[::-1]\nAnswer: True"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 3"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: decode_shift"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 'bcdf\\nghjklm'"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: True"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 5"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: True"
+ },
+ {
+  "set": "humaneval",
+  "out": "1 + 1 = 2.\nAnswer: 2"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: True"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: True"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: [2, 3, 5]"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 29"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 465"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: True"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: [1, 4, 12, 20]"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 4"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 21"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 153"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 19"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: [0, 1]"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: [1, 4, 2, 3]"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 6.00"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: True"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 4"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: ['4']"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: True"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: true"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: True"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: db1111db"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: True"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: ['A+', 'B', 'C-', 'C', 'A-']"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: True"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 2 * 10 ** (n-1)"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: binary"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "humaneval",
+  "out": "hello \u2192 ehllo.\nAnswer: ehllo"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: [(0, 0), (1, 4), (1, 0), (2, 5), (2, 0)]"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: [0, 1, 2, 3, 4, 5]"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 'lm'"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 1"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: True"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 'TGST"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 7"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: True"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: [2,3,5,7,11,13,17,19]"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 20"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 1"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 15"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: [3, 5, 7]"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: [\"Hi\", \"my\", \"name\", \"is\", \"John\"]"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 14"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 0b11010"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: [1, 15, 33]"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: ['One']"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: [1, 2, 6, 24, 15]"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: (4, 6)"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 3"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: True"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: YES"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: {'a': 2, 'b': 2}"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 'cdedc'"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: [\"the number of odd elements 4n the str4ng 4 of the 4nput.\"]"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 1"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 6"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: [0, 1, 2, 3, 4]"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: [\"world\"]"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: \"u\""
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: Yes"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: [2]"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 12"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 24"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: [1, 5]"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: True"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: [\"Hello\", \"world!\"]"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: True"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: NO"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: -9"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: [1, 2, 1]"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: [1, 3, 2, 8]"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 15"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: True"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 14"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: False"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 3"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: (None, 1)"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 2.5"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: False"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 288"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: Example"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: Yes"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 6"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: \"is\""
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: True"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: [-1, -11, 1, -12, 11]"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 1"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: (\"Venus\", \"Earth\", \"Mars\", \"Jupiter\", \"Saturn\")"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: [\"ab\", \"cd\"]"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 34"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 10"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: [0,0,0,0,3,3]"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: my_class.AA"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: True"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: (1, 2)"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: xix"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: True"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: string"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: [11, 4]"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 9"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: 4321"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: '3e25960a79dbc69b674cd4ec67a72c62'"
+ },
+ {
+  "set": "humaneval",
+  "out": "Answer: [2, 4, 6, 8]"
+ },
+ {
+  "set": "notes",
+  "out": "June 2024 + 18 months = June 2026.\nAnswer: 2026"
+ },
+ {
+  "set": "notes",
+  "out": "insurance on day 22, school fees on day 16, parking on day 2; earliest is parking.\nAnswer: parking"
+ },
+ {
+  "set": "notes",
+  "out": "15000 + 4900 + 3700 = 23600.\nAnswer: 23600"
+ },
+ {
+  "set": "notes",
+  "out": "streaming on day 1, insurance on day 14, parking on day 5; earliest is streaming.\nAnswer: streaming"
+ },
+ {
+  "set": "notes",
+  "out": "18000 \u00d7 12 = 216000.\nAnswer: 216000"
+ },
+ {
+  "set": "notes",
+  "out": "1 \u00d7 3 per day \u00d7 7 days = 21.\nAnswer: 21"
+ },
+ {
+  "set": "notes",
+  "out": "16600 \u00d7 12 = 199200.\nAnswer: 199200"
+ },
+ {
+  "set": "notes",
+  "out": "insurance on day 23, school fees on day 2, parking on day 9; earliest is school fees.\nAnswer: school fees"
+ },
+ {
+  "set": "notes",
+  "out": "school fees on day 17, doctor on day 1, parking on day 19; earliest is doctor.\nAnswer: doctor"
+ },
+ {
+  "set": "notes",
+  "out": "4400 \u00d7 12 = 52800.\nAnswer: 52800"
+ },
+ {
+  "set": "notes",
+  "out": "May 2022 + 36 months = May 2025.\nAnswer: 2025"
+ },
+ {
+  "set": "notes",
+  "out": "1 \u00d7 1 per day \u00d7 7 days = 7.\nAnswer: 7"
+ },
+ {
+  "set": "notes",
+  "out": "5400 + 5300 + 500 = 16200.\nAnswer: 16200"
+ },
+ {
+  "set": "notes",
+  "out": "insurance on day 4, school fees on day 20, streaming on day 8; earliest is insurance.\nAnswer: insurance"
+ },
+ {
+  "set": "notes",
+  "out": "8800 \u00d7 12 = 105600.\nAnswer: 105600"
+ },
+ {
+  "set": "notes",
+  "out": "6000 + 19300 + 12600 = 37900.\nAnswer: 37900"
+ },
+ {
+  "set": "notes",
+  "out": "5000 + 16900 + 1700 = 27800.\nAnswer: 27800"
+ },
+ {
+  "set": "notes",
+  "out": "January 2025 + 36 months = January 2028.\nAnswer: 2028"
+ },
+ {
+  "set": "notes",
+  "out": "insurance on day 11, parking on day 18, streaming on day 16; earliest is insurance.\nAnswer: insurance"
+ },
+ {
+  "set": "notes",
+  "out": "from 28 July 2026 to 3 September 2026 is 41 days.\nAnswer: 41"
+ },
+ {
+  "set": "notes",
+  "out": "August 2022 + 24 months = August 2024.\nAnswer: 2024"
+ },
+ {
+  "set": "notes",
+  "out": "from 7 January 2026 to 6 August 2026 is 202 days.\nAnswer: 202"
+ },
+ {
+  "set": "notes",
+  "out": "insurance on day 18, school fees on day 7, rent on day 19; earliest is school fees.\nAnswer: school fees"
+ },
+ {
+  "set": "notes",
+  "out": "November 2022 + 36 months = November 2025.\nAnswer: 2025"
+ },
+ {
+  "set": "notes",
+  "out": "September 2021 + 12 months = September 2022.\nAnswer: 2022"
+ },
+ {
+  "set": "notes",
+  "out": "July 2021 + 12 months = July 2022.\nAnswer: 2022"
+ },
+ {
+  "set": "notes",
+  "out": "2 \u00d7 3 per day \u00d7 7 days = 42.\nAnswer: 42"
+ },
+ {
+  "set": "notes",
+  "out": "insurance on day 3, school fees on day 25, parking on day 2; earliest is parking.\nAnswer: parking"
+ },
+ {
+  "set": "notes",
+  "out": "insurance on day 25, parking on day 14, streaming on day 26; earliest is parking.\nAnswer: parking"
+ },
+ {
+  "set": "notes",
+  "out": "16500 \u00d7 12 = 198000.\nAnswer: 198000"
+ },
+ {
+  "set": "notes",
+  "out": "parking on day 16, school on day 25, streaming on day 9; earliest is streaming.\nAnswer: streaming"
+ },
+ {
+  "set": "notes",
+  "out": "2 \u00d7 3 per day \u00d7 7 days = 42.\nAnswer: 42"
+ },
+ {
+  "set": "notes",
+  "out": "parking on day 3, insurance on day 13, school fees on day 20; earliest is parking.\nAnswer: parking"
+ },
+ {
+  "set": "notes",
+  "out": "insurance on day 28, parking on day 21, school on day 16; earliest is parking.\nAnswer: parking"
+ },
+ {
+  "set": "notes",
+  "out": "insurance on day 17, school fees on day 16, parking on day 20; earliest is school fees.\nAnswer: school fees"
+ },
+ {
+  "set": "notes",
+  "out": "8900 \u00d7 12 = 106800.\nAnswer: 106800"
+ },
+ {
+  "set": "notes",
+  "out": "from 21 July 2026 to 25 November 2026 is 125 days.\nAnswer: 125"
+ },
+ {
+  "set": "notes",
+  "out": "12900 \u00d7 12 = 154800.\nAnswer: 154800"
+ },
+ {
+  "set": "notes",
+  "out": "12000 + 9300 + 14700 = 36000.\nAnswer: 36000"
+ },
+ {
+  "set": "notes",
+  "out": "parking on day 28, insurance on day 13, school on day 9; earliest is insurance.\nAnswer: insurance"
+ },
+ {
+  "set": "notes",
+  "out": "13500 + 10500 + 8300 = 32300.\nAnswer: 32300"
+ },
+ {
+  "set": "notes",
+  "out": "school fees on day 13, parking on day 26, streaming on day 28; earliest is school fees.\nAnswer: school fees"
+ },
+ {
+  "set": "notes",
+  "out": "9400 + 16600 + 11900 = 37900.\nAnswer: 37900"
+ },
+ {
+  "set": "notes",
+  "out": "February 2021 + 36 months = February 2024.\nAnswer: 2024"
+ },
+ {
+  "set": "notes",
+  "out": "from 19 July 2026 to 14 July 2027 is 365 days.\nAnswer: 365"
+ },
+ {
+  "set": "notes",
+  "out": "2 \u00d7 3 per day \u00d7 7 days = 42.\nAnswer: 42"
+ },
+ {
+  "set": "notes",
+  "out": "June 2026 + 12 months = June 2027.\nAnswer: 2027"
+ },
+ {
+  "set": "notes",
+  "out": "from 18 March 2026 to 24 February 2027 is 360 days.\nAnswer: 360"
+ },
+ {
+  "set": "notes",
+  "out": "5400 + 4700 + 2500 = 12600.\nAnswer: 12600"
+ },
+ {
+  "set": "notes",
+  "out": "1 \u00d7 3 per day \u00d7 7 days = 21.\nAnswer: 21"
+ },
+ {
+  "set": "notes",
+  "out": "from 17 January 2026 to 23 March 2026 is 57 days.\nAnswer: 57"
+ },
+ {
+  "set": "notes",
+  "out": "18900 \u00d7 12 = 225600.\nAnswer: 225600"
+ },
+ {
+  "set": "notes",
+  "out": "May 2023 + 24 months = May 2025.\nAnswer: 2025"
+ },
+ {
+  "set": "notes",
+  "out": "11100 \u00d7 12 = 133200.\nAnswer: 133200"
+ },
+ {
+  "set": "notes",
+  "out": "2 \u00d7 3 per day \u00d7 7 days = 42.\nAnswer: 42"
+ },
+ {
+  "set": "notes",
+  "out": "August 2022 + 18 months = August 2024.\nAnswer: 2024"
+ },
+ {
+  "set": "notes",
+  "out": "from 11 July 2026 to 15 December 2026 is 151 days.\nAnswer: 151"
+ },
+ {
+  "set": "notes",
+  "out": "2 \u00d7 2 per day \u00d7 7 days = 28.\nAnswer: 28"
+ },
+ {
+  "set": "notes",
+  "out": "insurance on day 1, school fees on day 25, streaming on day 23; earliest is insurance.\nAnswer: insurance"
+ },
+ {
+  "set": "notes",
+  "out": "from 15 October 2026 to 24 November 2026 is 9 days.\nAnswer: 9"
+ },
+ {
+  "set": "notes",
+  "out": "August 2026 + 12 months = August 2027.\nAnswer: 2027"
+ },
+ {
+  "set": "notes",
+  "out": "May 2024 + 24 months = May 2026.\nAnswer: 2026"
+ },
+ {
+  "set": "notes",
+  "out": "insurance on day 9, parking on day 13, streaming on day 22; earliest is insurance.\nAnswer: insurance"
+ },
+ {
+  "set": "notes",
+  "out": "March 2022 + 24 months = March 2024.\nAnswer: 2024"
+ },
+ {
+  "set": "notes",
+  "out": "1 \u00d7 1 per day \u00d7 7 days = 7.\nAnswer: 7"
+ },
+ {
+  "set": "notes",
+  "out": "12000 \u00d7 12 = 144000.\nAnswer: 144000"
+ },
+ {
+  "set": "notes",
+  "out": "August 2026 + 18 months = August 2028.\nAnswer: 2028"
+ },
+ {
+  "set": "notes",
+  "out": "4800 + 8000 + 4700 = 17500.\nAnswer: 17500"
+ },
+ {
+  "set": "notes",
+  "out": "10100 \u00d7 12 = 121200.\nAnswer: 121200"
+ },
+ {
+  "set": "notes",
+  "out": "March 2021 + 18 months = March 2023.\nAnswer: 2023"
+ },
+ {
+  "set": "notes",
+  "out": "June 2022 + 36 months = June 2025.\nAnswer: 2025"
+ },
+ {
+  "set": "notes",
+  "out": "14300 \u00d7 12 = 171600.\nAnswer: 171600"
+ },
+ {
+  "set": "notes",
+  "out": "November 2024 + 12 months = November 2025.\nAnswer: 2025"
+ },
+ {
+  "set": "notes",
+  "out": "June 2026 + 18 months = June 2028.\nAnswer: 2028"
+ },
+ {
+  "set": "notes",
+  "out": "insurance on day 12, school fees on day 28, streaming on day 25; earliest is insurance.\nAnswer: insurance"
+ },
+ {
+  "set": "notes",
+  "out": "19400 + 1400 + 11600 = 32000.\nAnswer: 32000"
+ },
+ {
+  "set": "notes",
+  "out": "2 \u00d7 1 per day \u00d7 7 days = 14.\nAnswer: 14"
+ },
+ {
+  "set": "notes",
+  "out": "6400 + 4100 + 10500 = 21000.\nAnswer: 21000"
+ },
+ {
+  "set": "notes",
+  "out": "insurance on day 18, school fees on day 13, parking on day 21; earliest is school fees.\nAnswer: school fees"
+ },
+ {
+  "set": "notes",
+  "out": "April 2026 + 18 months = April 2028.\nAnswer: 2028"
+ },
+ {
+  "set": "notes",
+  "out": "from 21 May 2026 to 22 October 2026 is 142 days.\nAnswer: 142"
+ },
+ {
+  "set": "notes",
+  "out": "parking on day 1, insurance on day 25, school on day 18; earliest is parking.\nAnswer: parking"
+ },
+ {
+  "set": "notes",
+  "out": "January 2024 + 12 months = January 2025.\nAnswer: 2025"
+ },
+ {
+  "set": "notes",
+  "out": "2 \u00d7 2 per day \u00d7 7 days = 28.\nAnswer: 28"
+ },
+ {
+  "set": "notes",
+  "out": "1 \u00d7 1 per day \u00d7 7 days = 7.\nAnswer: 7"
+ },
+ {
+  "set": "notes",
+  "out": "from 18 July 2026 to 3 March 2027 is 245 days.\nAnswer: 245"
+ },
+ {
+  "set": "notes",
+  "out": "9800 \u00d7 12 = 117600.\nAnswer: 117600"
+ },
+ {
+  "set": "notes",
+  "out": "July 2021 + 18 months = July 2023.\nAnswer: 2023"
+ },
+ {
+  "set": "notes",
+  "out": "September 2022 + 18 months = September 2024.\nAnswer: 2024"
+ },
+ {
+  "set": "notes",
+  "out": "March 2024 + 36 months = March 2027.\nAnswer: 2027"
+ },
+ {
+  "set": "notes",
+  "out": "14000 + 15300 + 18800 = 48100.\nAnswer: 48100"
+ },
+ {
+  "set": "notes",
+  "out": "1 \u00d7 2 per day \u00d7 7 days = 14.\nAnswer: 14"
+ },
+ {
+  "set": "notes",
+  "out": "from 18 December 2026 to 13 January 2027 is 5 days.\nAnswer: 5"
+ },
+ {
+  "set": "notes",
+  "out": "1600 + 3500 + 2500 = 7600.\nAnswer: 7600"
+ },
+ {
+  "set": "notes",
+  "out": "9400 + 15000 + 17300 = 41700.\nAnswer: 41700"
+ },
+ {
+  "set": "notes",
+  "out": "June 2021 + 12 months = June 2022.\nAnswer: 2022"
+ },
+ {
+  "set": "notes",
+  "out": "4800 + 9300 + 16200 = 30300.\nAnswer: 30300"
+ },
+ {
+  "set": "notes",
+  "out": "parking on day 4, insurance on day 26, school on day 18; earliest is parking.\nAnswer: parking"
+ },
+ {
+  "set": "notes",
+  "out": "November 2022 + 18 months = November 2024.\nAnswer: 2024"
+ },
+ {
+  "set": "notes",
+  "out": "16800 \u00d7 12 = 201600.\nAnswer: 201600"
+ },
+ {
+  "set": "notes",
+  "out": "3800 \u00d7 12 = 45600.\nAnswer: 45600"
+ },
+ {
+  "set": "notes",
+  "out": "18200 \u00d7 12 = 218400.\nAnswer: 218400"
+ },
+ {
+  "set": "notes",
+  "out": "2 \u00d7 3 per day \u00d7 7 days = 42.\nAnswer: 42"
+ },
+ {
+  "set": "notes",
+  "out": "1500 \u00d7 12 = 18000.\nAnswer: 18000"
+ },
+ {
+  "set": "notes",
+  "out": "from 21 September 2026 to 2 November 2026 is 51 days.\nAnswer: 51"
+ },
+ {
+  "set": "notes",
+  "out": "10100 + 2300 + 17000 = 39400.\nAnswer: 39400"
+ },
+ {
+  "set": "notes",
+  "out": "December 2025 + 24 months = December 2027.\nAnswer: 2027"
+ },
+ {
+  "set": "notes",
+  "out": "insurance on day 27, school fees on day 18, rent on day 18; earliest is school fees.\nAnswer: school fees"
+ },
+ {
+  "set": "notes",
+  "out": "May 2022 + 24 months = May 2024.\nAnswer: 2024"
+ },
+ {
+  "set": "notes",
+  "out": "parking on day 11, insurance on day 18, streaming on day 23; earliest is parking.\nAnswer: parking"
+ },
+ {
+  "set": "notes",
+  "out": "insurance on day 20, parking on day 12, streaming on day 16; earliest is parking.\nAnswer: parking"
+ },
+ {
+  "set": "notes",
+  "out": "from 12 January 2026 to 15 April 2026 is 74 days.\nAnswer: 74"
+ },
+ {
+  "set": "notes",
+  "out": "1 \u00d7 2 per day \u00d7 7 days = 14.\nAnswer: 14"
+ },
+ {
+  "set": "notes",
+  "out": "500 + 14000 + 18100 = 37600.\nAnswer: 37600"
+ },
+ {
+  "set": "notes",
+  "out": "school fees on day 5, parking on day 24, doctor on day 9; earliest is school fees.\nAnswer: school fees"
+ },
+ {
+  "set": "notes",
+  "out": "school fees on day 16, parking on day 26, streaming on day 15; earliest is school fees.\nAnswer: school fees"
+ },
+ {
+  "set": "notes",
+  "out": "1 \u00d7 1 per day \u00d7 7 days = 7.\nAnswer: 7"
+ },
+ {
+  "set": "notes",
+  "out": "18200 + 13800 + 15100 = 47100.\nAnswer: 47100"
+ },
+ {
+  "set": "notes",
+  "out": "December 2024 + 12 months = December 2025.\nAnswer: 2025"
+ },
+ {
+  "set": "notes",
+  "out": "17100 \u00d7 12 = 205200.\nAnswer: 205200"
+ },
+ {
+  "set": "notes",
+  "out": "2 \u00d7 3 per day \u00d7 7 days = 42.\nAnswer: 42"
+ },
+ {
+  "set": "notes",
+  "out": "insurance on day 19, parking on day 20, streaming on day 7; earliest is streaming.\nAnswer: streaming"
+ },
+ {
+  "set": "notes",
+  "out": "March 2026 + 36 months = March 2029.\nAnswer: 2029"
+ },
+ {
+  "set": "notes",
+  "out": "from 21 April 2026 to 28 September 2026 is 158 days.\nAnswer: 158"
+ },
+ {
+  "set": "notes",
+  "out": "7700 \u00d7 12 = 92400.\nAnswer: 92400"
+ },
+ {
+  "set": "notes",
+  "out": "from 12 July 2026 to 26 June 2027 is 365 days.\nAnswer: 365"
+ },
+ {
+  "set": "notes",
+  "out": "school fees on day 20, parking on day 17, streaming on day 3; earliest is streaming.\nAnswer: streaming"
+ },
+ {
+  "set": "notes",
+  "out": "insurance on day 24, streaming on day 8, parking on day 5; earliest is streaming.\nAnswer: streaming"
+ },
+ {
+  "set": "notes",
+  "out": "16600 \u00d7 12 = 199200.\nAnswer: 199200"
+ },
+ {
+  "set": "notes",
+  "out": "December 2025 + 18 months = December 2027.\nAnswer: 2027"
+ },
+ {
+  "set": "notes",
+  "out": "insurance on day 5, parking on day 20, streaming on day 12; earliest is insurance.\nAnswer: insurance"
+ },
+ {
+  "set": "notes",
+  "out": "from 10 October 2026 to 24 July 2027 is 247 days.\nAnswer: 247"
+ },
+ {
+  "set": "notes",
+  "out": "1 \u00d7 3 per day \u00d7 7 days = 21.\nAnswer: 21"
+ },
+ {
+  "set": "notes",
+  "out": "from 7 March 2026 to 27 April 2026 is 30 days.\nAnswer: 30"
+ },
+ {
+  "set": "notes",
+  "out": "from 13 August 2026 to 28 October 2026 is 55 days.\nAnswer: 55"
+ },
+ {
+  "set": "notes",
+  "out": "October 2021 + 24 months = October 2023.\nAnswer: 2023"
+ },
+ {
+  "set": "notes",
+  "out": "18100 \u00d7 12 = 217200.\nAnswer: 217200"
+ },
+ {
+  "set": "notes",
+  "out": "from 20 June 2026 to 10 June 2027 is 365 days.\nAnswer: 365"
+ },
+ {
+  "set": "notes",
+  "out": "May 2022 + 36 months = May 2025.\nAnswer: 2025"
+ },
+ {
+  "set": "notes",
+  "out": "1100 \u00d7 12 = 13200.\nAnswer: 13200"
+ },
+ {
+  "set": "notes",
+  "out": "2 \u00d7 2 per day \u00d7 7 days = 28.\nAnswer: 28"
+ },
+ {
+  "set": "notes",
+  "out": "1 \u00d7 1 per day \u00d7 7 days = 7.\nAnswer: 7"
+ },
+ {
+  "set": "notes",
+  "out": "from 1 September 2026 to 1 June 2027 is 245 days.\nAnswer: 245"
+ },
+ {
+  "set": "notes",
+  "out": "1 \u00d7 3 per day \u00d7 7 days = 21.\nAnswer: 21"
+ },
+ {
+  "set": "notes",
+  "out": "from 8 December 2026 to 3 September 2027 is 265 days.\nAnswer: 265"
+ },
+ {
+  "set": "notes",
+  "out": "from 25 July 2026 to 4 May 2027 is 234 days.\nAnswer: 234"
+ },
+ {
+  "set": "notes",
+  "out": "5300 \u00d7 12 = 63600.\nAnswer: 63600"
+ },
+ {
+  "set": "notes",
+  "out": "parking on day 4, school fees on day 3, e-bike on day 24; earliest is school fees.\nAnswer: school fees"
+ },
+ {
+  "set": "notes",
+  "out": "insurance on day 10, parking on day 16, streaming on day 12; earliest is insurance.\nAnswer: insurance"
+ },
+ {
+  "set": "notes",
+  "out": "from 21 April 2026 to 21 January 2027 is 243 days.\nAnswer: 243"
+ },
+ {
+  "set": "notes",
+  "out": "2 \u00d7 3 per day \u00d7 7 days = 42.\nAnswer: 42"
+ },
+ {
+  "set": "notes",
+  "out": "5200 + 2400 + 17100 = 36700.\nAnswer: 36700"
+ },
+ {
+  "set": "notes",
+  "out": "16500 \u00d7 12 = 198000.\nAnswer: 198000"
+ },
+ {
+  "set": "notes",
+  "out": "from 12 August 2026 to 3 March 2027 is 244 days.\nAnswer: 244"
+ },
+ {
+  "set": "notes",
+  "out": "November 2023 + 36 months = November 2026.\nAnswer: 2026"
+ },
+ {
+  "set": "notes",
+  "out": "1 \u00d7 2 per day \u00d7 7 days = 14.\nAnswer: 14"
+ },
+ {
+  "set": "notes",
+  "out": "insurance on day 12, school fees on day 18, streaming on day 13; earliest is insurance.\nAnswer: insurance"
+ },
+ {
+  "set": "notes",
+  "out": "from 5 December 2026 to 11 December 2026 is 6 days.\nAnswer: 6"
+ },
+ {
+  "set": "notes",
+  "out": "10200 + 4400 + 10300 = 25000.\nAnswer: 25000"
+ },
+ {
+  "set": "notes",
+  "out": "insurance on day 12, school fees on day 24, parking on day 3; earliest is parking.\nAnswer: parking"
+ },
+ {
+  "set": "notes",
+  "out": "parking on day 7, insurance on day 21, streaming on day 17; earliest is parking.\nAnswer: parking"
+ },
+ {
+  "set": "notes",
+  "out": "February 2023 + 36 months = February 2026.\nAnswer: 2026"
+ },
+ {
+  "set": "notes",
+  "out": "November 2024 + 18 months = November 2025.\nAnswer: 2025"
+ },
+ {
+  "set": "notes",
+  "out": "7700 + 3200 + 13700 = 24600.\nAnswer: 24600"
+ },
+ {
+  "set": "notes",
+  "out": "5200 \u00d7 12 = 62400.\nAnswer: 62400"
+ },
+ {
+  "set": "notes",
+  "out": "19400 \u00d7 12 = 232800.\nAnswer: 232800"
+ },
+ {
+  "set": "notes",
+  "out": "insurance on day 5, school fees on day 1, parking on day 28; earliest is school fees.\nAnswer: school fees"
+ },
+ {
+  "set": "notes",
+  "out": "2 \u00d7 1 per day \u00d7 7 days = 14.\nAnswer: 14"
+ },
+ {
+  "set": "notes",
+  "out": "April 2025 + 36 months = April 2028.\nAnswer: 2028"
+ },
+ {
+  "set": "notes",
+  "out": "13600 + 14300 + 16400 = 44300.\nAnswer: 44300"
+ },
+ {
+  "set": "notes",
+  "out": "1700 \u00d7 12 = 20400.\nAnswer: 20400"
+ },
+ {
+  "set": "notes",
+  "out": "18000 \u00d7 12 = 216000.\nAnswer: 216000"
+ },
+ {
+  "set": "notes",
+  "out": "insurance on day 9, parking on day 22, streaming on day 12; earliest is insurance.\nAnswer: insurance"
+ },
+ {
+  "set": "notes",
+  "out": "2 \u00d7 1 per day \u00d7 7 days = 14.\nAnswer: 14"
+ },
+ {
+  "set": "notes",
+  "out": "from 3 November 2026 to 21 September 2027 is 282 days.\nAnswer: 282"
+ },
+ {
+  "set": "notes",
+  "out": "November 2024 + 24 months = November 2026.\nAnswer: 2026"
+ },
+ {
+  "set": "notes",
+  "out": "17500 \u00d7 12 = 210000.\nAnswer: 210000"
+ },
+ {
+  "set": "notes",
+  "out": "April 2026 + 12 months = April 2027.\nAnswer: 2027"
+ },
+ {
+  "set": "notes",
+  "out": "2 \u00d7 2 per day \u00d7 7 days = 28.\nAnswer: 28"
+ },
+ {
+  "set": "notes",
+  "out": "from 14 March 2026 to 23 July 2026 is 120 days.\nAnswer: 120"
+ },
+ {
+  "set": "notes",
+  "out": "school fees on day 10, parking on day 22, streaming on day 24; earliest is school fees.\nAnswer: school fees"
+ },
+ {
+  "set": "notes",
+  "out": "from 11 April 2026 to 16 May 2026 is 5 days.\nAnswer: 5"
+ },
+ {
+  "set": "notes",
+  "out": "March 2024 + 36 months = March 2027.\nAnswer: 2027"
+ },
+ {
+  "set": "notes",
+  "out": "insurance on day 26, school on day 1, TV on day 4; earliest is school.\nAnswer: school"
+ },
+ {
+  "set": "notes",
+  "out": "1 \u00d7 3 per day \u00d7 7 days = 21.\nAnswer: 21"
+ },
+ {
+  "set": "notes",
+  "out": "1 \u00d7 2 per day \u00d7 7 days = 14.\nAnswer: 14"
+ },
+ {
+  "set": "notes",
+  "out": "December 2024 + 36 months = December 2027.\nAnswer: 2027"
+ },
+ {
+  "set": "notes",
+  "out": "from 22 July 2026 to 10 July 2027 is 341 days.\nAnswer: 341"
+ },
+ {
+  "set": "notes",
+  "out": "7500 \u00d7 12 = 90000.\nAnswer: 90000"
+ },
+ {
+  "set": "notes",
+  "out": "February 2021 + 18 months = February 2023.\nAnswer: 2023"
+ },
+ {
+  "set": "notes",
+  "out": "insurance on day 15, school fees on day 23, TV on day 5; earliest is TV.\nAnswer: TV"
+ },
+ {
+  "set": "notes",
+  "out": "from 8 April 2026 to 9 October 2026 is 172 days.\nAnswer: 172"
+ },
+ {
+  "set": "notes",
+  "out": "4600 \u00d7 12 = 55200.\nAnswer: 55200"
+ },
+ {
+  "set": "notes",
+  "out": "October 2021 + 18 months = October 2023.\nAnswer: 2023"
+ },
+ {
+  "set": "notes",
+  "out": "2 \u00d7 2 per day \u00d7 7 days = 28.\nAnswer: 28"
+ },
+ {
+  "set": "notes",
+  "out": "insurance on day 20, parking on day 26, streaming on day 14; earliest is insurance.\nAnswer: insurance"
+ },
+ {
+  "set": "notes",
+  "out": "11100 \u00d7 12 = 133200.\nAnswer: 133200"
+ },
+ {
+  "set": "notes",
+  "out": "1 \u00d7 3 per day \u00d7 7 days = 21.\nAnswer: 21"
+ },
+ {
+  "set": "notes",
+  "out": "9900 + 9900 + 11400 = 31200.\nAnswer: 31200"
+ },
+ {
+  "set": "notes",
+  "out": "November 2022 + 12 months = November 2023.\nAnswer: 2023"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: households"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 14000"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 32.5"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 3"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 5.1"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 25 to 44"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 73760"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 71.4"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 62"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: the Somali Youth League"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 14"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 65.9"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: the war resulted in sporadic border clashes throughout 1919-1920"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 19"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 95.51"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 4"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Spanish"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 25985"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 88.9"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Killigrew getting married to Catherine"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Tebow"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 68.3"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 0"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 1"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 8348"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: officers"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 37716"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 6"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Titans"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2900"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 10"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 5"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: females"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 17000"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 3"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Steelers"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Matt Prater"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Romo"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: family"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Bills"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 10"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 3"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Ryan Longwell"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 12"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 22.5"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 27"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 7"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 147405 - 120031 = 27374"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Brian Cushing"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Sebastian Janikowski"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 4"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Spanish"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: people"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Drew Brees"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: king's brothers raised a rebellion"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 103"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: the taking of Lower Burma"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 200000"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Patriots"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Asian"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: married couples living together"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 48"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 8"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Spanish"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 4"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 99.17"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 1"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Julius Jones"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: SuperSonics"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: David Thomas"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: households"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 66.9"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: public transportation"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Pacific Islander"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 25 to 44"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Marques Colston"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Spanish"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Jolo island"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 99.2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Tendulkar"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 66900"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Sage Rosenfels"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 0.25"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: the death of Mirwais"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 1719000"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 20 to 29"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Phil Dawson"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 69.89"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 65"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: French"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 54"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: men"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 14"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 22,158"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 89.9"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 249"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: employment"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 81.13"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 14"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Danzig becoming the most privileged city in the Commonwealth"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: adult"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: married couples living together"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 1069"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 1997"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: WR Andre Johnson"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: households"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 14"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 99.99"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 85.3"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Patriots"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Brad Smith"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Cowboys"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 96"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 3"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 7.6"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: English"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Kuwait"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 5"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 1921\u201322"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 4"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 3"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Jets"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 13"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Murad I"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: under the age of 18"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 15"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 0.4"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: African American"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Falcons"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 6"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 28"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Venice"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: stay away from trading"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 84.7"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Derek Anderson"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 70.5"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 39"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 14"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 15"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 6"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 5"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 21"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 1"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 77.4"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Erric Pegram"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 24 and younger"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 130"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 4"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 8"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 45 to 64"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Roydell Williams"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 10"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: George McT. Kahin Prize"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 17"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: females"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 1"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 3"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 79.2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Hern\u00e1n Peraza The Elder"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: swedish people"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 24"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 1300"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Ambon"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 3"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 1.8"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Spanish"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 25889"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 8"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 12"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 14"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: higher adult population of smokers"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 73"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 4"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 21"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 79.9"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Raymond James Stadium"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 3"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Spain loosing all territories it had gained since 1909"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 3"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 1700"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 1"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Maurice Jones-Drew"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 65"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: British Chief Commissioner in the South Caucasus"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Moore"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 17.3"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 14"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Shayne Graham"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 12"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 3"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 45 to 64"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 10"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 53.9"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 38"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 3"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 4"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: African American"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 89.5"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: planters"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 3"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 13"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 6"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 99.91"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: swedish"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 5"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Barack Obama"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 13.33"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 7"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Irish migration"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: African American"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: the Red Terror"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: WR Jerheme Urban"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 3"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 10"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 27"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 7"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 44"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 4.8"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 53900"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Antwerp"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Tamil"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Willis McGahee"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 17"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 1488"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: under the age of 18"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Portuguese Colonial War"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 6"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Eagles"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 1"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 37"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Americans ancestry"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: households"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Janikowski"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: under the age of 18"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 12"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Great-Quartermaster"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: people"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: made up of individuals"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: The Hague campaigns as field officer"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 145"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: foreign visitors"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 66.6"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 8"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 15486"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Romania"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 1"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 1"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 39"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 4"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 55 to 59 years"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 119314"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: German"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 150000"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 49-yard field goal"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: the Spanish and Portuguese"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Adolf von Neuenahr"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2003-04"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 65.2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 44"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 21"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 6"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 500"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 25985"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 67.2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 108"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2.6"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: under the age of 18"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 86.2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 137361"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 92.5"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 99.44"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 66907"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 7"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 1"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Danish army"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 4"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: Santos"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 2"
+ },
+ {
+  "set": "drop",
+  "out": "Answer: 16"
+ }
+]
