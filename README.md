@@ -1,4 +1,6 @@
 # PhoneAI — what actually makes a large language model fit on a phone
+**Report (v1):** [doi.org/10.5281/zenodo.23376016](https://doi.org/10.5281/zenodo.23376016)
+
 
 Research code for running capable LLMs on memory-bandwidth-bound devices (target: iPhone 18 Pro, A20 Pro,
 12 GB). All experiments below ran on a MacBook Pro M4 Max (36 GB) with `mlx-lm`; on-device measurements
