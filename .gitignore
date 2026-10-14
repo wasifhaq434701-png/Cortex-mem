@@ -25,3 +25,12 @@ xcuserdata/
 
 # LoRA adapters (weights live in *.safetensors, configs are tiny but per-run)
 adapters/
+
+# Private notes: kept on disk for Claude Code, never published
+CLAUDE.md
+ZENODO_UPLOAD.md
+
+# LaTeX build artifacts (report/report.pdf itself is committed)
+report/*.aux
+report/*.log
+report/*.out

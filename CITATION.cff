@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this code or the personal-notes benchmark, please cite the report."
+title: "Parameter-Level Conditional Computation Does Not Buy Quality on Phones: Three Negative Results for On-Device LLMs"
+version: "1.0.0"
+date-released: "2026-10-14"
+type: software
+authors:
+  - family-names: "Ul Haq"
+    given-names: "Mohammed Wasif"
+    affiliation: "Independent researcher"
+keywords:
+  - on-device LLM
+  - mixture of experts
+  - LoRA
+  - conditional computation
