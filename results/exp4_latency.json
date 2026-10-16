@@ -1,0 +1,99 @@
+{
+ "retrieval": {
+  "lme": {
+   "load": {
+    "median_ms": 2.197541994974017,
+    "p90_ms": 2.3126999964006245,
+    "n": 100
+   },
+   "embed": {
+    "median_ms": 4.281478992197663,
+    "p90_ms": 5.400891398312524,
+    "n": 100
+   },
+   "index": {
+    "median_ms": 13.517375016817823,
+    "p90_ms": 13.804892299231142,
+    "n": 100
+   },
+   "select": {
+    "median_ms": 0.7998545188456774,
+    "p90_ms": 1.38458720757626,
+    "n": 400
+   },
+   "chunks_per_user": 809.3
+  },
+  "locomo": {
+   "load": {
+    "median_ms": 1.2836455134674907,
+    "p90_ms": 1.3615670322906226,
+    "n": 100
+   },
+   "embed": {
+    "median_ms": 3.7465415080077946,
+    "p90_ms": 4.236645495984703,
+    "n": 100
+   },
+   "index": {
+    "median_ms": 2.9663964814972132,
+    "p90_ms": 3.3809917455073446,
+    "n": 100
+   },
+   "select": {
+    "median_ms": 0.4598330124281347,
+    "p90_ms": 0.6490417232271284,
+    "n": 400
+   },
+   "chunks_per_user": 578.1
+  },
+  "note": "1 CPU thread, M4 Max; select = hybrid at 1K/2K/4K/8K, index build excluded"
+ },
+ "ttft": {
+  "hybrid@1000": {
+   "prompt_tokens": 1140.8,
+   "ttft_s": 1.6342809579800814,
+   "ttft_s_max": 2.0119940000004135,
+   "prefill_tok_s": 693.8831383078632,
+   "decode_tok_s": 113.18638305235466,
+   "peak_gb": 3.022770021110773,
+   "n": 5
+  },
+  "hybrid@2000": {
+   "prompt_tokens": 2152.6,
+   "ttft_s": 2.8579938329639845,
+   "ttft_s_max": 2.8788422499783337,
+   "prefill_tok_s": 754.3753156962006,
+   "decode_tok_s": 109.84329672612093,
+   "peak_gb": 3.1423716321587563,
+   "n": 5
+  },
+  "hybrid@4000": {
+   "prompt_tokens": 4170.4,
+   "ttft_s": 5.333827583002858,
+   "ttft_s_max": 5.371202708978672,
+   "prefill_tok_s": 781.3894328978,
+   "decode_tok_s": 99.39209697118567,
+   "peak_gb": 3.4138785004615784,
+   "n": 5
+  },
+  "hybrid@8000": {
+   "prompt_tokens": 8201.6,
+   "ttft_s": 11.741620207962114,
+   "ttft_s_max": 12.177521458012052,
+   "prefill_tok_s": 697.0928930616975,
+   "decode_tok_s": 80.08460608692765,
+   "peak_gb": 3.83576874807477,
+   "n": 5
+  },
+  "full@locomo": {
+   "prompt_tokens": 19111.4,
+   "ttft_s": 38.34898800001247,
+   "ttft_s_max": 57.925142666033935,
+   "prefill_tok_s": 476.72705209311016,
+   "decode_tok_s": 53.01369024853488,
+   "peak_gb": 6.126845397055149,
+   "n": 5
+  },
+  "note": "M4 Max GPU, Qwen3-4B-4bit, fresh cache per prompt, median of 5 real prompts"
+ }
+}

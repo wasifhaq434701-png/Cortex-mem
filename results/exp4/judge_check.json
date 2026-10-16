@@ -1,0 +1,611 @@
+[
+ {
+  "qid": "d7c942c3",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ },
+ {
+  "qid": "88432d0a_abs",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ },
+ {
+  "qid": "8464fc84",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ },
+ {
+  "qid": "06f04340",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ },
+ {
+  "qid": "3d86fd0a",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ },
+ {
+  "qid": "gpt4_6dc9b45b",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ },
+ {
+  "qid": "6aeb4375_abs",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ },
+ {
+  "qid": "8e91e7d9",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 0,
+  "claude": 0
+ },
+ {
+  "qid": "6222b6eb",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ },
+ {
+  "qid": "8a2466db",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ },
+ {
+  "qid": "58ef2f1c",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 0,
+  "claude": 0,
+  "claude_note": "borderline: Valentine's Day in reasoning, final answer says unknown"
+ },
+ {
+  "qid": "gpt4_8279ba02",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 0,
+  "claude": 0
+ },
+ {
+  "qid": "ed4ddc30",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ },
+ {
+  "qid": "4f54b7c9",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 0,
+  "claude": 0
+ },
+ {
+  "qid": "c8f1aeed",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ },
+ {
+  "qid": "1a1907b4",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 0,
+  "claude": 1,
+  "claude_note": "borderline: uses cocktail history, not mixology class"
+ },
+ {
+  "qid": "51a45a95",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 0,
+  "claude": 0
+ },
+ {
+  "qid": "9a707b81",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 0,
+  "claude": 0
+ },
+ {
+  "qid": "c6853660",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ },
+ {
+  "qid": "2311e44b_abs",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ },
+ {
+  "qid": "e982271f",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ },
+ {
+  "qid": "38146c39",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 0
+ },
+ {
+  "qid": "8ebdbe50",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ },
+ {
+  "qid": "gpt4_d9af6064",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ },
+ {
+  "qid": "cf22b7bf",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ },
+ {
+  "qid": "e5ba910e_abs",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ },
+ {
+  "qid": "3249768e",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 0,
+  "claude": 0
+ },
+ {
+  "qid": "57f827a0",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 0
+ },
+ {
+  "qid": "1e043500",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ },
+ {
+  "qid": "gpt4_e414231e",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ },
+ {
+  "qid": "07741c45",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 0,
+  "claude": 0
+ },
+ {
+  "qid": "gpt4_2ba83207",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 0,
+  "claude": 0
+ },
+ {
+  "qid": "7161e7e2",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ },
+ {
+  "qid": "b0479f84",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ },
+ {
+  "qid": "ad7109d1",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ },
+ {
+  "qid": "71017277",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 0,
+  "claude": 0
+ },
+ {
+  "qid": "5831f84d",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ },
+ {
+  "qid": "a4996e51",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 0
+ },
+ {
+  "qid": "70b3e69b",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ },
+ {
+  "qid": "32260d93",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 0,
+  "claude": 0
+ },
+ {
+  "qid": "af8d2e46",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 0,
+  "claude": 0
+ },
+ {
+  "qid": "gpt4_65aabe59",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 0,
+  "claude": 0
+ },
+ {
+  "qid": "6aeb4375",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ },
+ {
+  "qid": "cc06de0d",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ },
+ {
+  "qid": "561fabcd",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ },
+ {
+  "qid": "07b6f563",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ },
+ {
+  "qid": "bc8a6e93",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ },
+ {
+  "qid": "0bc8ad92",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ },
+ {
+  "qid": "0ddfec37",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 0,
+  "claude": 0
+ },
+ {
+  "qid": "gpt4_a56e767c",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 0,
+  "claude": 0
+ },
+ {
+  "qid": "conv-48_q8",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ },
+ {
+  "qid": "conv-50_q21",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ },
+ {
+  "qid": "conv-50_q149",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ },
+ {
+  "qid": "conv-50_q9",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 0
+ },
+ {
+  "qid": "conv-26_q11",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 0,
+  "claude": 0
+ },
+ {
+  "qid": "conv-49_q20",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 0
+ },
+ {
+  "qid": "conv-47_q125",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 0,
+  "claude": 0
+ },
+ {
+  "qid": "conv-44_q46",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 0
+ },
+ {
+  "qid": "conv-43_q36",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 0
+ },
+ {
+  "qid": "conv-50_q7",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 0,
+  "claude": 0
+ },
+ {
+  "qid": "conv-43_q122",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 0,
+  "claude_note": "borderline: 'growth/confidence' vs 'reach their goals'"
+ },
+ {
+  "qid": "conv-26_q74",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 0
+ },
+ {
+  "qid": "conv-42_q67",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 0,
+  "claude": 0,
+  "claude_note": "borderline: dog + hedged turtles, adds a cat, no count"
+ },
+ {
+  "qid": "conv-48_q48",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 0,
+  "claude": 0
+ },
+ {
+  "qid": "conv-42_q127",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 0,
+  "claude": 1,
+  "claude_note": "borderline: 'movie script' vs 'screenplay bits'"
+ },
+ {
+  "qid": "conv-42_q65",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ },
+ {
+  "qid": "conv-41_q9",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ },
+ {
+  "qid": "conv-48_q28",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 0,
+  "claude": 0
+ },
+ {
+  "qid": "conv-44_q80",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1,
+  "claude_note": "borderline: 'Mediterranean chicken dish' vs 'roasted chicken'"
+ },
+ {
+  "qid": "conv-30_q20",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ },
+ {
+  "qid": "conv-30_q9",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 0,
+  "claude": 0
+ },
+ {
+  "qid": "conv-43_q51",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 0,
+  "claude": 0
+ },
+ {
+  "qid": "conv-47_q144",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ },
+ {
+  "qid": "conv-48_q81",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 0,
+  "claude": 0
+ },
+ {
+  "qid": "conv-41_q32",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 0,
+  "claude": 0
+ },
+ {
+  "qid": "conv-43_q34",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 0
+ },
+ {
+  "qid": "conv-48_q106",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ },
+ {
+  "qid": "conv-43_q63",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 0,
+  "claude": 1,
+  "claude_note": "borderline: 'last summer' anchored to 2024-01"
+ },
+ {
+  "qid": "conv-41_q49",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 0,
+  "claude": 0
+ },
+ {
+  "qid": "conv-48_q70",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ },
+ {
+  "qid": "conv-43_q131",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ },
+ {
+  "qid": "conv-49_q73",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 0,
+  "claude_note": "borderline: 'next summer' not resolved to 2024"
+ },
+ {
+  "qid": "conv-42_q83",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 0,
+  "claude": 0
+ },
+ {
+  "qid": "conv-49_q46",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ },
+ {
+  "qid": "conv-48_q103",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ },
+ {
+  "qid": "conv-50_q50",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 0,
+  "claude": 0
+ },
+ {
+  "qid": "conv-44_q3",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 0,
+  "claude_note": "borderline: 5 of 6 places, extras"
+ },
+ {
+  "qid": "conv-47_q25",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 0,
+  "claude": 0
+ },
+ {
+  "qid": "conv-30_q60",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 0,
+  "claude": 0
+ },
+ {
+  "qid": "conv-50_q62",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 0,
+  "claude": 0
+ },
+ {
+  "qid": "conv-48_q83",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ },
+ {
+  "qid": "conv-43_q66",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 0,
+  "claude": 0
+ },
+ {
+  "qid": "conv-48_q135",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ },
+ {
+  "qid": "conv-42_q77",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 0
+ },
+ {
+  "qid": "conv-44_q32",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 0,
+  "claude": 0
+ },
+ {
+  "qid": "conv-42_q14",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 0,
+  "claude": 0
+ },
+ {
+  "qid": "conv-41_q94",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ },
+ {
+  "qid": "conv-42_q21",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ },
+ {
+  "qid": "conv-26_q48",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ },
+ {
+  "qid": "conv-49_q71",
+  "config": "cortex,div=0,edges=0@2000",
+  "human": 1,
+  "claude": 1
+ }
+]

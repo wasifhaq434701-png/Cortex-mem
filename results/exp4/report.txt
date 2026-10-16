@@ -1,0 +1,68 @@
+| config | LME acc | LoCoMo J | LoCoMo F1 | memory tok (LME/LoCoMo) | KV MB (LME) | evidence recall (LME/LoCoMo) |
+|---|---|---|---|---|---|---|
+| bm25@1000~lme-test | 56.2% | – | – | 995/– | 140 | 74.6%/– |
+| bm25@2000 | 56.0% | 51.9% | 26.9% | 1996/1997 | 281 | 80.6%/66.7% |
+| bm25@2000~lme-dev | 58.0% | – | – | 1996/– | 281 | 82.7%/– |
+| bm25@4000~lme-test | 55.0% | – | – | 3996/– | 562 | 84.5%/– |
+| cortex,div=0,edges=0,keep=0.3@2000~lme-test | 48.0% | – | – | 1996/– | 281 | 79.6%/– |
+| cortex,div=0,edges=0,keep=0.5@2000~lme-test | 53.2% | – | – | 1996/– | 281 | 84.3%/– |
+| cortex,div=0,edges=0@1000 | 59.0% | 52.6% | 28.6% | 995/997 | 140 | 74.8%/67.1% |
+| cortex,div=0,edges=0@2000 | 59.5% | 56.8% | 29.4% | 1995/1997 | 281 | 85.1%/77.3% |
+| cortex,div=0,edges=0@2000~lme-dev | 60.0% | – | – | 1995/– | 281 | 84.6%/– |
+| cortex,div=0,edges=0@4000 | 57.0% | 58.7% | 29.9% | 3996/3997 | 562 | 90.3%/85.0% |
+| cortex,div=0,edges=0@8000~lme-test | 54.0% | – | – | 7996/– | 1124 | 94.7%/– |
+| cortex,div=0,keep=0.5@2000~lme-dev | 56.0% | – | – | 1994/– | 280 | 83.4%/– |
+| cortex,div=0@2000~lme-dev | 59.0% | – | – | 1994/– | 280 | 81.5%/– |
+| cortex,div=0@2000~lme-test | 56.5% | – | – | 1995/– | 281 | 84.2%/– |
+| cortex@2000~lme-dev | 46.0% | – | – | 1995/– | 281 | 64.8%/– |
+| cortex@2000~lme-test | 45.8% | – | – | 1996/– | 281 | 67.4%/– |
+| full@0 | – | 54.5% | 27.7% | –/20814 | – | –/100.0% |
+| oracle@32000 | 63.2% | 69.4% | 41.7% | 5776/1118 | 812 | 100.0%/100.0% |
+| rag@1000 | 51.2% | 47.7% | 25.0% | 994/997 | 140 | 63.2%/57.3% |
+| rag@2000 | 54.2% | 53.6% | 27.1% | 1995/1997 | 281 | 74.5%/69.3% |
+| rag@2000~lme-dev | 53.0% | – | – | 1995/– | 281 | 74.6%/– |
+| rag@4000 | 56.2% | 56.6% | 28.2% | 3996/3997 | 562 | 84.6%/80.9% |
+| session@2000~lme-test | 36.5% | – | – | 1992/– | 280 | 56.2%/– |
+human vs judge: n 100, agreement 0.89, kappa 0.77, judge_minus_human -0.07
+claude vs judge: n 100, agreement 0.93, kappa 0.86, judge_minus_claude 0.03
+human vs claude: n 100, agreement 0.84, kappa 0.67, claude_minus_human -0.10
+bm25@1000~lme-test - rag@1000 [lme]           +5.0 [+0.5,+9.8]*
+bm25@1000~lme-test - cortex,div=0,edges=0@1000 [lme] -2.8 [-7.0,+1.5]
+bm25@2000 - rag@2000 [lme]                    +1.8 [-3.0,+6.5]
+bm25@2000 - rag@2000 [locomo]                 -1.7 [-4.3,+0.8]
+bm25@2000 - cortex,div=0,edges=0@2000 [lme]   -3.5 [-7.5,+0.5]
+bm25@2000 - cortex,div=0,edges=0@2000 [locomo] -4.9 [-7.1,-2.7]*
+bm25@2000~lme-dev - rag@2000~lme-dev [lme]    +5.0 [-4.0,+14.0]
+bm25@2000~lme-dev - cortex,div=0,edges=0@2000~lme-dev [lme] -2.0 [-10.0,+6.0]
+bm25@4000~lme-test - rag@4000 [lme]           -1.2 [-5.5,+3.0]
+bm25@4000~lme-test - cortex,div=0,edges=0@4000 [lme] -2.0 [-6.5,+2.5]
+cortex,div=0,edges=0,keep=0.3@2000~lme-test - rag@2000 [lme] -6.2 [-12.0,-0.8]*
+cortex,div=0,edges=0,keep=0.3@2000~lme-test - cortex,div=0,edges=0@2000 [lme] -11.5 [-16.8,-6.2]*
+cortex,div=0,edges=0,keep=0.5@2000~lme-test - rag@2000 [lme] -1.0 [-6.0,+3.8]
+cortex,div=0,edges=0,keep=0.5@2000~lme-test - cortex,div=0,edges=0@2000 [lme] -6.2 [-11.0,-1.5]*
+cortex,div=0,edges=0@1000 - rag@1000 [lme]    +7.8 [+3.0,+12.2]*
+cortex,div=0,edges=0@1000 - rag@1000 [locomo] +4.9 [+2.6,+7.3]*
+cortex,div=0,edges=0@2000 - rag@2000 [lme]    +5.2 [+0.8,+9.8]*
+cortex,div=0,edges=0@2000 - rag@2000 [locomo] +3.2 [+1.0,+5.4]*
+cortex,div=0,edges=0@2000~lme-dev - rag@2000~lme-dev [lme] +7.0 [-1.0,+15.0]
+cortex,div=0,edges=0@4000 - rag@4000 [lme]    +0.8 [-3.5,+5.0]
+cortex,div=0,edges=0@4000 - rag@4000 [locomo] +2.1 [-0.1,+4.2]
+cortex,div=0,keep=0.5@2000~lme-dev - rag@2000~lme-dev [lme] +3.0 [-6.0,+12.0]
+cortex,div=0,keep=0.5@2000~lme-dev - cortex,div=0,edges=0@2000~lme-dev [lme] -4.0 [-13.0,+5.0]
+cortex,div=0@2000~lme-dev - rag@2000~lme-dev [lme] +6.0 [-3.0,+15.0]
+cortex,div=0@2000~lme-dev - cortex,div=0,edges=0@2000~lme-dev [lme] -1.0 [-9.0,+8.0]
+cortex,div=0@2000~lme-test - rag@2000 [lme]   +2.2 [-2.0,+6.8]
+cortex,div=0@2000~lme-test - cortex,div=0,edges=0@2000 [lme] -3.0 [-7.2,+1.2]
+cortex@2000~lme-dev - rag@2000~lme-dev [lme]  -7.0 [-16.0,+2.0]
+cortex@2000~lme-dev - cortex,div=0,edges=0@2000~lme-dev [lme] -14.0 [-24.0,-4.0]*
+cortex@2000~lme-test - rag@2000 [lme]         -8.5 [-13.5,-3.5]*
+cortex@2000~lme-test - cortex,div=0,edges=0@2000 [lme] -13.8 [-18.5,-9.0]*
+rag@1000 - cortex,div=0,edges=0@1000 [lme]    -7.8 [-12.5,-3.2]*
+rag@1000 - cortex,div=0,edges=0@1000 [locomo] -4.9 [-7.3,-2.6]*
+rag@2000 - cortex,div=0,edges=0@2000 [lme]    -5.2 [-9.8,-0.8]*
+rag@2000 - cortex,div=0,edges=0@2000 [locomo] -3.2 [-5.4,-1.0]*
+rag@2000~lme-dev - cortex,div=0,edges=0@2000~lme-dev [lme] -7.0 [-15.0,+1.0]
+rag@4000 - cortex,div=0,edges=0@4000 [lme]    -0.8 [-5.0,+3.5]
+rag@4000 - cortex,div=0,edges=0@4000 [locomo] -2.1 [-4.2,+0.1]
+session@2000~lme-test - rag@2000 [lme]        -17.8 [-22.8,-13.0]*
+session@2000~lme-test - cortex,div=0,edges=0@2000 [lme] -23.0 [-28.0,-18.0]*

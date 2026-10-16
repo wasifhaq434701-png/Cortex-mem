@@ -1,0 +1,288 @@
+== stage 1: core @2K
+  gen exp4_cortex,div=0,edges=0@2000 16/1940  peak 12.8 GB
+  gen exp4_cortex,div=0,edges=0@2000 176/1940  peak 13.2 GB
+  gen exp4_cortex,div=0,edges=0@2000 336/1940  peak 13.2 GB
+  gen exp4_cortex,div=0,edges=0@2000 496/1940  peak 13.2 GB
+  gen exp4_cortex,div=0,edges=0@2000 656/1940  peak 13.2 GB
+  gen exp4_cortex,div=0,edges=0@2000 816/1940  peak 13.2 GB
+  gen exp4_cortex,div=0,edges=0@2000 976/1940  peak 13.2 GB
+  gen exp4_cortex,div=0,edges=0@2000 1136/1940  peak 13.2 GB
+  gen exp4_cortex,div=0,edges=0@2000 1296/1940  peak 13.2 GB
+  gen exp4_cortex,div=0,edges=0@2000 1456/1940  peak 13.2 GB
+  gen exp4_cortex,div=0,edges=0@2000 1616/1940  peak 13.2 GB
+  gen exp4_cortex,div=0,edges=0@2000 1776/1940  peak 13.2 GB
+  gen exp4_cortex,div=0,edges=0@2000 1936/1940  peak 13.2 GB
+cortex,div=0,edges=0@2000: 1940 answers, mean memory tokens 1997
+  gen exp4_rag@2000 16/1940  peak 12.9 GB
+  gen exp4_rag@2000 176/1940  peak 13.2 GB
+  gen exp4_rag@2000 336/1940  peak 13.2 GB
+  gen exp4_rag@2000 496/1940  peak 13.2 GB
+  gen exp4_rag@2000 656/1940  peak 13.2 GB
+  gen exp4_rag@2000 816/1940  peak 13.2 GB
+  gen exp4_rag@2000 976/1940  peak 13.2 GB
+  gen exp4_rag@2000 1136/1940  peak 13.2 GB
+  gen exp4_rag@2000 1296/1940  peak 13.2 GB
+  gen exp4_rag@2000 1456/1940  peak 13.2 GB
+  gen exp4_rag@2000 1616/1940  peak 13.2 GB
+  gen exp4_rag@2000 1776/1940  peak 13.2 GB
+  gen exp4_rag@2000 1936/1940  peak 13.2 GB
+rag@2000: 1940 answers, mean memory tokens 1996
+  gen exp4_bm25@2000 16/1940  peak 12.9 GB
+  gen exp4_bm25@2000 176/1940  peak 13.2 GB
+  gen exp4_bm25@2000 336/1940  peak 13.2 GB
+  gen exp4_bm25@2000 496/1940  peak 13.2 GB
+  gen exp4_bm25@2000 656/1940  peak 13.2 GB
+  gen exp4_bm25@2000 816/1940  peak 13.2 GB
+  gen exp4_bm25@2000 976/1940  peak 13.2 GB
+  gen exp4_bm25@2000 1136/1940  peak 13.2 GB
+  gen exp4_bm25@2000 1296/1940  peak 13.2 GB
+  gen exp4_bm25@2000 1456/1940  peak 13.2 GB
+  gen exp4_bm25@2000 1616/1940  peak 13.2 GB
+  gen exp4_bm25@2000 1776/1940  peak 13.2 GB
+  gen exp4_bm25@2000 1936/1940  peak 13.2 GB
+bm25@2000: 1940 answers, mean memory tokens 1997
+  gen exp4_judge_bm25@2000 32/1940  peak 19.3 GB
+  gen exp4_judge_bm25@2000 352/1940  peak 19.3 GB
+  gen exp4_judge_bm25@2000 672/1940  peak 19.3 GB
+  gen exp4_judge_bm25@2000 992/1940  peak 19.4 GB
+  gen exp4_judge_bm25@2000 1312/1940  peak 19.4 GB
+  gen exp4_judge_bm25@2000 1632/1940  peak 19.4 GB
+  gen exp4_judge_bm25@2000 1940/1940  peak 19.4 GB
+judged bm25@2000: 52.7%
+  gen exp4_judge_cortex,div=0,edges=0@2000 32/1940  peak 19.4 GB
+  gen exp4_judge_cortex,div=0,edges=0@2000 352/1940  peak 19.4 GB
+  gen exp4_judge_cortex,div=0,edges=0@2000 672/1940  peak 19.4 GB
+  gen exp4_judge_cortex,div=0,edges=0@2000 992/1940  peak 19.4 GB
+  gen exp4_judge_cortex,div=0,edges=0@2000 1312/1940  peak 19.4 GB
+  gen exp4_judge_cortex,div=0,edges=0@2000 1632/1940  peak 19.4 GB
+  gen exp4_judge_cortex,div=0,edges=0@2000 1940/1940  peak 19.4 GB
+judged cortex,div=0,edges=0@2000: 57.3%
+  gen exp4_judge_rag@2000 32/1940  peak 19.4 GB
+  gen exp4_judge_rag@2000 352/1940  peak 19.4 GB
+  gen exp4_judge_rag@2000 672/1940  peak 19.4 GB
+  gen exp4_judge_rag@2000 992/1940  peak 19.4 GB
+  gen exp4_judge_rag@2000 1312/1940  peak 19.4 GB
+  gen exp4_judge_rag@2000 1632/1940  peak 19.4 GB
+  gen exp4_judge_rag@2000 1940/1940  peak 19.4 GB
+judged rag@2000: 53.7%
+== stage 2: full context (LoCoMo) + oracle
+  full 100/1540
+  full 200/1540
+  full 300/1540
+  full 400/1540
+  full 500/1540
+  full 600/1540
+  full 700/1540
+  full 800/1540
+  full 900/1540
+  full 1000/1540
+  full 1100/1540
+  full 1200/1540
+  full 1300/1540
+  full 1400/1540
+  full 1500/1540
+full@0: 1540 answers, mean memory tokens 20814
+  gen exp4_oracle@32000 5/1940  peak 11.5 GB
+  gen exp4_oracle@32000 51/1940  peak 12.7 GB
+  gen exp4_oracle@32000 89/1940  peak 12.7 GB
+  gen exp4_oracle@32000 133/1940  peak 12.7 GB
+  gen exp4_oracle@32000 180/1940  peak 12.8 GB
+  gen exp4_oracle@32000 219/1940  peak 12.8 GB
+  gen exp4_oracle@32000 256/1940  peak 12.8 GB
+  gen exp4_oracle@32000 371/1940  peak 24.9 GB
+  gen exp4_oracle@32000 543/1940  peak 24.9 GB
+  gen exp4_oracle@32000 707/1940  peak 25.0 GB
+  gen exp4_oracle@32000 864/1940  peak 25.0 GB
+  gen exp4_oracle@32000 994/1940  peak 25.0 GB
+  gen exp4_oracle@32000 1121/1940  peak 25.8 GB
+  gen exp4_oracle@32000 1299/1940  peak 25.8 GB
+  gen exp4_oracle@32000 1413/1940  peak 25.8 GB
+  gen exp4_oracle@32000 1534/1940  peak 25.8 GB
+  gen exp4_oracle@32000 1691/1940  peak 25.8 GB
+  gen exp4_oracle@32000 1818/1940  peak 25.8 GB
+  gen exp4_oracle@32000 1859/1940  peak 25.8 GB
+  gen exp4_oracle@32000 1894/1940  peak 25.8 GB
+  gen exp4_oracle@32000 1922/1940  peak 25.8 GB
+oracle@32000: 1940 answers, mean memory tokens 2079
+  gen exp4_judge_full@0 32/1540  peak 19.2 GB
+  gen exp4_judge_full@0 352/1540  peak 19.2 GB
+  gen exp4_judge_full@0 672/1540  peak 19.3 GB
+  gen exp4_judge_full@0 992/1540  peak 19.3 GB
+  gen exp4_judge_full@0 1312/1540  peak 19.3 GB
+judged full@0: 54.5%
+  gen exp4_judge_oracle@32000 32/1940  peak 19.3 GB
+  gen exp4_judge_oracle@32000 352/1940  peak 19.4 GB
+  gen exp4_judge_oracle@32000 672/1940  peak 19.4 GB
+  gen exp4_judge_oracle@32000 992/1940  peak 19.4 GB
+  gen exp4_judge_oracle@32000 1312/1940  peak 19.4 GB
+  gen exp4_judge_oracle@32000 1632/1940  peak 19.4 GB
+  gen exp4_judge_oracle@32000 1940/1940  peak 19.4 GB
+judged oracle@32000: 68.1%
+== stage 3: surprise signal
+  152469/170144
+  160469/170144
+  167776/170144
+== stage 4: budget sweep
+  gen exp4_cortex,div=0,edges=0@1000 28/1940  peak 12.7 GB
+  gen exp4_cortex,div=0,edges=0@1000 314/1940  peak 13.1 GB
+  gen exp4_cortex,div=0,edges=0@1000 597/1940  peak 13.1 GB
+  gen exp4_cortex,div=0,edges=0@1000 877/1940  peak 13.1 GB
+  gen exp4_cortex,div=0,edges=0@1000 1157/1940  peak 13.1 GB
+  gen exp4_cortex,div=0,edges=0@1000 1437/1940  peak 13.1 GB
+  gen exp4_cortex,div=0,edges=0@1000 1717/1940  peak 13.1 GB
+cortex,div=0,edges=0@1000: 1940 answers, mean memory tokens 996
+  gen exp4_cortex,div=0,edges=0@4000 9/1940  peak 13.2 GB
+  gen exp4_cortex,div=0,edges=0@4000 99/1940  peak 13.5 GB
+  gen exp4_cortex,div=0,edges=0@4000 189/1940  peak 13.5 GB
+  gen exp4_cortex,div=0,edges=0@4000 279/1940  peak 13.5 GB
+  gen exp4_cortex,div=0,edges=0@4000 369/1940  peak 13.5 GB
+  gen exp4_cortex,div=0,edges=0@4000 459/1940  peak 13.5 GB
+  gen exp4_cortex,div=0,edges=0@4000 549/1940  peak 13.5 GB
+  gen exp4_cortex,div=0,edges=0@4000 638/1940  peak 13.5 GB
+  gen exp4_cortex,div=0,edges=0@4000 728/1940  peak 13.5 GB
+  gen exp4_cortex,div=0,edges=0@4000 818/1940  peak 13.5 GB
+  gen exp4_cortex,div=0,edges=0@4000 908/1940  peak 13.5 GB
+  gen exp4_cortex,div=0,edges=0@4000 998/1940  peak 13.5 GB
+  gen exp4_cortex,div=0,edges=0@4000 1088/1940  peak 13.5 GB
+  gen exp4_cortex,div=0,edges=0@4000 1178/1940  peak 13.5 GB
+  gen exp4_cortex,div=0,edges=0@4000 1268/1940  peak 13.5 GB
+  gen exp4_cortex,div=0,edges=0@4000 1358/1940  peak 13.5 GB
+  gen exp4_cortex,div=0,edges=0@4000 1448/1940  peak 13.5 GB
+  gen exp4_cortex,div=0,edges=0@4000 1538/1940  peak 13.5 GB
+  gen exp4_cortex,div=0,edges=0@4000 1628/1940  peak 13.5 GB
+  gen exp4_cortex,div=0,edges=0@4000 1718/1940  peak 13.5 GB
+  gen exp4_cortex,div=0,edges=0@4000 1808/1940  peak 13.5 GB
+  gen exp4_cortex,div=0,edges=0@4000 1898/1940  peak 13.5 GB
+cortex,div=0,edges=0@4000: 1940 answers, mean memory tokens 3997
+  gen exp4_rag@1000 28/1940  peak 12.7 GB
+  gen exp4_rag@1000 314/1940  peak 13.4 GB
+  gen exp4_rag@1000 597/1940  peak 13.4 GB
+  gen exp4_rag@1000 877/1940  peak 13.4 GB
+  gen exp4_rag@1000 1157/1940  peak 13.4 GB
+  gen exp4_rag@1000 1437/1940  peak 13.4 GB
+  gen exp4_rag@1000 1717/1940  peak 13.4 GB
+rag@1000: 1940 answers, mean memory tokens 996
+  gen exp4_rag@4000 9/1940  peak 13.4 GB
+  gen exp4_rag@4000 99/1940  peak 13.5 GB
+  gen exp4_rag@4000 188/1940  peak 13.5 GB
+  gen exp4_rag@4000 278/1940  peak 13.5 GB
+  gen exp4_rag@4000 368/1940  peak 13.5 GB
+  gen exp4_rag@4000 458/1940  peak 13.5 GB
+  gen exp4_rag@4000 548/1940  peak 13.5 GB
+  gen exp4_rag@4000 638/1940  peak 13.5 GB
+  gen exp4_rag@4000 728/1940  peak 13.5 GB
+  gen exp4_rag@4000 818/1940  peak 13.5 GB
+  gen exp4_rag@4000 908/1940  peak 13.5 GB
+  gen exp4_rag@4000 998/1940  peak 13.5 GB
+  gen exp4_rag@4000 1088/1940  peak 13.5 GB
+  gen exp4_rag@4000 1178/1940  peak 13.5 GB
+  gen exp4_rag@4000 1268/1940  peak 13.5 GB
+  gen exp4_rag@4000 1358/1940  peak 13.5 GB
+  gen exp4_rag@4000 1448/1940  peak 13.5 GB
+  gen exp4_rag@4000 1538/1940  peak 13.5 GB
+  gen exp4_rag@4000 1628/1940  peak 13.5 GB
+  gen exp4_rag@4000 1718/1940  peak 13.5 GB
+  gen exp4_rag@4000 1808/1940  peak 13.5 GB
+  gen exp4_rag@4000 1898/1940  peak 13.5 GB
+rag@4000: 1940 answers, mean memory tokens 3997
+  gen exp4_judge_cortex,div=0,edges=0@1000 32/1940  peak 19.3 GB
+  gen exp4_judge_cortex,div=0,edges=0@1000 352/1940  peak 19.3 GB
+  gen exp4_judge_cortex,div=0,edges=0@1000 672/1940  peak 19.3 GB
+  gen exp4_judge_cortex,div=0,edges=0@1000 992/1940  peak 19.3 GB
+  gen exp4_judge_cortex,div=0,edges=0@1000 1312/1940  peak 19.3 GB
+  gen exp4_judge_cortex,div=0,edges=0@1000 1632/1940  peak 19.3 GB
+  gen exp4_judge_cortex,div=0,edges=0@1000 1940/1940  peak 19.3 GB
+judged cortex,div=0,edges=0@1000: 53.9%
+  gen exp4_judge_cortex,div=0,edges=0@4000 32/1940  peak 19.3 GB
+  gen exp4_judge_cortex,div=0,edges=0@4000 352/1940  peak 19.4 GB
+  gen exp4_judge_cortex,div=0,edges=0@4000 672/1940  peak 19.4 GB
+  gen exp4_judge_cortex,div=0,edges=0@4000 992/1940  peak 19.4 GB
+  gen exp4_judge_cortex,div=0,edges=0@4000 1312/1940  peak 19.4 GB
+  gen exp4_judge_cortex,div=0,edges=0@4000 1632/1940  peak 19.4 GB
+  gen exp4_judge_cortex,div=0,edges=0@4000 1940/1940  peak 19.4 GB
+judged cortex,div=0,edges=0@4000: 58.4%
+  gen exp4_judge_rag@1000 32/1940  peak 19.4 GB
+  gen exp4_judge_rag@1000 352/1940  peak 19.4 GB
+  gen exp4_judge_rag@1000 672/1940  peak 19.4 GB
+  gen exp4_judge_rag@1000 992/1940  peak 19.4 GB
+  gen exp4_judge_rag@1000 1312/1940  peak 19.4 GB
+  gen exp4_judge_rag@1000 1632/1940  peak 19.4 GB
+  gen exp4_judge_rag@1000 1940/1940  peak 19.4 GB
+judged rag@1000: 48.4%
+  gen exp4_judge_rag@4000 32/1940  peak 19.4 GB
+  gen exp4_judge_rag@4000 352/1940  peak 19.4 GB
+  gen exp4_judge_rag@4000 672/1940  peak 19.4 GB
+  gen exp4_judge_rag@4000 992/1940  peak 19.4 GB
+  gen exp4_judge_rag@4000 1312/1940  peak 19.4 GB
+  gen exp4_judge_rag@4000 1632/1940  peak 19.4 GB
+  gen exp4_judge_rag@4000 1940/1940  peak 19.4 GB
+judged rag@4000: 56.5%
+== stage 5: ablations @2K
+== handoff: queue.sh stopped at stage 5, starting queue2.sh (LME test only)
+== stage 5: ablations @2K (LME test)
+  gen exp4_cortex@2000~lme-test 16/400  peak 12.8 GB
+  gen exp4_cortex@2000~lme-test 176/400  peak 13.2 GB
+  gen exp4_cortex@2000~lme-test 336/400  peak 13.2 GB
+cortex@2000~lme-test: 400 answers, mean memory tokens 1996
+  gen exp4_cortex,div=0@2000~lme-test 16/400  peak 12.9 GB
+  gen exp4_cortex,div=0@2000~lme-test 176/400  peak 13.2 GB
+  gen exp4_cortex,div=0@2000~lme-test 336/400  peak 13.2 GB
+cortex,div=0@2000~lme-test: 400 answers, mean memory tokens 1995
+  gen exp4_cortex,div=0,edges=0,keep=0.5@2000~lme-test 16/400  peak 12.8 GB
+  gen exp4_cortex,div=0,edges=0,keep=0.5@2000~lme-test 176/400  peak 13.2 GB
+  gen exp4_cortex,div=0,edges=0,keep=0.5@2000~lme-test 336/400  peak 13.2 GB
+cortex,div=0,edges=0,keep=0.5@2000~lme-test: 400 answers, mean memory tokens 1996
+  gen exp4_cortex,div=0,edges=0,keep=0.3@2000~lme-test 16/400  peak 12.9 GB
+  gen exp4_cortex,div=0,edges=0,keep=0.3@2000~lme-test 176/400  peak 13.2 GB
+  gen exp4_cortex,div=0,edges=0,keep=0.3@2000~lme-test 336/400  peak 13.2 GB
+cortex,div=0,edges=0,keep=0.3@2000~lme-test: 400 answers, mean memory tokens 1996
+  gen exp4_session@2000~lme-test 17/400  peak 13.5 GB
+  gen exp4_session@2000~lme-test 177/400  peak 13.5 GB
+  gen exp4_session@2000~lme-test 337/400  peak 13.5 GB
+session@2000~lme-test: 400 answers, mean memory tokens 1992
+  gen exp4_judge_cortex,div=0,edges=0,keep=0.3@2000~lme-test 32/400  peak 19.3 GB
+  gen exp4_judge_cortex,div=0,edges=0,keep=0.3@2000~lme-test 352/400  peak 19.4 GB
+judged cortex,div=0,edges=0,keep=0.3@2000~lme-test: 48.0%
+  gen exp4_judge_cortex,div=0,edges=0,keep=0.5@2000~lme-test 32/400  peak 19.4 GB
+  gen exp4_judge_cortex,div=0,edges=0,keep=0.5@2000~lme-test 352/400  peak 19.4 GB
+judged cortex,div=0,edges=0,keep=0.5@2000~lme-test: 53.2%
+  gen exp4_judge_cortex,div=0@2000~lme-test 32/400  peak 19.4 GB
+  gen exp4_judge_cortex,div=0@2000~lme-test 352/400  peak 19.4 GB
+judged cortex,div=0@2000~lme-test: 56.5%
+  gen exp4_judge_cortex@2000~lme-test 32/400  peak 19.4 GB
+  gen exp4_judge_cortex@2000~lme-test 352/400  peak 19.4 GB
+judged cortex@2000~lme-test: 45.8%
+  gen exp4_judge_session@2000~lme-test 32/400  peak 19.4 GB
+  gen exp4_judge_session@2000~lme-test 352/400  peak 19.4 GB
+judged session@2000~lme-test: 36.5%
+== stage 6: extras (LME test)
+  gen exp4_bm25@1000~lme-test 28/400  peak 12.7 GB
+  gen exp4_bm25@1000~lme-test 313/400  peak 13.1 GB
+bm25@1000~lme-test: 400 answers, mean memory tokens 995
+  gen exp4_bm25@4000~lme-test 9/400  peak 13.2 GB
+  gen exp4_bm25@4000~lme-test 99/400  peak 13.5 GB
+  gen exp4_bm25@4000~lme-test 189/400  peak 13.5 GB
+  gen exp4_bm25@4000~lme-test 279/400  peak 13.5 GB
+  gen exp4_bm25@4000~lme-test 369/400  peak 13.5 GB
+bm25@4000~lme-test: 400 answers, mean memory tokens 3996
+  gen exp4_cortex,div=0,edges=0@8000~lme-test 4/400  peak 11.0 GB
+  gen exp4_cortex,div=0,edges=0@8000~lme-test 44/400  peak 11.0 GB
+  gen exp4_cortex,div=0,edges=0@8000~lme-test 84/400  peak 11.3 GB
+  gen exp4_cortex,div=0,edges=0@8000~lme-test 124/400  peak 11.3 GB
+  gen exp4_cortex,div=0,edges=0@8000~lme-test 164/400  peak 11.3 GB
+  gen exp4_cortex,div=0,edges=0@8000~lme-test 204/400  peak 11.3 GB
+  gen exp4_cortex,div=0,edges=0@8000~lme-test 244/400  peak 11.3 GB
+  gen exp4_cortex,div=0,edges=0@8000~lme-test 284/400  peak 11.3 GB
+  gen exp4_cortex,div=0,edges=0@8000~lme-test 324/400  peak 11.3 GB
+  gen exp4_cortex,div=0,edges=0@8000~lme-test 364/400  peak 11.3 GB
+cortex,div=0,edges=0@8000~lme-test: 400 answers, mean memory tokens 7996
+  gen exp4_judge_bm25@1000~lme-test 32/400  peak 19.2 GB
+  gen exp4_judge_bm25@1000~lme-test 352/400  peak 19.3 GB
+judged bm25@1000~lme-test: 56.2%
+  gen exp4_judge_bm25@4000~lme-test 32/400  peak 19.4 GB
+  gen exp4_judge_bm25@4000~lme-test 352/400  peak 19.4 GB
+judged bm25@4000~lme-test: 55.0%
+  gen exp4_judge_cortex,div=0,edges=0@8000~lme-test 32/400  peak 19.4 GB
+  gen exp4_judge_cortex,div=0,edges=0@8000~lme-test 352/400  peak 19.4 GB
+judged cortex,div=0,edges=0@8000~lme-test: 54.0%
+== queue done

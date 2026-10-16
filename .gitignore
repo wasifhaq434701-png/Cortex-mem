@@ -29,8 +29,13 @@ adapters/
 # Private notes: kept on disk for Claude Code, never published
 CLAUDE.md
 ZENODO_UPLOAD.md
+OUTREACH.md
 
 # LaTeX build artifacts (report/report.pdf itself is committed)
 report/*.aux
 report/*.log
 report/*.out
+data/exp4/
+
+# Exp 4 generation resume caches (outputs are kept in results/exp4/*.json)
+results/exp3_gen/exp4_*

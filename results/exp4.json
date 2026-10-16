@@ -1,0 +1,635 @@
+{
+ "table": {
+  "bm25@1000~lme-test": {
+   "lme": 0.5625,
+   "lme_types": {
+    "knowledge-update": 0.8095238095238095,
+    "multi-session": 0.3113207547169811,
+    "single-session-assistant": 0.8444444444444444,
+    "single-session-preference": 0.4583333333333333,
+    "single-session-user": 0.7678571428571429,
+    "temporal-reasoning": 0.46226415094339623
+   },
+   "lme_mem_tok": 995.47,
+   "lme_kv_mb": 139.98796875,
+   "lme_recall": 0.7459424083769635
+  },
+  "bm25@2000": {
+   "lme": 0.56,
+   "lme_types": {
+    "knowledge-update": 0.746031746031746,
+    "multi-session": 0.330188679245283,
+    "single-session-assistant": 0.8,
+    "single-session-preference": 0.375,
+    "single-session-user": 0.8571428571428571,
+    "temporal-reasoning": 0.46226415094339623
+   },
+   "lme_mem_tok": 1995.94,
+   "lme_kv_mb": 280.6790625,
+   "lme_recall": 0.806282722513089,
+   "locomo": 0.5188311688311689,
+   "locomo_types": {
+    "multi-hop": 0.30851063829787234,
+    "open-domain": 0.3020833333333333,
+    "single-hop": 0.7158145065398336,
+    "temporal": 0.2523364485981308
+   },
+   "locomo_f1": 0.2690831667653673,
+   "locomo_mem_tok": 1996.844155844156,
+   "locomo_kv_mb": 280.8062094155844,
+   "locomo_recall": 0.6670513529144443
+  },
+  "bm25@2000~lme-dev": {
+   "lme": 0.58,
+   "lme_types": {
+    "knowledge-update": 0.5333333333333333,
+    "multi-session": 0.4444444444444444,
+    "single-session-assistant": 0.9090909090909091,
+    "single-session-preference": 0.5,
+    "single-session-user": 0.9285714285714286,
+    "temporal-reasoning": 0.4444444444444444
+   },
+   "lme_mem_tok": 1995.65,
+   "lme_kv_mb": 280.63828125000003,
+   "lme_recall": 0.8273195876288659
+  },
+  "bm25@4000~lme-test": {
+   "lme": 0.55,
+   "lme_types": {
+    "knowledge-update": 0.6984126984126984,
+    "multi-session": 0.330188679245283,
+    "single-session-assistant": 0.8888888888888888,
+    "single-session-preference": 0.5833333333333334,
+    "single-session-user": 0.8214285714285714,
+    "temporal-reasoning": 0.3867924528301887
+   },
+   "lme_mem_tok": 3996.4075,
+   "lme_kv_mb": 561.9948046874999,
+   "lme_recall": 0.8451570680628273
+  },
+  "cortex,div=0,edges=0,keep=0.3@2000~lme-test": {
+   "lme": 0.48,
+   "lme_types": {
+    "knowledge-update": 0.7301587301587301,
+    "multi-session": 0.3867924528301887,
+    "single-session-assistant": 0.2222222222222222,
+    "single-session-preference": 0.5416666666666666,
+    "single-session-user": 0.7142857142857143,
+    "temporal-reasoning": 0.39622641509433965
+   },
+   "lme_mem_tok": 1996.1325,
+   "lme_kv_mb": 280.7061328125,
+   "lme_recall": 0.7956806282722513
+  },
+  "cortex,div=0,edges=0,keep=0.5@2000~lme-test": {
+   "lme": 0.5325,
+   "lme_types": {
+    "knowledge-update": 0.746031746031746,
+    "multi-session": 0.41509433962264153,
+    "single-session-assistant": 0.4444444444444444,
+    "single-session-preference": 0.5,
+    "single-session-user": 0.8392857142857143,
+    "temporal-reasoning": 0.4056603773584906
+   },
+   "lme_mem_tok": 1995.7975,
+   "lme_kv_mb": 280.65902343749997,
+   "lme_recall": 0.8430628272251309
+  },
+  "cortex,div=0,edges=0@1000": {
+   "lme": 0.59,
+   "lme_types": {
+    "knowledge-update": 0.7936507936507936,
+    "multi-session": 0.3867924528301887,
+    "single-session-assistant": 0.8888888888888888,
+    "single-session-preference": 0.4166666666666667,
+    "single-session-user": 0.8392857142857143,
+    "temporal-reasoning": 0.4528301886792453
+   },
+   "lme_mem_tok": 994.68,
+   "lme_kv_mb": 139.87687499999998,
+   "lme_recall": 0.7482547993019196,
+   "locomo": 0.525974025974026,
+   "locomo_types": {
+    "multi-hop": 0.3120567375886525,
+    "open-domain": 0.3333333333333333,
+    "single-hop": 0.718192627824019,
+    "temporal": 0.26791277258566976
+   },
+   "locomo_f1": 0.28633516262066894,
+   "locomo_mem_tok": 996.6448051948051,
+   "locomo_kv_mb": 140.15317573051948,
+   "locomo_recall": 0.6708316323739726
+  },
+  "cortex,div=0,edges=0@2000": {
+   "lme": 0.595,
+   "lme_types": {
+    "knowledge-update": 0.7936507936507936,
+    "multi-session": 0.3490566037735849,
+    "single-session-assistant": 0.9333333333333333,
+    "single-session-preference": 0.7083333333333334,
+    "single-session-user": 0.8392857142857143,
+    "temporal-reasoning": 0.42452830188679247
+   },
+   "lme_mem_tok": 1995.3975,
+   "lme_kv_mb": 280.6027734375,
+   "lme_recall": 0.8507417102966841,
+   "locomo": 0.5675324675324676,
+   "locomo_types": {
+    "multi-hop": 0.36879432624113473,
+    "open-domain": 0.34375,
+    "single-hop": 0.7752675386444708,
+    "temporal": 0.26479750778816197
+   },
+   "locomo_f1": 0.29351555880391833,
+   "locomo_mem_tok": 1996.8941558441559,
+   "locomo_kv_mb": 280.81324066558443,
+   "locomo_recall": 0.7731219754083076
+  },
+  "cortex,div=0,edges=0@2000~lme-dev": {
+   "lme": 0.6,
+   "lme_types": {
+    "knowledge-update": 0.6666666666666666,
+    "multi-session": 0.37037037037037035,
+    "single-session-assistant": 1.0,
+    "single-session-preference": 0.8333333333333334,
+    "single-session-user": 0.7857142857142857,
+    "temporal-reasoning": 0.48148148148148145
+   },
+   "lme_mem_tok": 1995.17,
+   "lme_kv_mb": 280.57078125,
+   "lme_recall": 0.8458762886597938
+  },
+  "cortex,div=0,edges=0@4000": {
+   "lme": 0.57,
+   "lme_types": {
+    "knowledge-update": 0.6984126984126984,
+    "multi-session": 0.3867924528301887,
+    "single-session-assistant": 0.9111111111111111,
+    "single-session-preference": 0.5416666666666666,
+    "single-session-user": 0.75,
+    "temporal-reasoning": 0.44339622641509435
+   },
+   "lme_mem_tok": 3995.7625,
+   "lme_kv_mb": 561.9041015624999,
+   "lme_recall": 0.9033595113438044,
+   "locomo": 0.587012987012987,
+   "locomo_types": {
+    "multi-hop": 0.375886524822695,
+    "open-domain": 0.3541666666666667,
+    "single-hop": 0.8014268727705113,
+    "temporal": 0.2803738317757009
+   },
+   "locomo_f1": 0.29874848183392794,
+   "locomo_mem_tok": 3996.9045454545453,
+   "locomo_kv_mb": 562.0647017045454,
+   "locomo_recall": 0.8501521296142165
+  },
+  "cortex,div=0,edges=0@8000~lme-test": {
+   "lme": 0.54,
+   "lme_types": {
+    "knowledge-update": 0.746031746031746,
+    "multi-session": 0.3490566037735849,
+    "single-session-assistant": 0.8444444444444444,
+    "single-session-preference": 0.4166666666666667,
+    "single-session-user": 0.75,
+    "temporal-reasoning": 0.39622641509433965
+   },
+   "lme_mem_tok": 7996.31,
+   "lme_kv_mb": 1124.4810937500001,
+   "lme_recall": 0.9465095986038394
+  },
+  "cortex,div=0,keep=0.5@2000~lme-dev": {
+   "lme": 0.56,
+   "lme_types": {
+    "knowledge-update": 0.6666666666666666,
+    "multi-session": 0.3333333333333333,
+    "single-session-assistant": 0.9090909090909091,
+    "single-session-preference": 0.3333333333333333,
+    "single-session-user": 0.8571428571428571,
+    "temporal-reasoning": 0.48148148148148145
+   },
+   "lme_mem_tok": 1994.07,
+   "lme_kv_mb": 280.41609375,
+   "lme_recall": 0.8335051546391752
+  },
+  "cortex,div=0@2000~lme-dev": {
+   "lme": 0.59,
+   "lme_types": {
+    "knowledge-update": 0.6,
+    "multi-session": 0.3333333333333333,
+    "single-session-assistant": 1.0,
+    "single-session-preference": 0.5,
+    "single-session-user": 0.8571428571428571,
+    "temporal-reasoning": 0.5555555555555556
+   },
+   "lme_mem_tok": 1994.11,
+   "lme_kv_mb": 280.42171874999997,
+   "lme_recall": 0.8146048109965635
+  },
+  "cortex,div=0@2000~lme-test": {
+   "lme": 0.565,
+   "lme_types": {
+    "knowledge-update": 0.7142857142857143,
+    "multi-session": 0.41509433962264153,
+    "single-session-assistant": 0.8888888888888888,
+    "single-session-preference": 0.4583333333333333,
+    "single-session-user": 0.8214285714285714,
+    "temporal-reasoning": 0.37735849056603776
+   },
+   "lme_mem_tok": 1994.815,
+   "lme_kv_mb": 280.520859375,
+   "lme_recall": 0.8418411867364747
+  },
+  "cortex@2000~lme-dev": {
+   "lme": 0.46,
+   "lme_types": {
+    "knowledge-update": 0.4666666666666667,
+    "multi-session": 0.2222222222222222,
+    "single-session-assistant": 1.0,
+    "single-session-preference": 0.3333333333333333,
+    "single-session-user": 0.7142857142857143,
+    "temporal-reasoning": 0.37037037037037035
+   },
+   "lme_mem_tok": 1995.09,
+   "lme_kv_mb": 280.55953124999996,
+   "lme_recall": 0.6481099656357387
+  },
+  "cortex@2000~lme-test": {
+   "lme": 0.4575,
+   "lme_types": {
+    "knowledge-update": 0.5555555555555556,
+    "multi-session": 0.2358490566037736,
+    "single-session-assistant": 0.8222222222222222,
+    "single-session-preference": 0.4583333333333333,
+    "single-session-user": 0.7321428571428571,
+    "temporal-reasoning": 0.32075471698113206
+   },
+   "lme_mem_tok": 1995.625,
+   "lme_kv_mb": 280.634765625,
+   "lme_recall": 0.6743891797556719
+  },
+  "full@0": {
+   "locomo": 0.5448051948051948,
+   "locomo_types": {
+    "multi-hop": 0.37943262411347517,
+    "open-domain": 0.375,
+    "single-hop": 0.7324613555291319,
+    "temporal": 0.24922118380062305
+   },
+   "locomo_f1": 0.27720939959094165,
+   "locomo_mem_tok": 20814.000649350648,
+   "locomo_kv_mb": 2926.9688413149347,
+   "locomo_recall": 1.0
+  },
+  "oracle@32000": {
+   "lme": 0.6325,
+   "lme_types": {
+    "knowledge-update": 0.746031746031746,
+    "multi-session": 0.4716981132075472,
+    "single-session-assistant": 0.9111111111111111,
+    "single-session-preference": 0.5833333333333334,
+    "single-session-user": 0.8035714285714286,
+    "temporal-reasoning": 0.5283018867924528
+   },
+   "lme_mem_tok": 5775.8575,
+   "lme_kv_mb": 812.2299609375,
+   "lme_recall": 1.0,
+   "locomo": 0.6935064935064935,
+   "locomo_types": {
+    "multi-hop": 0.48936170212765956,
+    "open-domain": 0.40625,
+    "single-hop": 0.9143876337693222,
+    "temporal": 0.38006230529595014
+   },
+   "locomo_f1": 0.41662131638500927,
+   "locomo_mem_tok": 1118.172077922078,
+   "locomo_kv_mb": 157.2429484577922,
+   "locomo_recall": 1.0
+  },
+  "rag@1000": {
+   "lme": 0.5125,
+   "lme_types": {
+    "knowledge-update": 0.6507936507936508,
+    "multi-session": 0.330188679245283,
+    "single-session-assistant": 0.8444444444444444,
+    "single-session-preference": 0.5,
+    "single-session-user": 0.7857142857142857,
+    "temporal-reasoning": 0.330188679245283
+   },
+   "lme_mem_tok": 993.94,
+   "lme_kv_mb": 139.77281250000001,
+   "lme_recall": 0.6324607329842932,
+   "locomo": 0.4766233766233766,
+   "locomo_types": {
+    "multi-hop": 0.3262411347517731,
+    "open-domain": 0.34375,
+    "single-hop": 0.633769322235434,
+    "temporal": 0.2367601246105919
+   },
+   "locomo_f1": 0.2499911450341877,
+   "locomo_mem_tok": 996.6467532467533,
+   "locomo_kv_mb": 140.15344967532468,
+   "locomo_recall": 0.5730573056282761
+  },
+  "rag@2000": {
+   "lme": 0.5425,
+   "lme_types": {
+    "knowledge-update": 0.7619047619047619,
+    "multi-session": 0.3584905660377358,
+    "single-session-assistant": 0.8888888888888888,
+    "single-session-preference": 0.5,
+    "single-session-user": 0.75,
+    "temporal-reasoning": 0.3490566037735849
+   },
+   "lme_mem_tok": 1994.7375,
+   "lme_kv_mb": 280.5099609375,
+   "lme_recall": 0.7446335078534032,
+   "locomo": 0.5357142857142857,
+   "locomo_types": {
+    "multi-hop": 0.38652482269503546,
+    "open-domain": 0.375,
+    "single-hop": 0.7027348394768134,
+    "temporal": 0.2772585669781931
+   },
+   "locomo_f1": 0.2708981019834979,
+   "locomo_mem_tok": 1996.6714285714286,
+   "locomo_kv_mb": 280.78191964285713,
+   "locomo_recall": 0.6927293128598581
+  },
+  "rag@2000~lme-dev": {
+   "lme": 0.53,
+   "lme_types": {
+    "knowledge-update": 0.4666666666666667,
+    "multi-session": 0.3333333333333333,
+    "single-session-assistant": 1.0,
+    "single-session-preference": 0.8333333333333334,
+    "single-session-user": 0.7857142857142857,
+    "temporal-reasoning": 0.37037037037037035
+   },
+   "lme_mem_tok": 1994.84,
+   "lme_kv_mb": 280.52437499999996,
+   "lme_recall": 0.74553264604811
+  },
+  "rag@4000": {
+   "lme": 0.5625,
+   "lme_types": {
+    "knowledge-update": 0.7936507936507936,
+    "multi-session": 0.330188679245283,
+    "single-session-assistant": 0.9555555555555556,
+    "single-session-preference": 0.5833333333333334,
+    "single-session-user": 0.7678571428571429,
+    "temporal-reasoning": 0.37735849056603776
+   },
+   "lme_mem_tok": 3995.8725,
+   "lme_kv_mb": 561.9195703125,
+   "lme_recall": 0.8460296684118673,
+   "locomo": 0.5662337662337662,
+   "locomo_types": {
+    "multi-hop": 0.3829787234042553,
+    "open-domain": 0.3854166666666667,
+    "single-hop": 0.7693222354340071,
+    "temporal": 0.24922118380062305
+   },
+   "locomo_f1": 0.2816007545393198,
+   "locomo_mem_tok": 3996.853246753247,
+   "locomo_kv_mb": 562.0574878246754,
+   "locomo_recall": 0.809295337884854
+  },
+  "session@2000~lme-test": {
+   "lme": 0.365,
+   "lme_types": {
+    "knowledge-update": 0.38095238095238093,
+    "multi-session": 0.11320754716981132,
+    "single-session-assistant": 0.8888888888888888,
+    "single-session-preference": 0.4583333333333333,
+    "single-session-user": 0.7142857142857143,
+    "temporal-reasoning": 0.1792452830188679
+   },
+   "lme_mem_tok": 1992.4825,
+   "lme_kv_mb": 280.1928515625,
+   "lme_recall": 0.5615183246073299
+  }
+ },
+ "judge_check": {
+  "human vs judge": {
+   "n": 100,
+   "agreement": 0.89,
+   "kappa": 0.772914946325351,
+   "judge_minus_human": -0.06999999999999995
+  },
+  "claude vs judge": {
+   "n": 100,
+   "agreement": 0.93,
+   "kappa": 0.8589846897663176,
+   "judge_minus_claude": 0.030000000000000027
+  },
+  "human vs claude": {
+   "n": 100,
+   "agreement": 0.84,
+   "kappa": 0.6749288906948394,
+   "claude_minus_human": -0.09999999999999998
+  }
+ },
+ "paired_ci": {
+  "bm25@1000~lme-test - rag@1000 [lme]": [
+   0.05,
+   0.005,
+   0.0975
+  ],
+  "bm25@1000~lme-test - cortex,div=0,edges=0@1000 [lme]": [
+   -0.0275,
+   -0.07,
+   0.015
+  ],
+  "bm25@2000 - rag@2000 [lme]": [
+   0.0175,
+   -0.03,
+   0.065
+  ],
+  "bm25@2000 - rag@2000 [locomo]": [
+   -0.016883116883116882,
+   -0.04285714285714286,
+   0.008441558441558441
+  ],
+  "bm25@2000 - cortex,div=0,edges=0@2000 [lme]": [
+   -0.035,
+   -0.075,
+   0.005
+  ],
+  "bm25@2000 - cortex,div=0,edges=0@2000 [locomo]": [
+   -0.048701298701298704,
+   -0.07077922077922078,
+   -0.026623376623376622
+  ],
+  "bm25@2000~lme-dev - rag@2000~lme-dev [lme]": [
+   0.05,
+   -0.04,
+   0.14
+  ],
+  "bm25@2000~lme-dev - cortex,div=0,edges=0@2000~lme-dev [lme]": [
+   -0.02,
+   -0.1,
+   0.06
+  ],
+  "bm25@4000~lme-test - rag@4000 [lme]": [
+   -0.0125,
+   -0.055,
+   0.03
+  ],
+  "bm25@4000~lme-test - cortex,div=0,edges=0@4000 [lme]": [
+   -0.02,
+   -0.065,
+   0.025
+  ],
+  "cortex,div=0,edges=0,keep=0.3@2000~lme-test - rag@2000 [lme]": [
+   -0.0625,
+   -0.12,
+   -0.0075
+  ],
+  "cortex,div=0,edges=0,keep=0.3@2000~lme-test - cortex,div=0,edges=0@2000 [lme]": [
+   -0.115,
+   -0.1675,
+   -0.0625
+  ],
+  "cortex,div=0,edges=0,keep=0.5@2000~lme-test - rag@2000 [lme]": [
+   -0.01,
+   -0.06,
+   0.0375
+  ],
+  "cortex,div=0,edges=0,keep=0.5@2000~lme-test - cortex,div=0,edges=0@2000 [lme]": [
+   -0.0625,
+   -0.11,
+   -0.015
+  ],
+  "cortex,div=0,edges=0@1000 - rag@1000 [lme]": [
+   0.0775,
+   0.03,
+   0.1225
+  ],
+  "cortex,div=0,edges=0@1000 - rag@1000 [locomo]": [
+   0.04935064935064935,
+   0.025974025974025976,
+   0.07337662337662337
+  ],
+  "cortex,div=0,edges=0@2000 - rag@2000 [lme]": [
+   0.0525,
+   0.0075,
+   0.0975
+  ],
+  "cortex,div=0,edges=0@2000 - rag@2000 [locomo]": [
+   0.031818181818181815,
+   0.00974025974025974,
+   0.05389610389610389
+  ],
+  "cortex,div=0,edges=0@2000~lme-dev - rag@2000~lme-dev [lme]": [
+   0.07,
+   -0.01,
+   0.15
+  ],
+  "cortex,div=0,edges=0@4000 - rag@4000 [lme]": [
+   0.0075,
+   -0.035,
+   0.05
+  ],
+  "cortex,div=0,edges=0@4000 - rag@4000 [locomo]": [
+   0.02077922077922078,
+   -0.0006493506493506494,
+   0.04220779220779221
+  ],
+  "cortex,div=0,keep=0.5@2000~lme-dev - rag@2000~lme-dev [lme]": [
+   0.03,
+   -0.06,
+   0.12
+  ],
+  "cortex,div=0,keep=0.5@2000~lme-dev - cortex,div=0,edges=0@2000~lme-dev [lme]": [
+   -0.04,
+   -0.13,
+   0.05024999999999637
+  ],
+  "cortex,div=0@2000~lme-dev - rag@2000~lme-dev [lme]": [
+   0.06,
+   -0.03,
+   0.15
+  ],
+  "cortex,div=0@2000~lme-dev - cortex,div=0,edges=0@2000~lme-dev [lme]": [
+   -0.01,
+   -0.09,
+   0.08
+  ],
+  "cortex,div=0@2000~lme-test - rag@2000 [lme]": [
+   0.0225,
+   -0.02,
+   0.0675
+  ],
+  "cortex,div=0@2000~lme-test - cortex,div=0,edges=0@2000 [lme]": [
+   -0.03,
+   -0.0725,
+   0.0125
+  ],
+  "cortex@2000~lme-dev - rag@2000~lme-dev [lme]": [
+   -0.07,
+   -0.16,
+   0.02
+  ],
+  "cortex@2000~lme-dev - cortex,div=0,edges=0@2000~lme-dev [lme]": [
+   -0.14,
+   -0.24,
+   -0.04
+  ],
+  "cortex@2000~lme-test - rag@2000 [lme]": [
+   -0.085,
+   -0.135,
+   -0.035
+  ],
+  "cortex@2000~lme-test - cortex,div=0,edges=0@2000 [lme]": [
+   -0.1375,
+   -0.185,
+   -0.09
+  ],
+  "rag@1000 - cortex,div=0,edges=0@1000 [lme]": [
+   -0.0775,
+   -0.125,
+   -0.0325
+  ],
+  "rag@1000 - cortex,div=0,edges=0@1000 [locomo]": [
+   -0.04935064935064935,
+   -0.07337662337662337,
+   -0.025974025974025976
+  ],
+  "rag@2000 - cortex,div=0,edges=0@2000 [lme]": [
+   -0.0525,
+   -0.0975,
+   -0.0075
+  ],
+  "rag@2000 - cortex,div=0,edges=0@2000 [locomo]": [
+   -0.031818181818181815,
+   -0.05389610389610389,
+   -0.00974025974025974
+  ],
+  "rag@2000~lme-dev - cortex,div=0,edges=0@2000~lme-dev [lme]": [
+   -0.07,
+   -0.15,
+   0.01
+  ],
+  "rag@4000 - cortex,div=0,edges=0@4000 [lme]": [
+   -0.0075,
+   -0.05,
+   0.035
+  ],
+  "rag@4000 - cortex,div=0,edges=0@4000 [locomo]": [
+   -0.02077922077922078,
+   -0.04220779220779221,
+   0.0006493506493506494
+  ],
+  "session@2000~lme-test - rag@2000 [lme]": [
+   -0.1775,
+   -0.2275,
+   -0.13
+  ],
+  "session@2000~lme-test - cortex,div=0,edges=0@2000 [lme]": [
+   -0.23,
+   -0.28,
+   -0.18
+  ]
+ }
+}

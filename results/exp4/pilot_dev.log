@@ -1,0 +1,24 @@
+  gen exp4_rag@2000~lme-dev 16/100  peak 13.1 GB
+rag@2000~lme-dev: 100 answers, mean memory tokens 1995
+  gen exp4_bm25@2000~lme-dev 16/100  peak 12.9 GB
+bm25@2000~lme-dev: 100 answers, mean memory tokens 1996
+  gen exp4_cortex,div=0,edges=0@2000~lme-dev 16/100  peak 12.9 GB
+cortex,div=0,edges=0@2000~lme-dev: 100 answers, mean memory tokens 1995
+  gen exp4_cortex,div=0@2000~lme-dev 16/100  peak 12.9 GB
+cortex,div=0@2000~lme-dev: 100 answers, mean memory tokens 1994
+  gen exp4_cortex,div=0,keep=0.5@2000~lme-dev 16/100  peak 13.2 GB
+cortex,div=0,keep=0.5@2000~lme-dev: 100 answers, mean memory tokens 1994
+  gen exp4_cortex@2000~lme-dev 16/100  peak 12.9 GB
+cortex@2000~lme-dev: 100 answers, mean memory tokens 1995
+  gen exp4_judge_bm25@2000~lme-dev 32/100  peak 19.3 GB
+judged bm25@2000~lme-dev: 58.0%
+  gen exp4_judge_cortex,div=0,edges=0@2000~lme-dev 32/100  peak 19.4 GB
+judged cortex,div=0,edges=0@2000~lme-dev: 60.0%
+  gen exp4_judge_cortex,div=0,keep=0.5@2000~lme-dev 32/100  peak 19.4 GB
+judged cortex,div=0,keep=0.5@2000~lme-dev: 56.0%
+  gen exp4_judge_cortex,div=0@2000~lme-dev 32/100  peak 19.4 GB
+judged cortex,div=0@2000~lme-dev: 59.0%
+  gen exp4_judge_cortex@2000~lme-dev 32/100  peak 19.4 GB
+judged cortex@2000~lme-dev: 46.0%
+  gen exp4_judge_rag@2000~lme-dev 32/100  peak 19.5 GB
+judged rag@2000~lme-dev: 53.0%
